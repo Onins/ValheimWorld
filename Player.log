@@ -1,7 +1,7 @@
 Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
 Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001761D229930.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000017622E35040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001A41415C920.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001A419E23040.dll
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
 Initialize engine version: 2022.3.12f1 (4fe6e059c7ef)
 [Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
@@ -13,14 +13,14 @@ Direct3D:
     VRAM:     4047 MB
     Driver:   31.0.15.4601
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.092 seconds
+- Loaded All Assemblies, in  0.147 seconds
 - Finished resetting the current domain, in  0.001 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.635500 ms
+UnloadTime: 0.713300 ms
 [Message:   BepInEx] BepInEx 5.4.22.0 - valheim (12/11/2023 5:11:00 AM)
 [Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
 [Info   :   BepInEx] Running under Unity v2022.3.12.5236448
@@ -35,27 +35,27 @@ UnloadTime: 0.635500 ms
 [Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001768E987020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001A485CC0A00.dll
 [Message:   BepInEx] Chainloader started
 [Debug  :   BepInEx] Skipping loading C:\Users\johnf\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Project Valheim\BepInEx\plugins\CrazyPony-Clock\._ClockMod.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
 [Info   :   BepInEx] 125 plugins to load
 [Info   :   BepInEx] Loading [PlantEverything 1.16.1]
-[Info   :   BepInEx] Loading [Spyglass 3.0.1]
+[Info   :   BepInEx] Loading [Spyglass 3.1.0]
 [Info   :   BepInEx] Loading [Auto Feed 0.8.0]
 [Info   :   BepInEx] Loading [Clock Mod 1.6.0]
 [Info   :   BepInEx] Loading [Hotbar Switch 0.2.0]
 [Info   :   BepInEx] Loading [Notification Tweaks 0.5.0]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000176688E4180.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000176688E2160.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001A45F8B2120.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001A45F8B0100.dll
 [Info   :   BepInEx] Loading [Show Container Contents 0.4.0]
 [Info   :   BepInEx] Loading [LocalizationCache 0.2.0]
 [Info   :   BepInEx] Loading [Configuration Manager 18.0.1]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.5.18]
-12/15/2023 16:19:50: Loaded localization file #0 - 'localization' language: 'English'
-12/15/2023 16:19:50: Loaded localization file #1 - 'localization_extra' language: 'English'
-12/15/2023 16:19:50: Loaded localization file #2 - 'heightmap_message' language: 'English'
-12/15/2023 16:19:50: Loaded localization file #3 - 'localization_hildir' language: 'English'
-12/15/2023 16:19:50: Loaded localization file #4 - 'localization_emotes' language: 'English'
+12/15/2023 16:44:52: Loaded localization file #0 - 'localization' language: 'English'
+12/15/2023 16:44:52: Loaded localization file #1 - 'localization_extra' language: 'English'
+12/15/2023 16:44:52: Loaded localization file #2 - 'heightmap_message' language: 'English'
+12/15/2023 16:44:52: Loaded localization file #3 - 'localization_hildir' language: 'English'
+12/15/2023 16:44:52: Loaded localization file #4 - 'localization_emotes' language: 'English'
 [Info   :   BepInEx] Loading [Spawn That! 1.2.8]
 [Info   :   BepInEx] Loading [Custom Raids 1.7.10]
 [Info   :   BepInEx] Loading [Jotunn 2.15.2]
@@ -111,8 +111,8 @@ Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/c
 [Info   :   BepInEx] Loading [Crawler 0.0.7]
 Loading Nasty Crawler
 [Info   :   BepInEx] Loading [Better Networking 2.3.2]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000017776D20F50.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000017776CDB010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001A56EDD60C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001A5B4F2B890.dll
 [Info   :   BepInEx] Loading [Legendary Weapons 1.0.2]
 [Info   :   BepInEx] Loading [ServerSideMap 1.3.10.0]
 [Info   :   BepInEx] Loading [FurtherUpgrades 1.1.1]
@@ -132,7 +132,7 @@ Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [kg.NoMoreCrashes 1.5.0]
 [Info   :   BepInEx] Loading [TameableCollector 1.0.0]
 [Info   :   BepInEx] Loading [Valheim Enchantment System 1.6.3]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000017500C5AA40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001A36DB5BC90.dll
 [Info   :   BepInEx] Loading [Less ZDO Corruption 1.0.1]
 [Info   :   BepInEx] Loading [ValheimArmory 1.6.2]
 [Info   :   BepInEx] Loading [BetterUI 2.5.4]
@@ -180,7 +180,7 @@ SlayerSkills: Awake
 [Info   :   BepInEx] Loading [RtDItems 0.0.3]
 [Info   :   BepInEx] Loading [RtDMonsters 1.2.3]
 [Info   :   BepInEx] Loading [Soulcatcher 4.5.4]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000017865C5F2C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001A6D069FEE0.dll
 [Info   :   BepInEx] Loading [SouthsilArmor 3.0.4]
 [Info   :   BepInEx] Loading [BiomeLords 2.0.10]
 [Info   :   BepInEx] Loading [NoSmokeSimplified 1.0.7]
@@ -195,7 +195,7 @@ Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/c
 [Info   :   BepInEx] Loading [Wizard 0.0.7]
 Loading Wizard
 [Info   :   BepInEx] Loading [Comfort Tweaks 3.2.10]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000017ACB183910.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001A929701D10.dll
 [Info   :   BepInEx] Loading [Snap Points Made Easy 1.3.3]
 Loaded settings!
 EnableModKey: F4
@@ -207,189 +207,67 @@ Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polyg
 [Message:   BepInEx] Chainloader startup complete
 Looking for transpiler match
 Found Transpiler Patch
-[Info   :StartupAccelerator] Batch-patched 716 methods after Chainloader end in 5050 ms
-12/15/2023 16:22:20: Fetching PlatformPrefs 'GuiScale' before loading defaults
-12/15/2023 16:22:20: Fetching PlatformPrefs 'GuiScale' before loading defaults
+[Info   :StartupAccelerator] Batch-patched 717 methods after Chainloader end in 5278 ms
+12/15/2023 16:47:24: Fetching PlatformPrefs 'GuiScale' before loading defaults
+12/15/2023 16:47:24: Fetching PlatformPrefs 'GuiScale' before loading defaults
 Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
 Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
 Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
-12/15/2023 16:22:21: Starting to load scene:start
+12/15/2023 16:47:25: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-12/15/2023 16:22:24: Using environment steamid 892970
-12/15/2023 16:22:24: Using steam APPID:892970
+12/15/2023 16:47:28: Using environment steamid 892970
+12/15/2023 16:47:28: Using steam APPID:892970
 Unloading 6 Unused Serialized files (Serialized files now loaded: 146)
-12/15/2023 16:22:25: Authentication:k_ESteamNetworkingAvailability_Attempting
+12/15/2023 16:47:29: Authentication:k_ESteamNetworkingAvailability_Attempting
 [Debug  :   BepInEx] [UnityInput] Using LegacyInputSystem
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
-UnloadTime: 28.887400 ms
+UnloadTime: 65.370900 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-12/15/2023 16:22:33: Steam initialized, persona:Ana na may L
-12/15/2023 16:22:33: PlayFab custom ID set to "Steam_76561198287391004"
-12/15/2023 16:22:33: Using default prefs
-12/15/2023 16:22:33: Valheim version: 0.217.38-ServerCharacters (network version 20)
+12/15/2023 16:47:37: Steam initialized, persona:Ana na may L
+12/15/2023 16:47:37: PlayFab custom ID set to "Steam_76561198287391004"
+12/15/2023 16:47:37: Using default prefs
+12/15/2023 16:47:37: Valheim version: 0.217.38-ServerCharacters (network version 20)
 Trying to set graphic mode to 'Custom'
 Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
 Graphic mode 'Custom' applied!
-12/15/2023 16:22:33: Worldgenerator version setup:2
-12/15/2023 16:22:33: Render threading mode:MultiThreaded
-12/15/2023 16:22:33: Set button "CamZoomIn" to None!
-12/15/2023 16:22:33: Set button "CamZoomOut" to None!
-12/15/2023 16:22:33: Set button "CamZoomIn" to None!
-12/15/2023 16:22:33: Set button "CamZoomOut" to None!
-[Info   :StartupAccelerator] Batch-patched 36 methods after FejdStartup.Awake in 194 ms
-12/15/2023 16:22:35: Missing audio clip in music respawn
-12/15/2023 16:22:35: Checking for installed DLCs
-12/15/2023 16:22:35: DLC:beta installed:False
-12/15/2023 16:22:35: Builder started
+12/15/2023 16:47:37: Worldgenerator version setup:2
+12/15/2023 16:47:38: Render threading mode:MultiThreaded
+12/15/2023 16:47:38: Set button "CamZoomIn" to None!
+12/15/2023 16:47:38: Set button "CamZoomOut" to None!
+12/15/2023 16:47:38: Set button "CamZoomIn" to None!
+12/15/2023 16:47:38: Set button "CamZoomOut" to None!
+[Info   :StartupAccelerator] Batch-patched 36 methods after FejdStartup.Awake in 198 ms
+12/15/2023 16:47:39: Missing audio clip in music respawn
+12/15/2023 16:47:39: Checking for installed DLCs
+12/15/2023 16:47:39: DLC:beta installed:False
+12/15/2023 16:47:39: Builder started
 ObjectDB_Awake_Patch ran
 [Warning:DragoonCapes] Mod Statuses Enabled: True
 ObjectDB_CopyOtherDB_Patch ran
 [RecipeHandler] Added recipe: Recipe_RuneFocus
-12/15/2023 16:22:39: Sending PlayFab login request (attempt 1)
-12/15/2023 16:22:40: Starting music menu
-12/15/2023 16:22:40: PlayFab logged in as "Steam_76561198287391004"
-12/15/2023 16:22:40: PlayFab local entity ID is 70233478553F7572
-Unloading 3502 unused Assets to reduce memory usage. Loaded Objects now: 599127.
-Total: 568.489500 ms (FindLiveObjects: 106.228900 ms CreateObjectMapping: 74.301200 ms MarkObjects: 337.842800 ms  DeleteObjects: 50.116300 ms)
+12/15/2023 16:47:42: Sending PlayFab login request (attempt 1)
+12/15/2023 16:47:44: Starting music menu
+12/15/2023 16:47:44: PlayFab logged in as "Steam_76561198287391004"
+12/15/2023 16:47:44: PlayFab local entity ID is 70233478553F7572
+Unloading 3502 unused Assets to reduce memory usage. Loaded Objects now: 599049.
+Total: 596.336200 ms (FindLiveObjects: 127.433600 ms CreateObjectMapping: 52.638000 ms MarkObjects: 357.784400 ms  DeleteObjects: 58.479700 ms)
 
-12/15/2023 16:23:15: show character selection
-12/15/2023 16:23:18: Vis equip model set to 1
-12/15/2023 16:23:18: Vis equip model set to 1
-12/15/2023 16:23:19: Vis equip model set to 1
-12/15/2023 16:23:19: Vis equip model set to 1
-12/15/2023 16:23:21: Vis equip model set to 1
-12/15/2023 16:23:21: Vis equip model set to 1
-12/15/2023 16:23:25: Vis equip model set to 1
-12/15/2023 16:23:25: Vis equip model set to 1
-12/15/2023 16:23:26: Vis equip model set to 1
-12/15/2023 16:23:26: Vis equip model set to 1
-12/15/2023 16:23:26: Vis equip model set to 1
-12/15/2023 16:23:26: Vis equip model set to 1
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-12/15/2023 16:23:30: Vis equip model set to 1
-12/15/2023 16:23:30: Vis equip model set to 1
-12/15/2023 16:23:31: Vis equip model set to 1
-12/15/2023 16:23:31: Vis equip model set to 1
-12/15/2023 16:23:32: Vis equip model set to 1
-12/15/2023 16:23:32: Vis equip model set to 1
-12/15/2023 16:23:42: Remove character
-12/15/2023 16:23:43: Vis equip model set to 1
-12/15/2023 16:23:43: Vis equip model set to 1
-12/15/2023 16:23:47: Remove character
-12/15/2023 16:23:47: Vis equip model set to 1
-12/15/2023 16:23:47: Vis equip model set to 1
-12/15/2023 16:23:48: Vis equip model set to 1
-12/15/2023 16:23:48: Vis equip model set to 1
-12/15/2023 16:23:58: Remove character
-12/15/2023 16:23:58: Vis equip model set to 1
-12/15/2023 16:23:58: Vis equip model set to 1
-12/15/2023 16:24:00: Vis equip model set to 1
-12/15/2023 16:24:00: Vis equip model set to 1
-12/15/2023 16:24:00: Vis equip model set to 1
-12/15/2023 16:24:00: Vis equip model set to 1
-12/15/2023 16:24:00: Vis equip model set to 1
-12/15/2023 16:24:00: Vis equip model set to 1
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-12/15/2023 16:24:05: Vis equip model set to 1
-12/15/2023 16:24:05: Vis equip model set to 1
-12/15/2023 16:24:06: Vis equip model set to 1
-12/15/2023 16:24:06: Vis equip model set to 1
-12/15/2023 16:24:07: Vis equip model set to 1
-12/15/2023 16:24:07: Vis equip model set to 1
-12/15/2023 16:24:08: Vis equip model set to 1
-12/15/2023 16:24:08: Vis equip model set to 1
-12/15/2023 16:24:14: Remove character
-12/15/2023 16:24:14: Vis equip model set to 1
-12/15/2023 16:24:14: Vis equip model set to 1
-12/15/2023 16:24:26: Cloud Save: 791 bytes. /characters/sir beer.fch.new
-12/15/2023 16:24:26: Steam writing file chunks 1 / 1, (791 bytes)
-12/15/2023 16:24:26: Steam Cloud Move: 791 bytes. /characters/sir beer.fch.new -> /characters/sir beer.fch
-12/15/2023 16:24:26: Steam writing file chunks 1 / 1, (791 bytes)
-12/15/2023 16:24:26: Considering autobackup. World time: 0, short time: 7200, long time: 43200, backup count: 2
-12/15/2023 16:24:26: Creating second autobackup for reference
-12/15/2023 16:24:26: Saving backup at: sir beer_backup_auto-20231215162426
-12/15/2023 16:24:26: Cloud Copy: 791 bytes. characters/sir beer.fch -> characters/sir beer_backup_auto-20231215162426.fch
-12/15/2023 16:24:26: Steam writing file chunks 1 / 1, (791 bytes)
-12/15/2023 16:24:30: OnCharacterStart
-12/15/2023 16:24:35: show character selection
-12/15/2023 16:24:42: show character selection
-12/15/2023 16:24:46: OnCharacterStart
-12/15/2023 16:25:35: Loading main scene
+12/15/2023 16:47:51: show character selection
+12/15/2023 16:47:53: OnCharacterStart
+12/15/2023 16:48:03: Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 146)
-UnloadTime: 18.776400 ms
-12/15/2023 16:25:36: Steam initialized, persona:Ana na may L
-12/15/2023 16:25:36: PlayFab custom ID set to "Steam_76561198287391004"
-12/15/2023 16:25:36: Using default prefs
-12/15/2023 16:25:36: Loading player profile sir beer
-12/15/2023 16:25:36: isModded: True
-12/15/2023 16:25:36: Zonesystem Awake 9268
-12/15/2023 16:25:36: DungeonDB Awake 9268
-12/15/2023 16:25:36: Steam initialized, persona:Ana na may L
-12/15/2023 16:25:36: Registering lobby
-12/15/2023 16:25:36: Worldgenerator version setup:2
+UnloadTime: 18.176000 ms
+12/15/2023 16:48:04: Steam initialized, persona:Ana na may L
+12/15/2023 16:48:04: PlayFab custom ID set to "Steam_76561198287391004"
+12/15/2023 16:48:04: Using default prefs
+12/15/2023 16:48:04: Loading player profile sir beer
+12/15/2023 16:48:04: isModded: True
+12/15/2023 16:48:04: Zonesystem Awake 1181
+12/15/2023 16:48:04: DungeonDB Awake 1181
+12/15/2023 16:48:04: Steam initialized, persona:Ana na may L
+12/15/2023 16:48:04: Registering lobby
+12/15/2023 16:48:04: Worldgenerator version setup:2
 Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
 Registered 'advize.Spyglass ConfigSync' RPC - waiting for incoming connections
 Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
@@ -620,19 +498,19 @@ The drop target character '' does not exist.
 The drop target character '' does not exist.
 [Warning:Horemvores Assembly] Exception caught while fixing custom audio: System.NullReferenceException: Object reference not set to an instance of an object
   at HoremvoreAssembly.HoremvoreAssemblyBundle.FixSFX () [0x00026] in <5ad2ff802c5e451db306ae5348aab662>:0 
-12/15/2023 16:25:47: Audioman already exist, destroying self
-12/15/2023 16:25:47: Checking for installed DLCs
-12/15/2023 16:25:47: DLC:beta installed:False
+12/15/2023 16:48:15: Audioman already exist, destroying self
+12/15/2023 16:48:15: Checking for installed DLCs
+12/15/2023 16:48:15: DLC:beta installed:False
 ObjectDB_Awake_Patch ran
 [RecipeHandler] Added recipe: Recipe_RuneFocus
-Unloading 5201 unused Assets to reduce memory usage. Loaded Objects now: 633227.
-Total: 326.802900 ms (FindLiveObjects: 37.707500 ms CreateObjectMapping: 53.397000 ms MarkObjects: 187.539500 ms  DeleteObjects: 48.158700 ms)
+Unloading 5076 unused Assets to reduce memory usage. Loaded Objects now: 633132.
+Total: 332.699700 ms (FindLiveObjects: 34.055000 ms CreateObjectMapping: 52.949900 ms MarkObjects: 195.099700 ms  DeleteObjects: 50.594700 ms)
 
-12/15/2023 16:25:53: Zonesystem Start 9268
-12/15/2023 16:25:56: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
-12/15/2023 16:25:56: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
-12/15/2023 16:25:56: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
-12/15/2023 16:25:56: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+12/15/2023 16:48:23: Zonesystem Start 1181
+12/15/2023 16:48:26: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+12/15/2023 16:48:26: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+12/15/2023 16:48:26: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+12/15/2023 16:48:26: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
 ZoneSystem_Start_Patch ran
 Skipping BossStone_StormHerald_TW
 Skipping BossStone_Sythrak_TW
@@ -650,20 +528,20 @@ Skipping BossStone_Yagluth
 Skipping BossStone_TheElder
 Skipping BossStone_Eikthyr
 Cached water surface vertex order
-12/15/2023 16:25:58: DungeonDB Start 9268
-12/15/2023 16:25:59: ZRpc timeout set to 30s 
-12/15/2023 16:25:59: ZNET START
-12/15/2023 16:25:59: Load world: Valhalla (Valhalla)
-12/15/2023 16:25:59: Loading 506456 zdos, my sessionID: 744700523, data version: 33
-12/15/2023 16:25:59: Creating ZDOs
-12/15/2023 16:25:59: Loading in ZDOs
-12/15/2023 16:26:00: Adding to Dictionary
-12/15/2023 16:26:00: Adding to Sectors
-12/15/2023 16:26:00: Connecting Portals, Spawners & ZSyncTransforms
+12/15/2023 16:48:28: DungeonDB Start 1181
+12/15/2023 16:48:29: ZRpc timeout set to 30s 
+12/15/2023 16:48:29: ZNET START
+12/15/2023 16:48:29: Load world: Valhalla (Valhalla)
+12/15/2023 16:48:29: Loading 506464 zdos, my sessionID: 353265686, data version: 33
+12/15/2023 16:48:29: Creating ZDOs
+12/15/2023 16:48:29: Loading in ZDOs
+12/15/2023 16:48:30: Adding to Dictionary
+12/15/2023 16:48:30: Adding to Sectors
+12/15/2023 16:48:30: Connecting Portals, Spawners & ZSyncTransforms
 ConnectPortals => Connected 4 portals.
 ConnectSpawners => Connected 311 spawners and 646 'done' spawners.
-12/15/2023 16:26:00: Loaded 11230 locations
-12/15/2023 16:26:00: Unloading unused assets
+12/15/2023 16:48:30: Loaded 11230 locations
+12/15/2023 16:48:30: Unloading unused assets
 Unloading 12 Unused Serialized files (Serialized files now loaded: 144)
 To many renderers to create Visual Effects:GoblinBruteBros
 To many renderers to create Visual Effects:GoblinBruteBros_nochest
@@ -717,87 +595,48 @@ To many renderers to create Visual Effects:ElfHunterF_RtD
 To many renderers to create Visual Effects:ElfPriestM_RtD
 To many renderers to create Visual Effects:ElfWarriorF_RtD
 To many renderers to create Visual Effects:ElfWarriorM_RtD
-12/15/2023 16:26:01: Starting respawn
-12/15/2023 16:26:01: Lobby was created k_EResultOK  109775243294208121  error:False
-12/15/2023 16:26:01: Got requested lobby data
-12/15/2023 16:26:08: tip:$loadscreen_tip14
-Unloading 4380 unused Assets to reduce memory usage. Loaded Objects now: 2240310.
-Total: 752.747600 ms (FindLiveObjects: 221.691100 ms CreateObjectMapping: 85.301000 ms MarkObjects: 384.622600 ms  DeleteObjects: 61.132600 ms)
+12/15/2023 16:48:31: Starting respawn
+12/15/2023 16:48:31: Lobby was created k_EResultOK  109775243295931369  error:False
+12/15/2023 16:48:31: Got requested lobby data
+12/15/2023 16:48:38: Unpacking compressed mapdata 13296
+12/15/2023 16:48:38: tip:$loadscreen_tip13
+Unloading 4380 unused Assets to reduce memory usage. Loaded Objects now: 2240215.
+Total: 867.722000 ms (FindLiveObjects: 261.026500 ms CreateObjectMapping: 90.370200 ms MarkObjects: 439.625500 ms  DeleteObjects: 76.699300 ms)
 
-12/15/2023 16:26:08: Got requested lobby data
+12/15/2023 16:48:39: Got requested lobby data
 [Warning:  HarmonyX] AccessTools.TypeByName: Could not find type named DrawerContainer, itemdrawers
-12/15/2023 16:26:13: Force generating hmap (-128.00, 0.00, -128.00)
-12/15/2023 16:26:13: Done fading color
-12/15/2023 16:26:13: Done fading color
-12/15/2023 16:26:14: Setting saddle:False
-12/15/2023 16:26:15: Missing stat for guardian power: 
+12/15/2023 16:48:45: Done fading color
+12/15/2023 16:48:45: Done fading color
+12/15/2023 16:48:49: Spawned after 8.019994
 Caching server config
 Sending server config to 0 clients
 Caching server config
 Sending server config to 0 clients
 Caching server config
 Sending server config to 0 clients
-12/15/2023 16:26:15: Setting up valkyrie 
-12/15/2023 16:26:15: Show intro 9583
-12/15/2023 16:26:15: Show text YOU DIED:Long ago, the Allfather Odin united the worlds. He threw down his foes and cast them into the tenth world, then split the boughs which held their prison to the World-Tree, and left it to drift unanchored, a place of exile…
-
-
-
-For centuries, this world slumbered uneasily. But it did not die... As glacial ages passed, kingdoms rose and fell out of sight of the Gods.
-
-
-
-When Odin heard his enemies were growing once again in strength, he looked to Midgard and sent his Valkyries to scour the battlefields for the greatest of their warriors. Dead to the world, they would be born again…
-
-
-
-…in VALHEIM!
-12/15/2023 16:26:15: World pos (459.52, 190.00, 420.54)   (459.79, 189.44, 420.43)
-12/15/2023 16:26:15: Skipping unloading unused assets
-12/15/2023 16:26:15: Starting music intro
-12/15/2023 16:26:15: Minimap: Adding unique location (-62.12, 34.24, -186.00)
-12/15/2023 16:26:15: Minimap: Adding unique location (2547.60, 52.82, -1294.83)
-12/15/2023 16:26:15: Minimap: Adding unique location (1782.05, 43.67, -1851.11)
-12/15/2023 16:26:19: Loading dungeon
-12/15/2023 16:26:19: Dungeon loaded with 11 rooms in 62.8608 ms.
-12/15/2023 16:26:19: Force generating hmap (320.00, 0.00, 448.00)
-12/15/2023 16:26:20: Loading dungeon
-12/15/2023 16:26:20: Dungeon loaded with 11 rooms in 53.2929 ms.
-12/15/2023 16:26:20: Loading dungeon
-12/15/2023 16:26:20: Dungeon loaded with 24 rooms in 14.758 ms.
-12/15/2023 16:26:20: Loading dungeon
-12/15/2023 16:26:20: Dungeon loaded with 36 rooms in 23.0244 ms.
-12/15/2023 16:26:20: Loading dungeon
-12/15/2023 16:26:20: Dungeon loaded with 26 rooms in 17.0269 ms.
-12/15/2023 16:26:20: Setting saddle:False
-12/15/2023 16:26:21: Setting saddle:False
-12/15/2023 16:26:21: Setting saddle:False
-12/15/2023 16:26:27: Setting saddle:False
-12/15/2023 16:26:28: Setting saddle:False
-12/15/2023 16:27:11: Setting saddle:False
-12/15/2023 16:27:25: Setting saddle:False
-12/15/2023 16:27:27: Starting descent
-12/15/2023 16:27:41: Done fading color
-12/15/2023 16:27:41: Done fading color
-12/15/2023 16:27:45: Setting saddle:False
-12/15/2023 16:27:47: We are here
-12/15/2023 16:27:47: We are here
-12/15/2023 16:27:52: Starting music meadows
-12/15/2023 16:27:52: Resumed music meadows at 0
-12/15/2023 16:27:56: Destroying valkyrie
-12/15/2023 16:29:40: Update PlayFab entity token
-12/15/2023 16:35:36: Uncompressed size 8388617
-12/15/2023 16:35:36: Compressed size 8378
-12/15/2023 16:35:36: Considering autobackup. World time: 564.14, short time: 7200, long time: 43200, backup count: 4
-12/15/2023 16:35:36: Skipping backup. World session not long enough.
-12/15/2023 16:35:36: Sending message to save player profiles
-12/15/2023 16:35:36: PrepareSave: clone done in 100ms
-12/15/2023 16:35:36: PrepareSave: ZDOExtraData.PrepareSave done in 72 ms
-12/15/2023 16:35:36: World save writing starting
-12/15/2023 16:35:36: World save writing started
-12/15/2023 16:35:38: Saved 506452 ZDOs
-12/15/2023 16:35:38: World save writing finishing
-12/15/2023 16:35:38: World save writing finished
-12/15/2023 16:35:38: World saved ( 2082.2438ms )
-12/15/2023 16:35:38: Considering autobackup. World time: 566.42, short time: 7200, long time: 43200, backup count: 4
-12/15/2023 16:35:38: Skipping backup. World session not long enough.
+12/15/2023 16:48:49: Skipping unloading unused assets
+12/15/2023 16:48:49: Minimap: Adding unique location (-62.12, 34.24, -186.00)
+12/15/2023 16:48:49: Minimap: Adding unique location (2547.60, 52.82, -1294.83)
+12/15/2023 16:48:49: Minimap: Adding unique location (1782.05, 43.67, -1851.11)
+12/15/2023 16:48:51: Starting music meadows
+12/15/2023 16:48:51: Resumed music meadows at 0
+12/15/2023 16:49:51: Setting saddle:False
+12/15/2023 16:49:51: Spawned rae_OdinHorse x 1
+12/15/2023 16:50:04: Uncompressed size 8389458
+12/15/2023 16:50:04: Compressed size 13300
+12/15/2023 16:50:04: Considering autobackup. World time: 80.9, short time: 7200, long time: 43200, backup count: 4
+12/15/2023 16:50:04: Skipping backup. World session not long enough.
+12/15/2023 16:50:04: PrepareSave: clone done in 82ms
+12/15/2023 16:50:04: PrepareSave: ZDOExtraData.PrepareSave done in 69 ms
+12/15/2023 16:50:04: World save writing starting
+12/15/2023 16:50:04: World save writing started
+12/15/2023 16:50:05: Saved 506464 ZDOs
+12/15/2023 16:50:05: World save writing finishing
+12/15/2023 16:50:05: World save writing finished
+12/15/2023 16:50:05: World saved ( 1647.5388ms )
+12/15/2023 16:50:05: Considering autobackup. World time: 80.9, short time: 7200, long time: 43200, backup count: 4
+12/15/2023 16:50:05: Skipping backup. World session not long enough.
+12/15/2023 16:53:12: Starting music evening
+12/15/2023 16:53:13: Stopped music meadows at 1820517
+12/15/2023 16:54:03: Spawned Greydwarf_Elite x 1
+12/15/2023 16:54:44: Update PlayFab entity token
