@@ -1,7 +1,7 @@
 Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
 Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000025F94481D00.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000025F9A1F5040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000002560516F170.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000002560ADD1040.dll
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
 Initialize engine version: 2022.3.12f1 (4fe6e059c7ef)
 [Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
@@ -13,14 +13,14 @@ Direct3D:
     VRAM:     4047 MB
     Driver:   31.0.15.4601
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.098 seconds
+- Loaded All Assemblies, in  0.094 seconds
 - Finished resetting the current domain, in  0.001 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.896700 ms
+UnloadTime: 0.660000 ms
 [Message:   BepInEx] BepInEx 5.4.22.0 - valheim (12/11/2023 5:11:00 AM)
 [Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
 [Info   :   BepInEx] Running under Unity v2022.3.12.5236448
@@ -35,36 +35,36 @@ UnloadTime: 0.896700 ms
 [Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000002600604D1D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000025676DCB9E0.dll
 [Message:   BepInEx] Chainloader started
 [Debug  :   BepInEx] Skipping loading C:\Users\johnf\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Project Valheim\BepInEx\plugins\CrazyPony-Clock\._ClockMod.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
-[Info   :   BepInEx] 133 plugins to load
+[Info   :   BepInEx] 132 plugins to load
 [Info   :   BepInEx] Loading [PlantEverything 1.16.2]
 [Info   :   BepInEx] Loading [Spyglass 3.1.0]
 [Info   :   BepInEx] Loading [Auto Feed 0.8.0]
 [Info   :   BepInEx] Loading [Clock Mod 1.6.0]
 [Info   :   BepInEx] Loading [Hotbar Switch 0.2.0]
 [Info   :   BepInEx] Loading [Notification Tweaks 0.5.0]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000025FDFCB40E0.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000025FDFCBC160.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000256508AD0F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000256508AF110.dll
 [Info   :   BepInEx] Loading [Show Container Contents 0.4.0]
 [Info   :   BepInEx] Loading [LocalizationCache 0.2.0]
 [Info   :   BepInEx] Loading [Configuration Manager 18.0.1]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.5.19]
-12/21/2023 18:59:30: Loaded localization file #0 - 'localization' language: 'English'
-12/21/2023 18:59:30: Loaded localization file #1 - 'localization_extra' language: 'English'
-12/21/2023 18:59:30: Loaded localization file #2 - 'heightmap_message' language: 'English'
-12/21/2023 18:59:30: Loaded localization file #3 - 'localization_hildir' language: 'English'
-12/21/2023 18:59:30: Loaded localization file #4 - 'localization_emotes' language: 'English'
+12/23/2023 15:44:07: Loaded localization file #0 - 'localization' language: 'English'
+12/23/2023 15:44:07: Loaded localization file #1 - 'localization_extra' language: 'English'
+12/23/2023 15:44:07: Loaded localization file #2 - 'heightmap_message' language: 'English'
+12/23/2023 15:44:07: Loaded localization file #3 - 'localization_hildir' language: 'English'
+12/23/2023 15:44:07: Loaded localization file #4 - 'localization_emotes' language: 'English'
 [Info   :   BepInEx] Loading [Spawn That! 1.2.8]
-[Info   :   BepInEx] Loading [Custom Raids 1.7.10]
 [Info   :   BepInEx] Loading [Jotunn 2.15.2]
 [Info   :   BepInEx] Loading [Horemvores Assembly 1.0.6]
 [Info   :   BepInEx] Loading [AzuExtendedPlayerInventory 1.3.8]
 [Info   :   BepInEx] Loading [Groups 1.2.6]
-[Info   :   BepInEx] Loading [Jewelcrafting 1.5.12]
+[Info   :   BepInEx] Loading [Jewelcrafting 1.5.13]
 [Info   :   BepInEx] Loading [AzuAntiArthriticCrafting 1.3.4]
 [Info   :   BepInEx] Loading [CraftyCarts 3.1.1]
+[Info   :   BepInEx] Loading [RecipeDescriptionExpansion 1.1.3]
 [Info   :   BepInEx] Loading [ResourceUnloadOptimizer 1.0.2]
 [Info   :   BepInEx] Loading [SleepSkip 1.0.7]
 [Info   :   BepInEx] Loading [TheSpiceOfLife 1.0.0]
@@ -74,9 +74,8 @@ Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/c
 [Info   :   BepInEx] Loading [BeeKeeper 1.0.1]
 [Info   :   BepInEx] Loading [BowPlugin 1.7.3]
 [Info   :   BepInEx] Loading [CombatIncentivesREwrite 1.0.6]
-[Info   :   BepInEx] Loading [Dual Wield 1.0.9]
 [Info   :   BepInEx] Loading [CombatOverhaulREwrite 1.1.8]
-[Info   :   BepInEx] Loading [GlassPieces 1.0.3]
+[Info   :   BepInEx] Loading [GlassPieces 1.0.4]
 [Info   :   BepInEx] Loading [Herbalist 1.3.1]
 [Info   :   BepInEx] Loading [MagicPlugin 1.8.3]
 [Info   :   BepInEx] Loading [SNEAKer 1.1.3]
@@ -87,9 +86,866 @@ Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/c
 [Info   :   BepInEx] Loading [ComfyGizmo 1.9.0]
 [Info   :   BepInEx] Loading [BeastsOfBurdenEV 1.0.5]
 [Info   :   BepInEx] Loading [MissingPieces 2.0.4]
-[Info   :   BepInEx] Loading [ChebsNecromancy 4.4.0]
+[Info   :   BepInEx] Loading [ChebsNecromancy 4.4.2]
+[Warning:ChebsNecromancy.BasePlugin] Patch version difference detected. The mod expects an older ChebsValheimLibrary.dll version. This probably won't cause problems.Mod expected 2.4.0, but library version is 2.4.1
 [Info   :   BepInEx] Loading [BossDespawn 1.4.0]
 [Info   :   BepInEx] Loading [ChestSnap 0.0.3]
+[Info   :   BepInEx] Loading [Frogger.NoUselessWarnings 1.1.0]
+[Info   :   BepInEx] Loading [ChunkLoader 1.4.2]
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Unlit2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Particles/Standard Surface2'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+Failed to find expected binary shader data in 'Custom/Piece'.
+ERROR: Shader Custom/Piece shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+Failed to find expected binary shader data in 'Lux Lit Particles/ Bumped'.
+ERROR: Shader Lux Lit Particles/ Bumped shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+D3D shader blob is empty!
+Corrupt shader bytecode, couldn't decode 0 bytes
+D3D shader blob is empty!
+Corrupt shader bytecode, couldn't decode 0 bytes
+D3D shader blob is empty!
+Corrupt shader bytecode, couldn't decode 0 bytes
+D3D shader blob is empty!
+Corrupt shader bytecode, couldn't decode 0 bytes
 [Info   :   BepInEx] Loading [DragoonCapes 1.2.2]
 [Info   :   BepInEx] Loading [FenceSnap 0.3.0]
 [Info   :   BepInEx] Loading [MultiUserChest 0.5.6]
@@ -99,9 +955,8 @@ Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/c
 [Info   :   BepInEx] Loading [Crawler 0.0.7]
 Loading Nasty Crawler
 [Info   :   BepInEx] Loading [Better Networking 2.3.2]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000260EDFFB4D0.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000026133F86820.dll
-[Info   :   BepInEx] Loading [Legendary Weapons 1.0.2]
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000002578500DC10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000257854AAEF0.dll
 [Info   :   BepInEx] Loading [ServerSideMap 1.3.10.0]
 [Info   :   BepInEx] Loading [FurtherUpgrades 1.1.1]
 [Info   :   BepInEx] Loading [NoAFKEvents 1.0.2]
@@ -109,28 +964,29 @@ Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/c
 [Info   :   BepInEx] Loading [Golem 0.0.7]
 Loading Golem
 [Info   :   BepInEx] Loading [OdinsFoodBarrels 1.0.16]
+[Info   :   BepInEx] Loading [OdinsUndercroft 1.1.19]
+[Info   :   BepInEx] Loading [More Gates 1.0.10]
 [Info   :   BepInEx] Loading [Monsterzz 0.0.7]
 [Info   :   BepInEx] Loading [DoOrDieMonsters 1.1.7]
 [Info   :   BepInEx] Loading [Do Or Die Items 0.6.3]
-[Warning:Do Or Die Items] Logging is enabled in the config!
 [Info   :   BepInEx] Loading [Lycanthrope 1.0.7]
 [Info   :   BepInEx] Loading [Marketplace NPCs 1.0.0]
 [Info   :   BepInEx] Loading [RuneMagic 1.1.26]
 Calculated centers for 29 icebergs
-[Info   :   BepInEx] Loading [Forsaken Power Overhaul 1.1.3]
+[Info   :   BepInEx] Loading [Forsaken Power Overhaul 1.1.4]
+[Info   :   BepInEx] Loading [kg.ItemDrawers 1.0.1]
 [Info   :   BepInEx] Loading [kg.MarketplaceNpcModels 1.0.0]
 [Info   :   BepInEx] Loading [kg.NoMoreCrashes 1.5.0]
 [Info   :   BepInEx] Loading [TameableCollector 1.0.0]
-[Info   :   BepInEx] Loading [Backpacks 1.3.3]
-[Info   :   BepInEx] Loading [Valheim Enchantment System 1.6.4]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000002618262EC90.dll
+[Info   :   BepInEx] Loading [Valheim Enchantment System 1.6.6]
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000257BB6C7BF0.dll
 [Info   :   BepInEx] Loading [Less ZDO Corruption 1.0.1]
 [Info   :   BepInEx] Loading [Soulcatcher 4.5.4]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000002618F5BF050.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000025800A00030.dll
 [Info   :   BepInEx] Loading [MarketplaceAndServerNPCs 9.2.1]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000026182AAB0D0.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000261826354B0.dll
-[Info   :   BepInEx] Loading [ValheimArmory 1.6.3]
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000257BB2148F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000257BB6CB000.dll
+[Info   :   BepInEx] Loading [ValheimArmory 1.6.4]
 [Info   :   BepInEx] Loading [BetterUI 2.5.4]
 [Info   :   BepInEx] Loading [MagicWeapons 1.2.0]
 [Info   :   BepInEx] Loading [CycleChests 0.1.0]
@@ -141,6 +997,7 @@ SlayerSkills: Awake
 [Info   :   BepInEx] Loading [OdinsKingdom 1.2.15]
 [Info   :   BepInEx] Loading [HoneyPlus 5.3.0]
 [Warning:Jotunn.Managers.ItemManager] [HoneyPlus] Custom item HoneySausages already added
+[Info   :   BepInEx] Loading [Backpacks 1.3.3]
 [Info   :   BepInEx] Loading [AutoFollowPath 1.6.0]
 [Info   :   BepInEx] Loading [Blacksmithing 1.2.5]
 [Info   :   BepInEx] Loading [Cooking 1.1.15]
@@ -154,6 +1011,7 @@ SlayerSkills: Awake
 [Info   :   BepInEx] Loading [Resurrection 1.0.11]
 [Info   :   BepInEx] Loading [Sailing 1.1.7]
 [Info   :   BepInEx] Loading [Server Characters 1.4.11]
+[Info   :   BepInEx] Loading [Smooth Save 1.0.5]
 [Info   :   BepInEx] Loading [Solid Hitboxes 1.0.5]
 [Info   :   BepInEx] Loading [Vitality 1.1.2]
 [Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.2]
@@ -161,12 +1019,10 @@ SlayerSkills: Awake
 [Info   :   BepInEx] Loading [OdinCampsite 1.5.3]
 [Info   :   BepInEx] Loading [OdinHorse 1.2.6]
 [Info   :   BepInEx] Loading [Minimal Status Effects 1.0.7]
-[Info   :   BepInEx] Loading [EulersRuler 1.5.0]
 [Info   :   BepInEx] Loading [Instaloot 1.0.0]
 [Info   :   BepInEx] Loading [SearsCatalog 1.4.0]
 [Info   :   BepInEx] Loading [Almanac 2.3.0]
 [Info   :   BepInEx] Loading [FishChum 1.0.1]
-[Info   :   BepInEx] Loading [SafetyStatus 1.0.0]
 [Info   :   BepInEx] Loading [SkilledCarryWeight 1.2.1]
 [Info   :   BepInEx] Loading [AdvancedTerrainModifiers 1.2.2]
 [Info   :   BepInEx] Loading [Marks all portals on the minimap when renaming and using them. Removes them on destroy. 1.1.0]
@@ -174,8 +1030,6 @@ SlayerSkills: Awake
 [Info   :   BepInEx] Loading [Quickstep 1.0.3]
 [Info   :   BepInEx] Loading [Traders Extended 1.0.18]
 [Info   :   BepInEx] Loading [RtDBiomes 1.5.1]
-[Info   :   BepInEx] Loading [RtDItems 0.0.6]
-[Info   :   BepInEx] Loading [RtDMonsters 1.2.4]
 [Info   :   BepInEx] Loading [SouthsilArmor 3.0.4]
 [Info   :   BepInEx] Loading [BiomeLords 2.0.10]
 [Info   :   BepInEx] Loading [NoSmokeSimplified 1.0.7]
@@ -185,55 +1039,405 @@ SlayerSkills: Awake
 [Info   :   BepInEx] Loading [WarfareFireAndIce 1.1.0]
 [Info   :   BepInEx] Loading [MonstrumAshlands 1.1.3]
 [Info   :   BepInEx] Loading [MonstrumDeepNorth 1.1.0]
-[Info   :   BepInEx] Loading [EpicMMOSystem 1.8.91]
+[Info   :   BepInEx] Loading [EpicMMOSystem 1.8.92]
 [Info   :   BepInEx] Loading [RareMagicPortal 2.7.2]
 [Info   :   BepInEx] Loading [Wizard 0.0.7]
 Loading Wizard
 [Info   :   BepInEx] Loading [Comfort Tweaks 3.2.10]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000002647CCD60F0.dll
-[Info   :   BepInEx] Loading [Snap Points Made Easy 1.3.3]
-Loaded settings!
-EnableModKey: F4
-IterateSourceSnapPoints:LeftControl
-IterateDestinationSnapPoints:LeftAlt
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000025A53E1E0A0.dll
 [Info   :   BepInEx] Loading [DragonRiders 1.0.5]
 Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 [Info   :   BepInEx] Loading [hnmbow 1.0.1]
 [Message:   BepInEx] Chainloader startup complete
 Looking for transpiler match
 Found Transpiler Patch
-[Info   :StartupAccelerator] Batch-patched 791 methods after Chainloader end in 6451 ms
-12/21/2023 19:02:34: Fetching PlatformPrefs 'GuiScale' before loading defaults
-12/21/2023 19:02:34: Fetching PlatformPrefs 'GuiScale' before loading defaults
+[Info   :StartupAccelerator] Batch-patched 793 methods after Chainloader end in 6024 ms
+12/23/2023 15:46:33: Fetching PlatformPrefs 'GuiScale' before loading defaults
+12/23/2023 15:46:33: Fetching PlatformPrefs 'GuiScale' before loading defaults
 Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
 Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
 Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
-12/21/2023 19:02:35: Starting to load scene:start
+12/23/2023 15:46:35: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-12/21/2023 19:02:39: Using environment steamid 892970
-12/21/2023 19:02:39: Using steam APPID:892970
+12/23/2023 15:46:37: Using environment steamid 892970
+12/23/2023 15:46:37: Using steam APPID:892970
 Unloading 6 Unused Serialized files (Serialized files now loaded: 150)
-12/21/2023 19:02:39: Authentication:k_ESteamNetworkingAvailability_Attempting
+12/23/2023 15:46:38: Authentication:k_ESteamNetworkingAvailability_Attempting
 [Debug  :   BepInEx] [UnityInput] Using LegacyInputSystem
 Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
-UnloadTime: 112.508200 ms
+UnloadTime: 26.731200 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-12/21/2023 19:02:48: Steam initialized, persona:Ana na may L
-12/21/2023 19:02:48: PlayFab custom ID set to "Steam_76561198287391004"
-12/21/2023 19:02:48: Using default prefs
-12/21/2023 19:02:48: Valheim version: 0.217.38-ServerCharacters (network version 20)
+12/23/2023 15:46:46: Steam initialized, persona:Ana na may L
+12/23/2023 15:46:46: PlayFab custom ID set to "Steam_76561198287391004"
+12/23/2023 15:46:46: Using default prefs
+12/23/2023 15:46:46: Valheim version: 0.217.38-ServerCharacters (network version 20)
 Trying to set graphic mode to 'Custom'
 Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
 Graphic mode 'Custom' applied!
-12/21/2023 19:02:48: Worldgenerator version setup:2
-12/21/2023 19:02:48: Render threading mode:MultiThreaded
-12/21/2023 19:02:48: Set button "CamZoomIn" to None!
-12/21/2023 19:02:48: Set button "CamZoomOut" to None!
-12/21/2023 19:02:48: Set button "CamZoomIn" to None!
-12/21/2023 19:02:48: Set button "CamZoomOut" to None!
-[Info   :StartupAccelerator] Batch-patched 39 methods after FejdStartup.Awake in 188 ms
-12/21/2023 19:02:49: Missing audio clip in music respawn
-12/21/2023 19:02:49: Checking for installed DLCs
-12/21/2023 19:02:49: DLC:beta installed:False
-12/21/2023 19:02:49: Builder started
+12/23/2023 15:46:46: Worldgenerator version setup:2
+12/23/2023 15:46:46: Render threading mode:MultiThreaded
+12/23/2023 15:46:46: Set button "CamZoomIn" to None!
+12/23/2023 15:46:46: Set button "CamZoomOut" to None!
+12/23/2023 15:46:46: Set button "CamZoomIn" to None!
+12/23/2023 15:46:46: Set button "CamZoomOut" to None!
+[Info   :StartupAccelerator] Batch-patched 40 methods after FejdStartup.Awake in 203 ms
+12/23/2023 15:46:47: Missing audio clip in music respawn
+12/23/2023 15:46:47: Checking for installed DLCs
+12/23/2023 15:46:47: DLC:beta installed:False
+12/23/2023 15:46:47: Builder started
+ObjectDB_Awake_Patch ran
+[Warning:DragoonCapes] Mod Statuses Enabled: True
+ObjectDB_CopyOtherDB_Patch ran
+[RecipeHandler] Added recipe: Recipe_RuneFocus
+12/23/2023 15:46:50: Sending PlayFab login request (attempt 1)
+12/23/2023 15:46:51: Starting music menu
+12/23/2023 15:46:51: PlayFab logged in as "Steam_76561198287391004"
+12/23/2023 15:46:51: PlayFab local entity ID is 70233478553F7572
+Unloading 3641 unused Assets to reduce memory usage. Loaded Objects now: 537630.
+Total: 367.142200 ms (FindLiveObjects: 49.532700 ms CreateObjectMapping: 48.276800 ms MarkObjects: 248.470500 ms  DeleteObjects: 20.861900 ms)
+
+12/23/2023 15:47:57: Stopping build thread
+Setting up 8 worker threads for Enlighten.
+NotificationTweaks Destroying plugin
+Looking for transpiler match
+Found Transpiler Patch
+ShowContainerContents Destroying plugin
+12/23/2023 15:47:59: Steam manager on destroy
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 2 frames, [16.0 KB-32.0 KB]: 295 frames, [32.0 KB-64.0 KB]: 2991 frames, [4.0 MB-8.0 MB]: 3 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 7.9 MB
+      Peak Allocated Bytes 7.8 MB
+      Overflow Count 56
+    [ALLOC_TEMP_Background Job.worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 312.2 KB
+      Overflow Count 74
+    [ALLOC_TEMP_Background Job.worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 324 B
+      Overflow Count 0
+    [ALLOC_TEMP_ReadCacheIndex]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 461 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 324 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 8
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_] x 2
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 12.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 26.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 50.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 24.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 324 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 128.0 KB
+      Peak Allocated Bytes 128.0 KB
+      Overflow Count 3
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 100404
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 12 Subsections = 12288 buckets. Failed count: 811900
+        32B: 35 Subsections = 17920 buckets. Failed count: 934767
+        48B: 48 Subsections = 16384 buckets. Failed count: 775471
+        64B: 41 Subsections = 10496 buckets. Failed count: 720137
+        80B: 37 Subsections = 7577 buckets. Failed count: 206633
+        96B: 37 Subsections = 6314 buckets. Failed count: 302264
+        112B: 19 Subsections = 2779 buckets. Failed count: 140541
+        128B: 27 Subsections = 3456 buckets. Failed count: 338128
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [0.50 GB-1.00 GB]: 3291 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 35
+      Peak Allocated memory 0.63 GB
+      Peak Large allocation bytes 136.1 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [256.0 MB-0.50 GB]: 3291 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 15
+      Peak Allocated memory 296.5 MB
+      Peak Large allocation bytes 80.6 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 2
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 235
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 12 Subsections = 12288 buckets. Failed count: 811900
+        32B: 35 Subsections = 17920 buckets. Failed count: 934767
+        48B: 48 Subsections = 16384 buckets. Failed count: 775471
+        64B: 41 Subsections = 10496 buckets. Failed count: 720137
+        80B: 37 Subsections = 7577 buckets. Failed count: 206633
+        96B: 37 Subsections = 6314 buckets. Failed count: 302264
+        112B: 19 Subsections = 2779 buckets. Failed count: 140541
+        128B: 27 Subsections = 3456 buckets. Failed count: 338128
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [0.50 GB-1.00 GB]: 3291 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 45
+      Peak Allocated memory 0.68 GB
+      Peak Large allocation bytes 25.4 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [64.0 MB-128.0 MB]: 3291 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 6
+      Peak Allocated memory 80.4 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 8047
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 12 Subsections = 12288 buckets. Failed count: 811900
+        32B: 35 Subsections = 17920 buckets. Failed count: 934767
+        48B: 48 Subsections = 16384 buckets. Failed count: 775471
+        64B: 41 Subsections = 10496 buckets. Failed count: 720137
+        80B: 37 Subsections = 7577 buckets. Failed count: 206633
+        96B: 37 Subsections = 6314 buckets. Failed count: 302264
+        112B: 19 Subsections = 2779 buckets. Failed count: 140541
+        128B: 27 Subsections = 3456 buckets. Failed count: 338128
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [4.00 GB-8.00 GB]: 3291 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1099
+      Peak Allocated memory 4.20 GB
+      Peak Large allocation bytes 101.1 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [128.0 MB-256.0 MB]: 3290 frames, [256.0 MB-0.50 GB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 60
+      Peak Allocated memory 284.8 MB
+      Peak Large allocation bytes 62.6 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 12 Subsections = 12288 buckets. Failed count: 811900
+        32B: 35 Subsections = 17920 buckets. Failed count: 934767
+        48B: 48 Subsections = 16384 buckets. Failed count: 775471
+        64B: 41 Subsections = 10496 buckets. Failed count: 720137
+        80B: 37 Subsections = 7577 buckets. Failed count: 206633
+        96B: 37 Subsections = 6314 buckets. Failed count: 302264
+        112B: 19 Subsections = 2779 buckets. Failed count: 140541
+        128B: 27 Subsections = 3456 buckets. Failed count: 338128
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 3291 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 24
+      Peak Allocated memory 46.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 3291 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 46.9 KB
+      Peak Large allocation bytes 0 B
