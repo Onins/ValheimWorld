@@ -1,7 +1,7 @@
 Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
 Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000023C1FC38150.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000023C25951040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001308BBA7980.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000013091B02040.dll
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
 Initialize engine version: 2022.3.12f1 (4fe6e059c7ef)
 [Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
@@ -13,14 +13,14 @@ Direct3D:
     VRAM:     4047 MB
     Driver:   31.0.15.4601
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.090 seconds
+- Loaded All Assemblies, in  0.091 seconds
 - Finished resetting the current domain, in  0.001 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.678200 ms
+UnloadTime: 0.754300 ms
 [Message:   BepInEx] BepInEx 5.4.22.0 - valheim (12/11/2023 5:11:00 AM)
 [Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
 [Info   :   BepInEx] Running under Unity v2022.3.12.5236448
@@ -35,7 +35,7 @@ UnloadTime: 0.678200 ms
 [Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000023C9175DAA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000130FDAB4CF0.dll
 [Message:   BepInEx] Chainloader started
 [Debug  :   BepInEx] Skipping loading C:\Users\johnf\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Project Valheim\BepInEx\plugins\CrazyPony-Clock\._ClockMod.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
 [Info   :   BepInEx] 131 plugins to load
@@ -45,17 +45,17 @@ Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/c
 [Info   :   BepInEx] Loading [Clock Mod 1.6.0]
 [Info   :   BepInEx] Loading [Hotbar Switch 0.2.0]
 [Info   :   BepInEx] Loading [Notification Tweaks 0.5.0]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000023C6B48A160.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000023C6B489150.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000130D7578500.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000130D7580580.dll
 [Info   :   BepInEx] Loading [Show Container Contents 0.4.0]
 [Info   :   BepInEx] Loading [LocalizationCache 0.2.0]
 [Info   :   BepInEx] Loading [Configuration Manager 18.0.1]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.5.19]
-12/27/2023 19:31:25: Loaded localization file #0 - 'localization' language: 'English'
-12/27/2023 19:31:25: Loaded localization file #1 - 'localization_extra' language: 'English'
-12/27/2023 19:31:25: Loaded localization file #2 - 'heightmap_message' language: 'English'
-12/27/2023 19:31:25: Loaded localization file #3 - 'localization_hildir' language: 'English'
-12/27/2023 19:31:25: Loaded localization file #4 - 'localization_emotes' language: 'English'
+12/28/2023 23:48:47: Loaded localization file #0 - 'localization' language: 'English'
+12/28/2023 23:48:47: Loaded localization file #1 - 'localization_extra' language: 'English'
+12/28/2023 23:48:47: Loaded localization file #2 - 'heightmap_message' language: 'English'
+12/28/2023 23:48:47: Loaded localization file #3 - 'localization_hildir' language: 'English'
+12/28/2023 23:48:47: Loaded localization file #4 - 'localization_emotes' language: 'English'
 [Info   :   BepInEx] Loading [Spawn That! 1.2.8]
 [Info   :   BepInEx] Loading [Jotunn 2.15.2]
 [Info   :   BepInEx] Loading [Horemvores Assembly 1.0.6]
@@ -80,7 +80,7 @@ Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/c
 [Info   :   BepInEx] Loading [MagicPlugin 1.8.3]
 [Info   :   BepInEx] Loading [SNEAKer 1.1.3]
 [Info   :   BepInEx] Loading [VikingsDoSwim 1.3.1]
-[Info   :   BepInEx] Loading [WieldEquipmentWhileSwimming 1.0.7]
+[Info   :   BepInEx] Loading [WieldEquipmentWhileSwimming 1.0.8]
 [Info   :   BepInEx] Loading [BreedingTweaks 1.0.0]
 [Info   :   BepInEx] Loading [Abacus 1.0.0]
 [Info   :   BepInEx] Loading [ComfyGizmo 1.9.0]
@@ -955,8 +955,8 @@ Corrupt shader bytecode, couldn't decode 0 bytes
 [Info   :   BepInEx] Loading [Crawler 0.0.7]
 Loading Nasty Crawler
 [Info   :   BepInEx] Loading [Better Networking 2.3.2]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000023D9E6A0020.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000023D9EB39EC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001322B956020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001322BDBB3D0.dll
 [Info   :   BepInEx] Loading [ServerSideMap 1.3.10.0]
 [Info   :   BepInEx] Loading [FurtherUpgrades 1.1.1]
 [Info   :   BepInEx] Loading [NoAFKEvents 1.0.2]
@@ -978,13 +978,13 @@ Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [kg.NoMoreCrashes 1.5.0]
 [Info   :   BepInEx] Loading [TameableCollector 1.0.0]
 [Info   :   BepInEx] Loading [Valheim Enchantment System 1.6.6]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000023DDA9170A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000013248040060.dll
 [Info   :   BepInEx] Loading [Less ZDO Corruption 1.0.1]
 [Info   :   BepInEx] Loading [Soulcatcher 4.5.4]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000023E1DAFC020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000013292C25040.dll
 [Info   :   BepInEx] Loading [MarketplaceAndServerNPCs 9.2.1]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000023E1CC497B0.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000023DDA913C90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000132482F1F00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000013248046880.dll
 [Info   :   BepInEx] Loading [ValheimArmory 1.6.4]
 [Info   :   BepInEx] Loading [BetterUI 2.5.4]
 [Info   :   BepInEx] Loading [MagicWeapons 1.2.0]
@@ -1028,4 +1028,358 @@ SlayerSkills: Awake
 [Info   :   BepInEx] Loading [Harpoon Extended 1.1.6]
 [Info   :   BepInEx] Loading [Quickstep 1.0.3]
 [Info   :   BepInEx] Loading [Traders Extended 1.0.18]
-[Info   :   BepInEx] Loading [RtDBiomes 1.5.1]
+[Info   :   BepInEx] Loading [RtDBiomes 1.5.5]
+[Info   :   BepInEx] Loading [SouthsilArmor 3.0.4]
+[Info   :   BepInEx] Loading [BiomeLords 2.0.10]
+[Info   :   BepInEx] Loading [NoSmokeSimplified 1.0.7]
+[Info   :   BepInEx] Loading [Warfare 1.6.2]
+[Info   :   BepInEx] Loading [Armory 1.1.6]
+[Info   :   BepInEx] Loading [Monstrum 1.3.2]
+[Info   :   BepInEx] Loading [WarfareFireAndIce 1.1.1]
+[Info   :   BepInEx] Loading [MonstrumAshlands 1.1.4]
+[Info   :   BepInEx] Loading [MonstrumDeepNorth 1.1.1]
+[Info   :   BepInEx] Loading [EpicMMOSystem 1.8.93]
+[Info   :   BepInEx] Loading [RareMagicPortal 2.7.2]
+[Info   :   BepInEx] Loading [Wizard 0.0.7]
+Loading Wizard
+[Info   :   BepInEx] Loading [Comfort Tweaks 3.2.10]
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001351D6ABCE0.dll
+[Info   :   BepInEx] Loading [DragonRiders 1.0.5]
+Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[Info   :   BepInEx] Loading [hnmbow 1.0.1]
+[Message:   BepInEx] Chainloader startup complete
+Looking for transpiler match
+Found Transpiler Patch
+[Info   :StartupAccelerator] Batch-patched 792 methods after Chainloader end in 6256 ms
+12/28/2023 23:51:14: Fetching PlatformPrefs 'GuiScale' before loading defaults
+12/28/2023 23:51:14: Fetching PlatformPrefs 'GuiScale' before loading defaults
+Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
+Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
+Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
+12/28/2023 23:51:15: Starting to load scene:start
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+12/28/2023 23:51:18: Using environment steamid 892970
+12/28/2023 23:51:18: Using steam APPID:892970
+Unloading 6 Unused Serialized files (Serialized files now loaded: 149)
+12/28/2023 23:51:18: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Debug  :   BepInEx] [UnityInput] Using LegacyInputSystem
+Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
+UnloadTime: 14.138100 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+12/28/2023 23:51:26: Steam initialized, persona:Ana na may L
+12/28/2023 23:51:26: PlayFab custom ID set to "Steam_76561198287391004"
+12/28/2023 23:51:26: Using default prefs
+12/28/2023 23:51:26: Valheim version: 0.217.38-ServerCharacters (network version 20)
+Trying to set graphic mode to 'Custom'
+Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
+Graphic mode 'Custom' applied!
+12/28/2023 23:51:26: Worldgenerator version setup:2
+12/28/2023 23:51:26: Render threading mode:MultiThreaded
+12/28/2023 23:51:26: Set button "CamZoomIn" to None!
+12/28/2023 23:51:26: Set button "CamZoomOut" to None!
+12/28/2023 23:51:26: Set button "CamZoomIn" to None!
+12/28/2023 23:51:26: Set button "CamZoomOut" to None!
+[Info   :StartupAccelerator] Batch-patched 40 methods after FejdStartup.Awake in 195 ms
+12/28/2023 23:51:27: Missing audio clip in music respawn
+12/28/2023 23:51:27: Checking for installed DLCs
+12/28/2023 23:51:27: DLC:beta installed:False
+12/28/2023 23:51:27: Builder started
+ObjectDB_Awake_Patch ran
+[Warning:DragoonCapes] Mod Statuses Enabled: True
+ObjectDB_CopyOtherDB_Patch ran
+[RecipeHandler] Added recipe: Recipe_RuneFocus
+12/28/2023 23:51:30: Sending PlayFab login request (attempt 1)
+12/28/2023 23:51:31: Starting music menu
+12/28/2023 23:51:31: PlayFab logged in as "Steam_76561198287391004"
+12/28/2023 23:51:31: PlayFab local entity ID is 70233478553F7572
+Unloading 3643 unused Assets to reduce memory usage. Loaded Objects now: 531933.
+Total: 408.451000 ms (FindLiveObjects: 49.947700 ms CreateObjectMapping: 60.711100 ms MarkObjects: 268.618500 ms  DeleteObjects: 29.173400 ms)
+
+12/28/2023 23:51:36: show character selection
+12/28/2023 23:51:37: OnCharacterStart
+12/28/2023 23:51:42: Button pressed Start  frame:796
+12/28/2023 23:51:43: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 149)
+UnloadTime: 16.261900 ms
+12/28/2023 23:51:44: Steam initialized, persona:Ana na may L
+12/28/2023 23:51:44: PlayFab custom ID set to "Steam_76561198287391004"
+12/28/2023 23:51:44: Using default prefs
+12/28/2023 23:51:44: Loading player profile sir beer
+12/28/2023 23:51:44: isModded: True
+12/28/2023 23:51:44: Zonesystem Awake 871
+12/28/2023 23:51:44: DungeonDB Awake 871
+12/28/2023 23:51:44: Steam initialized, persona:Ana na may L
+12/28/2023 23:51:44: Registering lobby
+12/28/2023 23:51:44: Worldgenerator version setup:2
+Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
+Registered 'advize.Spyglass ConfigSync' RPC - waiting for incoming connections
+Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.AzuExtendedPlayerInventory ConfigSync' RPC - waiting for incoming connections
+Registered 'Groups ConfigSync' RPC - waiting for incoming connections
+Registered 'Jewelcrafting ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.jewelcrafting ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.jewelcrafting PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.AzuAntiArthriticCrafting ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.CraftyCarts ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.CraftyCarts PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.SleepSkip ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.TheSpiceOfLife ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.BeeKeeper ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.BowPlugin ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.CombatIncentivesREwrite ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.CombatOverhaulREwrite ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.GlassPieces ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.Herbalist ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.MagicPlugin ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.MagicPlugin ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.SNEAKer ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.VikingsDoSwim ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.WieldEquipmentWhileSwimming ConfigSync' RPC - waiting for incoming connections
+Registered 'OdinsFoodBarrels ConfigSync' RPC - waiting for incoming connections
+Registered 'gravebear.odinsfoodbarrels PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'kg.ItemDrawers ConfigSync' RPC - waiting for incoming connections
+Registered 'kg.ItemDrawers PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'kg.TameableCollector ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'kg.ValheimEnchantmentSystem ConfigSync' RPC - waiting for incoming connections
+Registered 'kg.ValheimEnchantmentSystem ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'kg.ValheimEnchantmentSystem SkillManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Soulcatcher ConfigSync' RPC - waiting for incoming connections
+Registered 'Soulcatcher ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'MarketplaceAndServerNPCs ConfigSync' RPC - waiting for incoming connections
+Registered 'MythikWolf.MagicWeapons ConfigSync' RPC - waiting for incoming connections
+Registered 'MythikWolf.MagicWeapons ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'OdinsKingdom ConfigSync' RPC - waiting for incoming connections
+Registered 'odinplus.plugins.odinskingdom ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'odinplus.plugins.odinskingdom PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Backpacks ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.backpacks ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.blacksmithing ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.cooking ConfigSync' RPC - waiting for incoming connections
+Registered 'Darwin Awards ConfigSync' RPC - waiting for incoming connections
+Registered 'Exploration ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.farming ConfigSync' RPC - waiting for incoming connections
+Registered 'Foraging ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.lumberjacking ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.mining ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.packhorse SkillManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Resurrection ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.sailing ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.servercharacters ConfigSync' RPC - waiting for incoming connections
+Registered 'Vitality ConfigSync' RPC - waiting for incoming connections
+Registered 'OdinCampsite ConfigSync' RPC - waiting for incoming connections
+Registered 'Raelaziel.OdinCampsite PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Raelaziel.OdinCampsite ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'OdinHorse ConfigSync' RPC - waiting for incoming connections
+Registered 'Raelaziel.OdinHorse ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Raelaziel.OdinHorse PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Raelaziel.OdinHorse CreatureManager ConfigSync' RPC - waiting for incoming connections
+Registered 'RustyMods.Almanac ConfigSync' RPC - waiting for incoming connections
+Registered 'RustyMods.FishChum ConfigSync' RPC - waiting for incoming connections
+Registered 'RustyMods.FishChum ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'shudnal.HarpoonExtended ConfigSync' RPC - waiting for incoming connections
+Registered 'shudnal.Quickstep ConfigSync' RPC - waiting for incoming connections
+Registered 'shudnal.TradersExtended ConfigSync' RPC - waiting for incoming connections
+Registered 'southsil.SouthsilArmor ConfigSync' RPC - waiting for incoming connections
+Registered 'southsil.SouthsilArmor ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Taeguk.BiomeLords ConfigSync' RPC - waiting for incoming connections
+Registered 'Taeguk.BiomeLords ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.Warfare ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.Warfare PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.Warfare ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.Warfare SkillManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.Armory ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.Armory PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.Armory ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.Monstrum ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.Monstrum ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.Monstrum PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.Monstrum CreatureManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.WarfareFireAndIce ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.WarfareFireAndIce ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.WarfareFireAndIce PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.WarfareFireAndIce CreatureManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.MonstrumAshlands ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.MonstrumAshlands PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.MonstrumAshlands ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.MonstrumAshlands CreatureManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.MonstrumDeepNorth ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.MonstrumDeepNorth PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.MonstrumDeepNorth ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Therzie.MonstrumDeepNorth CreatureManager ConfigSync' RPC - waiting for incoming connections
+Registered 'WackyMole.EpicMMOSystem ConfigSync' RPC - waiting for incoming connections
+Registered 'WackyMole.EpicMMOSystem ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'WackyMole.EpicMMOSystem PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'WackyMole.RareMagicPortal ConfigSync' RPC - waiting for incoming connections
+Registered 'WackyMole.RareMagicPortal ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'xyz.alcan.comfortcalc ConfigSync' RPC - waiting for incoming connections
+Registered 'xyz.alcan.comfortcalc ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Yggdrah.DragonRiders ConfigSync' RPC - waiting for incoming connections
+Registered 'Yggdrah.DragonRiders ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Yggdrah.DragonRiders CreatureManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Yggdrah.hnmbow ConfigSync' RPC - waiting for incoming connections
+Registered 'Yggdrah.hnmbow ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'goldenrevolver.quick_stack_store ConfigSync' RPC - waiting for incoming connections
+Generated variant: Skeleton_Variant_Guardian
+Generated variant: Skeleton_Variant_Archer
+Generated variant: Skeleton_Variant_Hunter
+Generated variant: Skeleton_Variant_Assassin
+Generated variant: Skeleton_Variant_Brute
+Generated variant: Skeleton_Variant_Duelist
+Generated variant: Skeleton_Variant_Berserker
+Generated variant: Skeleton_Variant_Bonebreaker
+Generated variant: Skeleton_Variant_Swordmaster
+Generated variant: Skeleton_Variant_Executioner
+Generated variant: Skeleton_Variant_Marauder
+Generated variant: Skeleton_Variant_Warrior
+Generated variant: Skeleton_Variant_Scout
+Generated variant: Skeleton_Variant_Savage
+Generated variant: Skeleton_Variant_Pyromancer
+Generated variant: Skeleton_Variant_Cryomancer
+Generated variant: Skeleton_Variant_Thundercaller
+Generated variant: Skeleton_Variant_Venomancer
+Generated variant: Skeleton_Variant_Cultist
+Generated variant: Skeleton_Variant_Mage
+Generated variant: Skeleton_NoArcher_Variant_Guardian
+Generated variant: Skeleton_NoArcher_Variant_Archer
+Generated variant: Skeleton_NoArcher_Variant_Hunter
+Generated variant: Skeleton_NoArcher_Variant_Assassin
+Generated variant: Skeleton_NoArcher_Variant_Brute
+Generated variant: Skeleton_NoArcher_Variant_Duelist
+Generated variant: Skeleton_NoArcher_Variant_Berserker
+Generated variant: Skeleton_NoArcher_Variant_Bonebreaker
+Generated variant: Skeleton_NoArcher_Variant_Swordmaster
+Generated variant: Skeleton_NoArcher_Variant_Executioner
+Generated variant: Skeleton_NoArcher_Variant_Marauder
+Generated variant: Skeleton_NoArcher_Variant_Warrior
+Generated variant: Skeleton_NoArcher_Variant_Scout
+Generated variant: Skeleton_NoArcher_Variant_Savage
+Generated variant: Skeleton_Poison_Variant_Guardian
+Generated variant: Skeleton_Poison_Variant_Archer
+Generated variant: Skeleton_Poison_Variant_Hunter
+Generated variant: Skeleton_Poison_Variant_Assassin
+Generated variant: Skeleton_Poison_Variant_Brute
+Generated variant: Skeleton_Poison_Variant_Duelist
+Generated variant: Skeleton_Poison_Variant_Berserker
+Generated variant: Skeleton_Poison_Variant_Bonebreaker
+Generated variant: Skeleton_Poison_Variant_Swordmaster
+Generated variant: Skeleton_Poison_Variant_Executioner
+Generated variant: Skeleton_Poison_Variant_Marauder
+Generated variant: Skeleton_Poison_Variant_Warrior
+Generated variant: Skeleton_Poison_Variant_Scout
+Generated variant: Skeleton_Poison_Variant_Savage
+Generated variant: Skeleton_Poison_Variant_Venomancer
+Generated variant: Draugr_Variant_Guardian
+Generated variant: Draugr_Variant_Archer
+Generated variant: Draugr_Variant_Hunter
+Generated variant: Draugr_Variant_Brute
+Generated variant: Draugr_Variant_Duelist
+Generated variant: Draugr_Variant_Berserker
+Generated variant: Draugr_Variant_Bonebreaker
+Generated variant: Draugr_Variant_Swordmaster
+Generated variant: Draugr_Variant_Executioner
+Generated variant: Draugr_Variant_Marauder
+Generated variant: Draugr_Variant_Warrior
+Generated variant: Draugr_Variant_Scout
+Generated variant: Draugr_Variant_Pyromancer
+Generated variant: Draugr_Variant_Cryomancer
+Generated variant: Draugr_Variant_Thundercaller
+Generated variant: Draugr_Variant_Venomancer
+Generated variant: Draugr_Variant_Cultist
+Generated variant: Draugr_Variant_Mage
+Generated variant: Draugr_Ranged_Variant_Archer
+Generated variant: Draugr_Ranged_Variant_Hunter
+Generated variant: Draugr_Ranged_Variant_Pyromancer
+Generated variant: Draugr_Ranged_Variant_Cryomancer
+Generated variant: Draugr_Ranged_Variant_Thundercaller
+Generated variant: Draugr_Ranged_Variant_Venomancer
+Generated variant: Draugr_Ranged_Variant_Cultist
+Generated variant: Draugr_Ranged_Variant_Mage
+Generated variant: Draugr_Elite_Variant_Guardian
+Generated variant: Draugr_Elite_Variant_Hunter
+Generated variant: Draugr_Elite_Variant_Brute
+Generated variant: Draugr_Elite_Variant_Duelist
+Generated variant: Draugr_Elite_Variant_Berserker
+Generated variant: Draugr_Elite_Variant_Bonebreaker
+Generated variant: Draugr_Elite_Variant_Swordmaster
+Generated variant: Draugr_Elite_Variant_Executioner
+Generated variant: Draugr_Elite_Variant_Marauder
+Generated variant: Draugr_Elite_Variant_Warrior
+Generated variant: Draugr_Elite_Variant_Pyromancer
+Generated variant: Draugr_Elite_Variant_Cryomancer
+Generated variant: Draugr_Elite_Variant_Thundercaller
+Generated variant: Draugr_Elite_Variant_Venomancer
+Generated variant: Draugr_Elite_Variant_Cultist
+Generated variant: Draugr_Elite_Variant_Mage
+Generated variant: Goblin_Variant_Guardian
+Generated variant: Goblin_Variant_Archer
+Generated variant: Goblin_Variant_Hunter
+Generated variant: Goblin_Variant_Brute
+Generated variant: Goblin_Variant_Duelist
+Generated variant: Goblin_Variant_Berserker
+Generated variant: Goblin_Variant_Marauder
+Generated variant: Goblin_Variant_Warrior
+Generated variant: Goblin_Variant_Scout
+Generated variant: GoblinArcher_Variant_Archer
+Generated variant: GoblinArcher_Variant_Hunter
+Generated variant: GoblinArcher_Variant_Pyromancer
+Generated variant: GoblinArcher_Variant_Cryomancer
+Generated variant: GoblinArcher_Variant_Thundercaller
+Generated variant: GoblinArcher_Variant_Venomancer
+Generated variant: GoblinArcher_Variant_Cultist
+Generated variant: GoblinArcher_Variant_Mage
+Generated variant: GoblinShaman_Variant_Pyromancer
+Generated variant: GoblinShaman_Variant_Cryomancer
+Generated variant: GoblinShaman_Variant_Thundercaller
+Generated variant: GoblinShaman_Variant_Venomancer
+Generated variant: GoblinShaman_Variant_Cultist
+Generated variant: GoblinShaman_Variant_Mage
+Loading the eggs
+Loading the eggs
+Loading the eggs
+ZNetScene_Awake_Patch ran
+Loading the eggs
+getting fonts
+got font AveriaSerifLibre-Bold
+The drop target character '' does not exist.
+The drop target character '' does not exist.
+The drop target character '' does not exist.
+12/28/2023 23:51:55: Audioman already exist, destroying self
+12/28/2023 23:51:55: Checking for installed DLCs
+12/28/2023 23:51:55: DLC:beta installed:False
+ObjectDB_Awake_Patch ran
+[RecipeHandler] Added recipe: Recipe_RuneFocus
+[Warning:Jotunn.Managers.PieceManager] [RtDBiomes] Skipping piece MagicTreeSapling1_RtD: could not resolve mock ItemDrop FaeSeed_RtD
+Unloading 3872 unused Assets to reduce memory usage. Loaded Objects now: 629882.
+Total: 313.016400 ms (FindLiveObjects: 49.241000 ms CreateObjectMapping: 50.504600 ms MarkObjects: 185.293700 ms  DeleteObjects: 27.976900 ms)
+
+12/28/2023 23:52:03: Zonesystem Start 871
+12/28/2023 23:52:06: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+12/28/2023 23:52:06: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+12/28/2023 23:52:06: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+12/28/2023 23:52:06: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+ZoneSystem_Start_Patch ran
+Skipping BossStone_StormHerald_TW
+Skipping BossStone_Sythrak_TW
+Skipping BossStone_Sythrak_TW
+Skipping BossStone_StormHerald_TW
+Skipping BossStone_Bonemass
+Skipping BossStone_DragonQueen
+Skipping BossStone_Yagluth
+Skipping BossStone_TheQueen
+Skipping BossStone_TheElder
+Skipping BossStone_Eikthyr
+Skipping BossStone_Bonemass
+Skipping BossStone_DragonQueen
+Skipping BossStone_Yagluth
+Skipping BossStone_TheElder
+Skipping BossStone_Eikthyr
+Cached water surface vertex order
+12/28/2023 23:52:09: DungeonDB Start 871
+12/28/2023 23:52:09: ZRpc timeout set to 30s 
+12/28/2023 23:52:09: ZNET START
+12/28/2023 23:52:09: Load world: Valhalla (Ondamix)
+12/28/2023 23:52:09: Loading 1019349 zdos, my sessionID: 1348635971, data version: 33
+12/28/2023 23:52:09: Creating ZDOs
+12/28/2023 23:52:10: Loading in ZDOs
+12/28/2023 23:52:11: Adding to Dictionary
