@@ -1,7 +1,7 @@
 Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
 Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B19C657E80.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B1A1A36040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001740C688E40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000017411A55040.dll
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
 Initialize engine version: 2022.3.12f1 (4fe6e059c7ef)
 [Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
@@ -13,14 +13,14 @@ Direct3D:
     VRAM:     4047 MB
     Driver:   31.0.15.4601
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.131 seconds
+- Loaded All Assemblies, in  0.084 seconds
 - Finished resetting the current domain, in  0.001 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.683900 ms
+UnloadTime: 1.249600 ms
 [Message:   BepInEx] BepInEx 5.4.22.0 - valheim (12/11/2023 5:11:00 AM)
 [Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
 [Info   :   BepInEx] Running under Unity v2022.3.12.5236448
@@ -52,27 +52,28 @@ UnloadTime: 0.683900 ms
 [Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B20A0907B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001747D6CC0A0.dll
 [Message:   BepInEx] Chainloader started
 [Debug  :   BepInEx] Skipping loading C:\Users\johnf\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Project Valheim\BepInEx\plugins\CrazyPony-Clock\._ClockMod.dll because it's not a valid .NET assembly. Full error: Format of the executable (.exe) or library (.dll) is invalid.
-[Info   :   BepInEx] 141 plugins to load
+[Info   :   BepInEx] 152 plugins to load
 [Info   :   BepInEx] Loading [PlantEverything 1.16.2]
 [Info   :   BepInEx] Loading [Auto Feed 0.8.0]
 [Info   :   BepInEx] Loading [Clock Mod 1.6.0]
+[Info   :   BepInEx] Loading [Crafting Filter 0.9.0]
 [Info   :   BepInEx] Loading [Grass Tweaks 0.4.0]
 [Info   :   BepInEx] Loading [Hotbar Switch 0.2.0]
 [Info   :   BepInEx] Loading [Notification Tweaks 0.5.0]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B1E75EE7A0.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B1E75EF7B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001740DB229E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001740DB2DA90.dll
 [Info   :   BepInEx] Loading [Show Container Contents 0.4.0]
 [Info   :   BepInEx] Loading [LocalizationCache 0.2.0]
 [Info   :   BepInEx] Loading [Configuration Manager 18.2]
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.5.19]
-01/05/2024 18:02:07: Loaded localization file #0 - 'localization' language: 'English'
-01/05/2024 18:02:07: Loaded localization file #1 - 'localization_extra' language: 'English'
-01/05/2024 18:02:07: Loaded localization file #2 - 'heightmap_message' language: 'English'
-01/05/2024 18:02:07: Loaded localization file #3 - 'localization_hildir' language: 'English'
-01/05/2024 18:02:07: Loaded localization file #4 - 'localization_emotes' language: 'English'
+01/08/2024 18:40:25: Loaded localization file #0 - 'localization' language: 'English'
+01/08/2024 18:40:25: Loaded localization file #1 - 'localization_extra' language: 'English'
+01/08/2024 18:40:25: Loaded localization file #2 - 'heightmap_message' language: 'English'
+01/08/2024 18:40:25: Loaded localization file #3 - 'localization_hildir' language: 'English'
+01/08/2024 18:40:25: Loaded localization file #4 - 'localization_emotes' language: 'English'
 [Info   :   BepInEx] Loading [Spawn That! 1.2.8]
 [Info   :   BepInEx] Loading [Jotunn 2.16.1]
 [Info   :   BepInEx] Loading [Horemvores Assembly 1.0.6]
@@ -90,14 +91,17 @@ Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/c
 [Info   :   BepInEx] Loading [BalrondShipyard 1.2.6]
 [Info   :   BepInEx] Loading [BeeKeeper 1.0.2]
 [Info   :   BepInEx] Loading [BowPlugin 1.7.3]
-[Info   :   BepInEx] Loading [ClayBuildPieces 1.0.5]
+[Info   :   BepInEx] Loading [ClayBuildPieces 1.0.6]
 [Info   :   BepInEx] Loading [CombatIncentivesREwrite 1.0.6]
+[Info   :   BepInEx] Loading [Terraheim 2.3.9]
+[Info   :   BepInEx] Loading [TerraheimItems 2.3.8]
 [Info   :   BepInEx] Loading [CombatOverhaulREwrite 1.1.8]
 [Info   :   BepInEx] Loading [CookingAdditions 1.0.8]
 [Info   :   BepInEx] Loading [FineWoodBuildPieces 1.0.0]
 [Info   :   BepInEx] Loading [GlassPieces 1.0.6]
 [Info   :   BepInEx] Loading [Herbalist 1.3.1]
 [Info   :   BepInEx] Loading [MagicPlugin 1.8.3]
+[Info   :   BepInEx] Loading [NoDropsFromMonsterKill 1.0.8]
 [Info   :   BepInEx] Loading [VikingsDoSwim 1.3.1]
 [Info   :   BepInEx] Loading [WieldEquipmentWhileSwimming 1.0.8]
 [Info   :   BepInEx] Loading [BreedingTweaks 1.0.0]
@@ -971,14 +975,17 @@ Corrupt shader bytecode, couldn't decode 0 bytes
 [Info   :   BepInEx] Loading [ItemHopper 1.4.2]
 [Info   :   BepInEx] Loading [AsocialCartography 0.1.0]
 [Info   :   BepInEx] Loading [PinAssistant 1.7.0]
+[Info   :   BepInEx] Loading [Leash 1.1.7]
 [Info   :   BepInEx] Loading [Crawler 0.0.7]
 Loading Nasty Crawler
 [Info   :   BepInEx] Loading [Better Networking 2.3.2]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B318193010.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B33DD50080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000017591F1FA20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001759228C020.dll
 [Info   :   BepInEx] Loading [ServerSideMap 1.3.10.0]
 [Info   :   BepInEx] Loading [FurtherUpgrades 1.1.1]
 [Info   :   BepInEx] Loading [NoAFKEvents 1.0.2]
+[Info   :   BepInEx] Loading [BlacksmithTools 2.0.1]
+[Info   :   BepInEx] Loading [JudesEquipment 2.2.4]
 [Info   :   BepInEx] Loading [Quick Stack - Store - Sort - Trash - Restock 1.4.5]
 [Info   :   BepInEx] Loading [Golem 0.0.7]
 Loading Golem
@@ -993,6 +1000,12 @@ Loading Golem
 [Info   :   BepInEx] Loading [FancyFoods 0.3.1]
 [Info   :   BepInEx] Loading [Lycanthrope 1.0.7]
 [Info   :   BepInEx] Loading [Marketplace NPCs 1.0.0]
+[Info   :   BepInEx] Loading [Hugos Armory 8.3.5]
+[Warning:Hugos Armory] Failed to find 'C:\Users\johnf\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Project Valheim\BepInEx\config\htd.armory_itemdata.cfg' will create config of same name with default values.
+[Warning:Hugos Armory] Failed to find 'C:\Users\johnf\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Project Valheim\BepInEx\config\htd.armory_recipeData.cfg' will create config of same name with default values.
+[Warning:Hugos Armory] Failed to find 'C:\Users\johnf\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Project Valheim\BepInEx\config\htd.armory_armorData.cfg' will create config of same name with default values.
+[Info   :   BepInEx] Loading [More Player Cloth Colliders 3.1.0]
+[Info   :   BepInEx] Loading [Shapekeys and More 2.3.2]
 [Info   :   BepInEx] Loading [RuneMagic 1.1.26]
 Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [Forsaken Power Overhaul 1.1.4]
@@ -1003,15 +1016,16 @@ Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [kg.NoMoreCrashes 1.5.0]
 [Info   :   BepInEx] Loading [TameableCollector 1.0.0]
 [Info   :   BepInEx] Loading [Valheim Enchantment System 1.6.6]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B3B9CF9A60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001764F4B2390.dll
+[Info   :   BepInEx] Loading [1.1.0 1.1.0]
 [Info   :   BepInEx] Loading [Less ZDO Corruption 1.0.1]
 [Info   :   BepInEx] Loading [Surtling Core Overclocking 1.3.2]
 [Info   :   BepInEx] Loading [Soulcatcher 4.5.4]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B3CCA9CAE0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000176779A1BF0.dll
 [Info   :   BepInEx] Loading [MarketplaceAndServerNPCs 9.2.2]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B37FDBCE50.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B3B9CE9610.dll
-[Info   :   BepInEx] Loading [ValheimArmory 1.6.5]
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000017677B3A210.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001764F4A5350.dll
+[Info   :   BepInEx] Loading [ValheimArmory 1.7.0]
 [Info   :   BepInEx] Loading [BetterUI 2.5.4]
 [Info   :   BepInEx] Loading [MagicWeapons 1.2.0]
 [Info   :   BepInEx] Loading [CycleChests 0.1.0]
@@ -1050,38 +1064,10 @@ SlayerSkills: Awake
 [Info   :   BepInEx] Loading [FortifySkillsRedux 1.0.7]
 [Info   :   BepInEx] Loading [SafetyStatus 1.0.0]
 [Info   :   BepInEx] Loading [SkilledCarryWeight 1.2.1]
-[Info   :   BepInEx] Loading [AdvancedTerrainModifiers 1.2.3]
+[Info   :   BepInEx] Loading [AdvancedTerrainModifiers 1.2.4]
 [Info   :   BepInEx] Loading [Marks all portals on the minimap when renaming and using them. Removes them on destroy. 1.1.0]
 [Info   :   BepInEx] Loading [Harpoon Extended 1.1.6]
 [Info   :   BepInEx] Loading [Quickstep 1.0.3]
 [Info   :   BepInEx] Loading [Traders Extended 1.0.18]
-[Info   :   BepInEx] Loading [RtDBiomes 1.5.6]
+[Info   :   BepInEx] Loading [RtDBiomes 1.5.7]
 [Info   :   BepInEx] Loading [SouthsilArmor 3.0.4]
-[Info   :   BepInEx] Loading [BlastFurnaceTakesAll 1.0.3]
-[Info   :   BepInEx] Loading [NoSmokeSimplified 1.0.7]
-[Info   :   BepInEx] Loading [Warfare 1.6.2]
-[Info   :   BepInEx] Loading [Armory 1.1.6]
-[Info   :   BepInEx] Loading [Monstrum 1.3.2]
-[Info   :   BepInEx] Loading [WarfareFireAndIce 1.1.1]
-[Info   :   BepInEx] Loading [MonstrumAshlands 1.1.4]
-[Info   :   BepInEx] Loading [MonstrumDeepNorth 1.1.3]
-[Info   :   BepInEx] Loading [ValheimLegends 0.5.0]
-01/05/2024 18:04:25: Valheim Legends attempting to find VLAssets in the directory with C:\Users\johnf\AppData\Roaming\r2modmanPlus-local\Valheim\profiles\Project Valheim\BepInEx\plugins\Torann_VL-Valheim_Legends\ValheimLegends.dll
-[Info   :   BepInEx] Loading [EpicMMOSystem 1.8.94]
-[Info   :   BepInEx] Loading [RareMagicPortal 2.7.2]
-[Info   :   BepInEx] Loading [Wizard 0.0.7]
-Loading Wizard
-[Info   :   BepInEx] Loading [Comfort Tweaks 3.2.10]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B6C40A7D10.dll
-[Info   :   BepInEx] Loading [DragonRiders 1.0.5]
-Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-[Info   :   BepInEx] Loading [hnmbow 1.0.1]
-[Message:   BepInEx] Chainloader startup complete
-Looking for transpiler match
-Found Transpiler Patch
-[Info   :StartupAccelerator] Batch-patched 814 methods after Chainloader end in 5450 ms
-01/05/2024 18:04:44: Fetching PlatformPrefs 'GuiScale' before loading defaults
-01/05/2024 18:04:44: Fetching PlatformPrefs 'GuiScale' before loading defaults
-Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
-Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
-Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
