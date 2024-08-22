@@ -1,164 +1,1443 @@
 Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
 Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001AE964FC0C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001AE9B46C040.dll
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
-Initialize engine version: 2022.3.12f1 (4fe6e059c7ef)
+Initialize engine version: 2022.3.17f1 (4fc78088f837)
 [Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
-GfxDevice: creating device client; threaded=1; jobified=1
+GfxDevice: creating device client; threaded=1; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
     Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
     Vendor:   NVIDIA
     VRAM:     4040 MB
-    Driver:   31.0.15.5123
+    Driver:   31.0.15.5212
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.939 seconds
+- Loaded All Assemblies, in  0.089 seconds
 - Finished resetting the current domain, in  0.001 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.300400 ms
-02/08/2024 08:49:00: Fetching PlatformPrefs 'GuiScale' before loading defaults
-02/08/2024 08:49:00: Fetching PlatformPrefs 'GuiScale' before loading defaults
+UnloadTime: 0.672700 ms
+[Message:   BepInEx] BepInEx 5.4.22.0 - valheim (04/07/2024 6:48:10 PM)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2022.3.17.5228416
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [ShutUp 1.0.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 92 plugins to load
+[Info   :   BepInEx] Loading [PlantEverything 1.18.1]
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001AF07EE2540.dll
+[Info   :   BepInEx] Loading [AzuAntiArthriticCrafting 1.5.6]
+[Info   :   BepInEx] Loading [AzuAntiCheat 4.3.8]
+08/21/2024 01:12:31: Loaded localization file #0 - 'localization' language: 'English'
+08/21/2024 01:12:31: Loaded localization file #1 - 'localization_extra' language: 'English'
+08/21/2024 01:12:31: Loaded localization file #2 - 'heightmap_message' language: 'English'
+08/21/2024 01:12:31: Loaded localization file #3 - 'localization_hildir' language: 'English'
+08/21/2024 01:12:31: Loaded localization file #4 - 'localization_emotes' language: 'English'
+08/21/2024 01:12:31: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+08/21/2024 01:12:31: Loaded localization file #0 - 'localization' language: 'English'
+08/21/2024 01:12:31: Loaded localization file #1 - 'localization_extra' language: 'English'
+08/21/2024 01:12:31: Loaded localization file #2 - 'heightmap_message' language: 'English'
+08/21/2024 01:12:31: Loaded localization file #3 - 'localization_hildir' language: 'English'
+08/21/2024 01:12:31: Loaded localization file #4 - 'localization_emotes' language: 'English'
+08/21/2024 01:12:31: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[Info   :   BepInEx] Loading [AzuExtendedPlayerInventory 1.4.3]
+[Info   :   BepInEx] Loading [AzuMapDetails 1.0.3]
+[Info   :   BepInEx] Loading [Backpacks 1.3.4]
+[Info   :   BepInEx] Loading [BowsBeforeHoes 1.3.9]
+[Info   :   BepInEx] Loading [CraftyCarts 3.1.4]
+[Info   :   BepInEx] Loading [ImFRIENDLYDAMMIT 1.1.7]
+[Info   :   BepInEx] Loading [NoCultivatorDust 1.0.6]
+[Info   :   BepInEx] Loading [Queue_Me_Maybe 1.1.2]
+[Info   :   BepInEx] Loading [RecipeDescriptionExpansion 1.1.4]
+[Info   :   BepInEx] Loading [Recycle_N_Reclaim 1.3.4]
+[Debug  :   BepInEx] [UnityInput] Using LegacyInputSystem
+[Info   :   BepInEx] Loading [RemoveAttackFreezeFrame 1.0.2]
+[Info   :   BepInEx] Loading [ResourceUnloadOptimizer 1.0.4]
+[Info   :   BepInEx] Loading [SleepSkip 1.2.0]
+[Info   :   BepInEx] Loading [BalrondContainers 1.2.8]
+[Info   :   BepInEx] Loading [BalrondShipyard 1.4.8]
+ERROR: Shader  shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader  shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+[Info   :   BepInEx] Loading [RavenwoodBalrdonPieces 1.0.4]
+ERROR: Shader  shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader  shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader  shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader  shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader  shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+ERROR: Shader  shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+[Info   :   BepInEx] Loading [CombatOverhaulREwrite 1.2.1]
+[Info   :   BepInEx] Loading [VikingsDoSwim 1.3.4]
+08/21/2024 01:12:48: Loaded localization file #0 - 'localization' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #1 - 'localization_extra' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #2 - 'heightmap_message' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #3 - 'localization_hildir' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #4 - 'localization_emotes' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #0 - 'localization' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #1 - 'localization_extra' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #2 - 'heightmap_message' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #3 - 'localization_hildir' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #4 - 'localization_emotes' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #0 - 'localization' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #1 - 'localization_extra' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #2 - 'heightmap_message' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #3 - 'localization_hildir' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #4 - 'localization_emotes' language: 'English'
+08/21/2024 01:12:48: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[Info   :   BepInEx] Loading [WieldEquipmentWhileSwimming 1.1.0]
+[Info   :   BepInEx] Loading [ComfyGizmo 1.10.0]
+[Info   :   BepInEx] Loading [Hotbar Switch 0.3.2]
+[Info   :   BepInEx] Loading [Instant Monster Drop 0.6.0]
+[Info   :   BepInEx] Loading [SurtlingBoats 2.0.7]
+[Info   :   BepInEx] Loading [Configuration Manager 18.3]
+[Info   :   BepInEx] Loading [LocalizationCache 0.2.0]
+[Info   :   BepInEx] Loading [Jotunn 2.20.3]
+[Info   :   BepInEx] Loading [MissingPieces 2.2.0]
+[Info   :   BepInEx] Loading [Frogger.NoUselessWarnings 1.1.0]
+[Info   :   BepInEx] Loading [MultiUserChest 0.5.10]
+[Info   :   BepInEx] Loading [ItemHopper 1.5.0]
+[Info   :   BepInEx] Loading [AsocialCartography 0.2.1]
+[Info   :   BepInEx] Loading [CarryMeMaster 1.0.0]
+[Info   :   BepInEx] Loading [Better Networking 2.3.2]
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001AFDB194030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001AFDB407010.dll
+[Info   :   BepInEx] Loading [Digitalroot's Slope Combat Assistance 2.0.25]
+[Info   :   BepInEx] Loading [ICanSeeClearlyNow 1.1.2]
+[Info   :   BepInEx] Loading [ServerSideMap 1.3.11.0]
+[Info   :   BepInEx] Loading [Expand World Data 1.44]
+[Info   :   BepInEx] Loading [Expand World Events 1.8]
+[Info   :   BepInEx] Loading [Expand World Rivers 1.9]
+[Info   :   BepInEx] Loading [Expand World Size 1.18]
+[Info   :   BepInEx] Loading [NoAFKEvents 1.0.2]
+[Info   :   BepInEx] Loading [Instantly Destroy Boats and Carts 1.0.4]
+[Info   :   BepInEx] Loading [Quick Stack - Store - Sort - Trash - Restock 1.4.8]
+[Info   :   BepInEx] Loading [Sneak Camera and Collision Height 1.0.2]
+[Info   :   BepInEx] Loading [Sorted Cooking, Crafting and Skills Menu 1.3.3]
+[Info   :   BepInEx] Loading [BlastFurnacePatched 1.0.3]
+[Info   :   BepInEx] Loading [RuneMagic 1.2.0]
+Shader 'Standard TwoSided': fallback shader 'VertexLit' not found
+Calculated centers for 29 icebergs
+[Info   :   BepInEx] Loading [VagonsJVL 1.0.2]
+[Info   :   BepInEx] Loading [kg.ItemDrawers 1.0.8]
+[Info   :   BepInEx] Loading [Simple Chat 1.2.0]
+[Info   :   BepInEx] Loading [InstantFertilizer 0.3.0]
+[Info   :   BepInEx] Loading [OdinsKingdom 1.2.26]
+[Info   :   BepInEx] Loading [HoneyPlus 5.3.2]
+[Warning:Jotunn.Managers.ItemManager] [HoneyPlus] Custom item HoneySausages already added
+[Info   :   BepInEx] Loading [AutoFollowPath 1.6.6]
+[Info   :   BepInEx] Loading [Blacksmithing 1.3.0]
+[Info   :   BepInEx] Loading [Building 1.2.5]
+[Info   :   BepInEx] Loading [Combat Owner 1.0.0]
+[Info   :   BepInEx] Loading [Cooking 1.1.16]
+[Info   :   BepInEx] Loading [Darwin Awards 1.0.6]
+[Info   :   BepInEx] Loading [Exploration 1.0.3]
+[Info   :   BepInEx] Loading [Farming 2.1.12]
+[Info   :   BepInEx] Loading [Foraging 1.0.9]
+[Info   :   BepInEx] Loading [Lumberjacking 1.0.5]
+[Info   :   BepInEx] Loading [Mining 1.1.5]
+[Info   :   BepInEx] Loading [PackHorse 1.0.3]
+[Info   :   BepInEx] Loading [Ranching 1.1.3]
+[Info   :   BepInEx] Loading [Sailing 1.1.7]
+[Info   :   BepInEx] Loading [Server Characters 1.4.12]
+[Info   :   BepInEx] Loading [Smart Skills 1.0.2]
+[Info   :   BepInEx] Loading [Smooth Save 1.0.5]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.2]
+[Info   :   BepInEx] Loading [Minimal Status Effects 1.0.7]
+[Info   :   BepInEx] Loading [BetterZeeLog 1.10.1]
+[Info   :   BepInEx] Loading [EulersRuler 1.8.0]
+[Info   :   BepInEx] Loading [Scenic 1.4.0]
+[Info   :   BepInEx] Loading [SearsCatalog 1.5.1]
+[Info   :   BepInEx] Loading [Ruler 1.5]
+[Info   :   BepInEx] Loading [Messenger 1.0.1]
+[Info   :   BepInEx] Loading [PortalTweaks 1.0.1]
+[Info   :   BepInEx] Loading [UsefulPaths 1.0.3]
+[Info   :   BepInEx] Loading [VikingNPC 0.1.0]
+[Info   :   BepInEx] Loading [ExtraSnapPointsMadeEasy 1.3.1]
+[Info   :   BepInEx] Loading [SafetyStatus 1.1.0]
+[Info   :   BepInEx] Loading [AdvancedTerrainModifiers 1.3.3]
+[Info   :   BepInEx] Loading [More Gates Extended 1.0.1]
+[Info   :   BepInEx] Loading [My Little UI 1.1.0]
+[Info   :   BepInEx] Loading [BetterCarts 1.0.7]
+[Info   :   BepInEx] Loading [NoSmokeStayLit 2.3.3]
+[Info   :   BepInEx] Loading [SingleUseSwampKey 1.0.1]
+[Message:   BepInEx] Chainloader startup complete
 Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
 Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
 Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
-02/08/2024 08:49:00: Starting to load scene:start
-Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
-Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.367700 ms
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-02/08/2024 08:49:07: Using environment steamid 892970
-02/08/2024 08:49:07: Using steam APPID:892970
-02/08/2024 08:49:07: Authentication:k_ESteamNetworkingAvailability_Attempting
-02/08/2024 08:49:07: Steam initialized, persona:LadYKilleR
-02/08/2024 08:49:07: PlayFab custom ID set to "Steam_76561198225131996"
-02/08/2024 08:49:07: Using default prefs
-02/08/2024 08:49:07: Valheim version: 0.217.38 (network version 20)
-Trying to set graphic mode to 'Custom'
-Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
-Graphic mode 'Custom' applied!
-02/08/2024 08:49:07: Worldgenerator version setup:2
-02/08/2024 08:49:07: Render threading mode:LegacyJobified
-02/08/2024 08:49:07: Set button "CamZoomIn" to None!
-02/08/2024 08:49:07: Set button "CamZoomOut" to None!
-02/08/2024 08:49:07: Set button "CamZoomIn" to None!
-02/08/2024 08:49:07: Set button "CamZoomOut" to None!
-02/08/2024 08:49:07: Loaded localization file #0 - 'localization' language: 'English'
-02/08/2024 08:49:07: Loaded localization file #1 - 'localization_extra' language: 'English'
-02/08/2024 08:49:07: Loaded localization file #2 - 'heightmap_message' language: 'English'
-02/08/2024 08:49:07: Loaded localization file #3 - 'localization_hildir' language: 'English'
-02/08/2024 08:49:07: Loaded localization file #4 - 'localization_emotes' language: 'English'
-02/08/2024 08:49:07: Loaded localization file #0 - 'localization' language: 'English'
-02/08/2024 08:49:07: Loaded localization file #1 - 'localization_extra' language: 'English'
-02/08/2024 08:49:07: Loaded localization file #2 - 'heightmap_message' language: 'English'
-02/08/2024 08:49:07: Loaded localization file #3 - 'localization_hildir' language: 'English'
-02/08/2024 08:49:07: Loaded localization file #4 - 'localization_emotes' language: 'English'
-02/08/2024 08:49:08: Missing audio clip in music respawn
-02/08/2024 08:49:08: Checking for installed DLCs
-02/08/2024 08:49:08: DLC:beta installed:False
-02/08/2024 08:49:08: Builder started
-02/08/2024 08:49:08: Sending PlayFab login request (attempt 1)
-02/08/2024 08:49:08: Starting music menu
-Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 155834.
-Total: 61.526100 ms (FindLiveObjects: 8.716900 ms CreateObjectMapping: 12.633600 ms MarkObjects: 39.853000 ms  DeleteObjects: 0.322500 ms)
+[08/21/2024 01:13:06] Set background loading budget to Low
+Unloading 5 Unused Serialized files (Serialized files now loaded: 38)
+UnloadTime: 1.390800 ms
+[08/21/2024 01:13:10] Fetching PlatformPrefs 'GuiScale' before loading defaults
+[08/21/2024 01:13:10] Fetching PlatformPrefs 'GuiScale' before loading defaults
+Unloading 811 unused Assets to reduce memory usage. Loaded Objects now: 144298.
+Total: 143.354200 ms (FindLiveObjects: 7.235100 ms CreateObjectMapping: 12.970700 ms MarkObjects: 122.095400 ms  DeleteObjects: 1.052900 ms)
 
-02/08/2024 08:49:09: PlayFab logged in as "Steam_76561198225131996"
-02/08/2024 08:49:09: PlayFab local entity ID is 40F419CEDBFB678D
-02/08/2024 08:49:11: Stopping build thread
+[08/21/2024 01:13:10] Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+[08/21/2024 01:13:10] Set background loading budget to Normal
+[08/21/2024 01:13:15] Set background loading budget to High
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1152)
+[08/21/2024 01:13:31] Set background loading budget to Low
+UnloadTime: 7.239600 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[08/21/2024 01:13:32] Missing audio clip in music respawn
+[08/21/2024 01:13:32] Loaded localization file #0 - 'localization' language: 'English'
+[08/21/2024 01:13:32] Loaded localization file #1 - 'localization_extra' language: 'English'
+[08/21/2024 01:13:32] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[08/21/2024 01:13:32] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[08/21/2024 01:13:32] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[08/21/2024 01:13:32] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[08/21/2024 01:13:32] Loaded localization file #0 - 'localization' language: 'English'
+[08/21/2024 01:13:32] Loaded localization file #1 - 'localization_extra' language: 'English'
+[08/21/2024 01:13:32] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[08/21/2024 01:13:32] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[08/21/2024 01:13:32] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[08/21/2024 01:13:33] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[08/21/2024 01:13:33] Loaded localization file #0 - 'localization' language: 'English'
+[08/21/2024 01:13:33] Loaded localization file #1 - 'localization_extra' language: 'English'
+[08/21/2024 01:13:33] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[08/21/2024 01:13:33] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[08/21/2024 01:13:33] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[08/21/2024 01:13:33] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[08/21/2024 01:13:33] Using environment steamid 892970
+[08/21/2024 01:13:33] Using steam APPID:892970
+[08/21/2024 01:13:33] Authentication:k_ESteamNetworkingAvailability_Attempting
+[08/21/2024 01:13:33] Steam initialized, persona:Ana na may L
+[08/21/2024 01:13:33] PlayFab custom ID set to "Steam_76561198287391004"
+[08/21/2024 01:13:33] Using default prefs
+[08/21/2024 01:13:33] Valheim version: 0.218.19-ServerCharacters (network version 27)
+Trying to set graphic mode to 'Performance'
+Graphic mode 'Performance' applied!
+[08/21/2024 01:13:33] Worldgenerator version setup:2
+[08/21/2024 01:13:35] Render threading mode:MultiThreaded
+[08/21/2024 01:13:35] Set button "CamZoomIn" to None!
+[08/21/2024 01:13:35] Set button "CamZoomOut" to None!
+[08/21/2024 01:13:35] Set button "CamZoomIn" to None!
+[08/21/2024 01:13:35] Set button "CamZoomOut" to None!
+[08/21/2024 01:13:35] Checking for installed DLCs
+[08/21/2024 01:13:35] DLC:beta installed:False
+[08/21/2024 01:13:35] Builder started
+ObjectDB_Awake_Patch ran
+ObjectDB_CopyOtherDB_Patch ran
+[RecipeHandler] Added recipe: Recipe_RuneFocus
+[08/21/2024 01:13:36] Loaded localization file #0 - 'localization' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #1 - 'localization_extra' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #0 - 'localization' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #1 - 'localization_extra' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #0 - 'localization' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #1 - 'localization_extra' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[08/21/2024 01:13:36] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[08/21/2024 01:13:37] Sending PlayFab login request (attempt 1)
+[08/21/2024 01:13:37] Starting music menu
+Unloading 1875 unused Assets to reduce memory usage. Loaded Objects now: 424159.
+Total: 254.433100 ms (FindLiveObjects: 26.044100 ms CreateObjectMapping: 39.381700 ms MarkObjects: 185.992400 ms  DeleteObjects: 3.014900 ms)
+
+[08/21/2024 01:13:38] PlayFab logged in as "Steam_76561198287391004"
+[08/21/2024 01:13:38] PlayFab local entity ID is 70233478553F7572
+[08/21/2024 01:14:07] show character selection
+[08/21/2024 01:14:09] OnCharacterStart
+[08/21/2024 01:14:20] Loading main scene
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1154)
+UnloadTime: 16.401900 ms
+[08/21/2024 01:14:20] Audioman already exist, destroying self
+[08/21/2024 01:14:21] Steam initialized, persona:Ana na may L
+[08/21/2024 01:14:21] PlayFab custom ID set to "Steam_76561198287391004"
+[08/21/2024 01:14:21] Using default prefs
+[08/21/2024 01:14:21] Loading player profile sir beer qol
+[08/21/2024 01:14:21] isModded: True
+[08/21/2024 01:14:21] Zonesystem Awake 3033
+[08/21/2024 01:14:21] DungeonDB Awake 3033
+[08/21/2024 01:14:21] Steam initialized, persona:Ana na may L
+[08/21/2024 01:14:21] Registering lobby
+[08/21/2024 01:14:21] Worldgenerator version setup:2
+Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.AzuAntiArthriticCrafting ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.AzuAntiCheat ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.AzuExtendedPlayerInventory ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.AzuMapDetails ConfigSync' RPC - waiting for incoming connections
+Registered 'Backpacks ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.backpacks ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.BowsBeforeHoes ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.BowsBeforeHoes ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.CraftyCarts ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.CraftyCarts PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.Recycle_N_Reclaim ConfigSync' RPC - waiting for incoming connections
+Registered 'Azumatt.SleepSkip ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.CombatOverhaulREwrite ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.VikingsDoSwim ConfigSync' RPC - waiting for incoming connections
+Registered 'blacks7ar.WieldEquipmentWhileSwimming ConfigSync' RPC - waiting for incoming connections
+Registered 'coemt.SurtlingBoats ConfigSync' RPC - waiting for incoming connections
+Registered 'expand_world_data ConfigSync' RPC - waiting for incoming connections
+Registered 'expand_world_events ConfigSync' RPC - waiting for incoming connections
+Registered 'kg.ItemDrawers ConfigSync' RPC - waiting for incoming connections
+Registered 'kg.ItemDrawers PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'OdinsKingdom ConfigSync' RPC - waiting for incoming connections
+Registered 'odinplus.plugins.odinskingdom ItemManager ConfigSync' RPC - waiting for incoming connections
+Registered 'odinplus.plugins.odinskingdom PieceManager ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.blacksmithing ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.building ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.cooking ConfigSync' RPC - waiting for incoming connections
+Registered 'Darwin Awards ConfigSync' RPC - waiting for incoming connections
+Registered 'Exploration ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.farming ConfigSync' RPC - waiting for incoming connections
+Registered 'Foraging ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.lumberjacking ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.mining ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.packhorse SkillManager ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.ranching ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.sailing ConfigSync' RPC - waiting for incoming connections
+Registered 'org.bepinex.plugins.servercharacters ConfigSync' RPC - waiting for incoming connections
+Registered 'Smart Skills ConfigSync' RPC - waiting for incoming connections
+Registered 'RustyMods.Messenger ConfigSync' RPC - waiting for incoming connections
+Registered 'RustyMods.PortalTweaks ConfigSync' RPC - waiting for incoming connections
+Registered 'RustyMods.UsefulPaths ConfigSync' RPC - waiting for incoming connections
+Registered 'RustyMods.VikingNPC ConfigSync' RPC - waiting for incoming connections
+Registered 'shudnal.MyLittleUI ConfigSync' RPC - waiting for incoming connections
+Registered 'TastyChickenLegs.BetterCarts ConfigSync' RPC - waiting for incoming connections
+Registered 'TastyChickenLegs.NoSmokeStayLit ConfigSync' RPC - waiting for incoming connections
+Registered 'warpalicious.SingleUseSwampKey ConfigSync' RPC - waiting for incoming connections
+Registered 'goldenrevolver.quick_stack_store ConfigSync' RPC - waiting for incoming connections
+Registered 'expand_world_rivers ConfigSync' RPC - waiting for incoming connections
+Registered 'expand_world_size ConfigSync' RPC - waiting for incoming connections
+[SHIP] Item already exists in Znet skipping: SailInk
+[SHIP] Item already exists in Znet skipping: CoalPaste
+[SHIP] Item already exists in Znet skipping: HelmetPirateBandana
+[SHIP] Item already exists in Znet skipping: HelmetPirateHat
+[SHIP] Item already exists in Znet skipping: SledgeAnchor
+[SHIP] Item already exists in Znet skipping: CapeSailor
+[SHIP] Item already exists in Znet skipping: ShieldSteering
+[SHIP] Item already exists in Znet skipping: SwordSaber
+ZNetScene_Awake_Patch ran
+[08/21/2024 01:14:34] Loaded localization file #0 - 'localization' language: 'English'
+[08/21/2024 01:14:34] Loaded localization file #1 - 'localization_extra' language: 'English'
+[08/21/2024 01:14:34] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[08/21/2024 01:14:34] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #0 - 'localization' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #1 - 'localization_extra' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #0 - 'localization' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #1 - 'localization_extra' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[08/21/2024 01:14:35] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[08/21/2024 01:14:35] Checking for installed DLCs
+[08/21/2024 01:14:35] DLC:beta installed:False
+ObjectDB_Awake_Patch ran
+[RecipeHandler] Added recipe: Recipe_RuneFocus
+Unloading 1014 unused Assets to reduce memory usage. Loaded Objects now: 432073.
+Total: 215.860600 ms (FindLiveObjects: 27.230000 ms CreateObjectMapping: 41.774800 ms MarkObjects: 137.166300 ms  DeleteObjects: 9.689200 ms)
+
+[08/21/2024 01:14:36] Zonesystem Start 3033
+[08/21/2024 01:14:36] Added 1 settler locations
+[08/21/2024 01:14:36] Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+[08/21/2024 01:14:36] Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+[08/21/2024 01:14:36] Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+[08/21/2024 01:14:36] Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+[08/21/2024 01:14:36] Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+ZoneSystem_Start_Patch ran
+Skipping BossStone_Yagluth
+Skipping BossStone_Bonemass
+Skipping BossStone_TheQueen
+Skipping BossStone_TheElder
+Skipping BossStone_Eikthyr
+Skipping BossStone_Fader
+Skipping BossStone_DragonQueen
+Cached water surface vertex order
+[08/21/2024 01:14:37] DungeonDB Start 3033
+[08/21/2024 01:14:46] ZRpc timeout set to 300s 
+[08/21/2024 01:14:46] ZNET START
+[08/21/2024 01:14:46] Load world: ValheimQOL (ValheimQOL)
+[08/21/2024 01:14:46] Loading 327695 zdos, my sessionID: 1615634015, data version: 34
+[08/21/2024 01:14:46] Loading in ZDOs
+[08/21/2024 01:14:47] Adding to Dictionary
+[08/21/2024 01:14:47] Adding to Sectors
+[08/21/2024 01:14:47] Connecting Portals, Spawners & ZSyncTransforms
+ConnectPortals => Connected 2 portals.
+ConnectSpawners => Connected 66 spawners and 372 'done' spawners.
+[08/21/2024 01:14:47] Loaded 23279 locations
+[08/21/2024 01:14:47] Unloading unused assets
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1155)
+Am I Host? True
+[08/21/2024 01:14:47] Starting respawn
+[08/21/2024 01:14:47] Lobby was created k_EResultOK  109775240941266452  error:False
+[08/21/2024 01:14:47] Got requested lobby data
+[08/21/2024 01:14:48] Minimap: unpacking compressed mapData 18389 => 18874377 bytes
+[08/21/2024 01:14:48] tip:$loadscreen_tip19
+[08/21/2024 01:14:48] Got requested lobby data
+Unloading 84685 unused Assets to reduce memory usage. Loaded Objects now: 372455.
+Total: 365.459700 ms (FindLiveObjects: 29.840200 ms CreateObjectMapping: 47.677100 ms MarkObjects: 232.540600 ms  DeleteObjects: 55.401600 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PortalTweaks.Behaviors.PortalCharge.CanTeleport () [0x00014] in <f4f59625e6c542fd928ad7cbbdbc5f18>:0 
+  at PortalTweaks.Tweaks.Portal+TeleportWorld_HaveTarget_Patch.Postfix (TeleportWorld __instance, System.Boolean& __result) [0x00012] in <f4f59625e6c542fd928ad7cbbdbc5f18>:0 
+  at (wrapper dynamic-method) TeleportWorld.DMD<TeleportWorld::HaveTarget>(TeleportWorld)
+  at TeleportWorld.Awake () [0x00021] in <79989041713a40fba2973f1624473248>:0 
+UnityEngine.Object:Internal_InstantiateSingle_Injected(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
+ZNetScene:CreateObject(ZDO)
+ZNetScene:CreateObjectsSorted(List`1, Int32, Int32&)
+ZNetScene:CreateObjects(List`1, List`1)
+ZNetScene:DMD<ZNetScene::CreateDestroyObjects>(ZNetScene)
+ZNetScene:Update()
+
+Skipping BossStone_Eikthyr
+[08/21/2024 01:14:53] Done fading color
+[08/21/2024 01:14:53] Vis equip model set to 1
+[08/21/2024 01:14:53] Vis equip model set to 1
+[08/21/2024 01:14:53] Vis equip model set to 1
+[08/21/2024 01:14:53] Vis equip model set to 1
+[08/21/2024 01:14:57] Spawned after 8.019994
+[08/21/2024 01:14:57] Missing stat for guardian power: 
+Caching server config
+Sending server config to 0 clients
+Caching server config
+Sending server config to 0 clients
+[08/21/2024 01:14:57] Skipping unloading unused assets
+[08/21/2024 01:14:57] Minimap: Adding unique location (-3.24, 55.17, -2.88)
+[08/21/2024 01:14:59] Starting music meadows
+[08/21/2024 01:14:59] Resumed music meadows at 0
+[08/21/2024 01:15:10] Starting respawn
+[08/21/2024 01:15:10] Local player destroyed
+[08/21/2024 01:15:10] tip:$loadscreen_tip13
+[08/21/2024 01:15:10] Missing stat for guardian power: 
+Caching server config
+Sending server config to 0 clients
+Caching server config
+Sending server config to 0 clients
+[08/21/2024 01:15:10] Skipping unloading unused assets
+[08/21/2024 01:15:21] Stopped music meadows at 980313
+[08/21/2024 01:15:21] Starting music meadows
+[08/21/2024 01:15:21] Resumed music meadows at 980313
+[08/21/2024 01:20:38] Update PlayFab entity token
+[08/21/2024 01:29:06] Starting music evening
+[08/21/2024 01:29:07] Stopped music meadows at 8299003
+[08/21/2024 01:32:13] Spawned Greydwarf x 1
+[08/21/2024 01:36:13] Spawned Greydwarf x 1
+[08/21/2024 01:38:08] Starting music morning
+[08/21/2024 01:38:41] Starting music meadows
+[08/21/2024 01:40:35] Update PlayFab entity token
+Am I Host? True
+[08/21/2024 01:44:20] Available space to current user: 200047788032. Saving is blocked if below: 30693646 bytes. Warnings are given if below: 61387292
+[08/21/2024 01:44:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 01:44:21] Considering autobackup. World time: 1768.68, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 01:44:21] No autobackup needed yet...
+[08/21/2024 01:44:21] Sending message to save player profiles
+[08/21/2024 01:44:22] World save writing starting
+[08/21/2024 01:44:22] World save writing started
+[08/21/2024 01:44:24] Saved 327695 ZDOs
+[08/21/2024 01:44:24] World save writing finishing
+[08/21/2024 01:44:24] World save writing finished
+[08/21/2024 01:44:24] World saved ( 1445.2248ms )
+[08/21/2024 01:44:24] Considering autobackup. World time: 1771.9, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 01:44:24] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 01:55:35] Update PlayFab entity token
+[08/21/2024 01:59:07] Starting music evening
+[08/21/2024 01:59:08] Stopped music meadows at 5541658
+[08/21/2024 01:59:40] Spawned Greydwarf x 1
+[08/21/2024 02:06:22] Spawned Greydwarf x 1
+[08/21/2024 02:08:08] Starting music morning
+[08/21/2024 02:08:42] Starting music meadows
+Am I Host? True
+[08/21/2024 02:14:20] Available space to current user: 200039530496. Saving is blocked if below: 30495552 bytes. Warnings are given if below: 60991104
+[08/21/2024 02:14:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 02:14:21] Considering autobackup. World time: 3568.44, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 02:14:21] Overwrite our newest autobackup since the second one isn't so old
+[08/21/2024 02:14:21] Replacing backup file: sir beer qol_backup_auto-20240821000520
+[08/21/2024 02:14:21] Saving backup at: sir beer qol_backup_auto-20240821021421
+[08/21/2024 02:14:21] Sending message to save player profiles
+[08/21/2024 02:14:22] World save writing starting
+[08/21/2024 02:14:22] World save writing started
+[08/21/2024 02:14:23] Saved 327698 ZDOs
+[08/21/2024 02:14:23] World save writing finishing
+[08/21/2024 02:14:23] World save writing finished
+[08/21/2024 02:14:23] World saved ( 1433.1592ms )
+[08/21/2024 02:14:23] Considering autobackup. World time: 3571.48, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 02:14:23] Overwrite our newest autobackup since the second one isn't so old
+[08/21/2024 02:14:23] Replacing backup file: ValheimQOL_backup_auto-20240821000523
+[08/21/2024 02:14:23] Saving backup at: ValheimQOL_backup_auto-20240821021422
+[08/21/2024 02:14:23] World auto backup saved ( 00:00:00.0161034ms )
+Am I Host? True
+[08/21/2024 02:14:36] Update PlayFab entity token
+[08/21/2024 02:14:52] Unloading unused assets
+[08/21/2024 02:29:07] Starting music evening
+[08/21/2024 02:29:08] Stopped music meadows at 5538835
+[08/21/2024 02:29:10] Update PlayFab entity token
+[08/21/2024 02:32:44] Spawned Greydwarf x 1
+[08/21/2024 02:33:11] Spawned Greydwarf x 1
+[08/21/2024 02:38:08] Starting music morning
+[08/21/2024 02:38:42] Starting music meadows
+Am I Host? True
+[08/21/2024 02:44:20] Available space to current user: 200042246144. Saving is blocked if below: 30495858 bytes. Warnings are given if below: 60991716
+[08/21/2024 02:44:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 02:44:21] Considering autobackup. World time: 5368.12, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 02:44:21] No autobackup needed yet...
+[08/21/2024 02:44:21] Sending message to save player profiles
+[08/21/2024 02:44:22] World save writing starting
+[08/21/2024 02:44:22] World save writing started
+[08/21/2024 02:44:23] Saved 327698 ZDOs
+[08/21/2024 02:44:23] World save writing finishing
+[08/21/2024 02:44:23] World save writing finished
+[08/21/2024 02:44:23] World saved ( 1258.7651ms )
+[08/21/2024 02:44:23] Considering autobackup. World time: 5371.12, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 02:44:23] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 02:45:12] Update PlayFab entity token
+[08/21/2024 02:59:07] Starting music evening
+[08/21/2024 02:59:08] Stopped music meadows at 5541658
+[08/21/2024 02:59:17] Update PlayFab entity token
+[08/21/2024 03:05:00] Spawned Greydwarf x 1
+[08/21/2024 03:06:41] Spawned Greydwarf x 1
+[08/21/2024 03:08:08] Starting music morning
+[08/21/2024 03:08:42] Starting music meadows
+Am I Host? True
+[08/21/2024 03:14:20] Available space to current user: 200015892480. Saving is blocked if below: 30495858 bytes. Warnings are given if below: 60991716
+[08/21/2024 03:14:20] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 03:14:21] Considering autobackup. World time: 7167.88, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 03:14:21] No autobackup needed yet...
+[08/21/2024 03:14:21] Sending message to save player profiles
+[08/21/2024 03:14:22] World save writing starting
+[08/21/2024 03:14:22] World save writing started
+[08/21/2024 03:14:23] Saved 327694 ZDOs
+[08/21/2024 03:14:23] World save writing finishing
+[08/21/2024 03:14:23] World save writing finished
+[08/21/2024 03:14:23] World saved ( 1177.9262ms )
+[08/21/2024 03:14:23] Considering autobackup. World time: 7170.8, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 03:14:23] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 03:14:52] Unloading unused assets
+[08/21/2024 03:19:37] Update PlayFab entity token
+[08/21/2024 03:29:07] Starting music evening
+[08/21/2024 03:29:08] Stopped music meadows at 5540717
+[08/21/2024 03:30:08] Spawned Greydwarf x 1
+[08/21/2024 03:33:29] Spawned Greydwarf x 1
+[08/21/2024 03:38:09] Starting music morning
+[08/21/2024 03:38:42] Starting music meadows
+[08/21/2024 03:40:19] Update PlayFab entity token
+Am I Host? True
+[08/21/2024 03:44:20] Available space to current user: 199968284672. Saving is blocked if below: 30494738 bytes. Warnings are given if below: 60989476
+[08/21/2024 03:44:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 03:44:21] Considering autobackup. World time: 8967.66, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 03:44:21] No autobackup needed yet...
+[08/21/2024 03:44:21] Sending message to save player profiles
+[08/21/2024 03:44:22] World save writing starting
+[08/21/2024 03:44:22] World save writing started
+[08/21/2024 03:44:23] Saved 327694 ZDOs
+[08/21/2024 03:44:23] World save writing finishing
+[08/21/2024 03:44:23] World save writing finished
+[08/21/2024 03:44:23] World saved ( 1230.7807ms )
+[08/21/2024 03:44:23] Considering autobackup. World time: 8970.62, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 03:44:23] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 03:55:48] Update PlayFab entity token
+[08/21/2024 03:59:08] Starting music evening
+[08/21/2024 03:59:09] Stopped music meadows at 5540717
+[08/21/2024 04:01:28] Spawned Greydwarf x 1
+[08/21/2024 04:08:09] Starting music morning
+[08/21/2024 04:08:43] Starting music meadows
+[08/21/2024 04:10:20] Update PlayFab entity token
+Am I Host? True
+[08/21/2024 04:14:20] Available space to current user: 199967113216. Saving is blocked if below: 30494738 bytes. Warnings are given if below: 60989476
+[08/21/2024 04:14:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 04:14:21] Considering autobackup. World time: 10767.4, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 04:14:21] Time to overwrite our last autobackup
+[08/21/2024 04:14:21] Replacing backup file: sir beer qol_backup_auto-20240819191019
+[08/21/2024 04:14:21] Saving backup at: sir beer qol_backup_auto-20240821041421
+[08/21/2024 04:14:21] Sending message to save player profiles
+[08/21/2024 04:14:22] World save writing starting
+[08/21/2024 04:14:22] World save writing started
+[08/21/2024 04:14:23] Saved 327694 ZDOs
+[08/21/2024 04:14:23] World save writing finishing
+[08/21/2024 04:14:23] World save writing finished
+[08/21/2024 04:14:23] World saved ( 1159.2759ms )
+[08/21/2024 04:14:23] Considering autobackup. World time: 10770.3, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 04:14:23] Time to overwrite our last autobackup
+[08/21/2024 04:14:23] Replacing backup file: ValheimQOL_backup_auto-20240819191021
+[08/21/2024 04:14:23] Saving backup at: ValheimQOL_backup_auto-20240821041422
+[08/21/2024 04:14:23] World auto backup saved ( 00:00:00.0185163ms )
+Am I Host? True
+[08/21/2024 04:14:53] Unloading unused assets
+[08/21/2024 04:25:02] Update PlayFab entity token
+[08/21/2024 04:29:08] Starting music evening
+[08/21/2024 04:29:09] Stopped music meadows at 5539776
+[08/21/2024 04:30:27] Spawned Greydwarf x 1
+[08/21/2024 04:33:48] Spawned Greydwarf x 1
+[08/21/2024 04:38:09] Starting music morning
+[08/21/2024 04:38:43] Starting music meadows
+[08/21/2024 04:39:07] Update PlayFab entity token
+Am I Host? True
+[08/21/2024 04:44:20] Available space to current user: 199850745856. Saving is blocked if below: 30494738 bytes. Warnings are given if below: 60989476
+[08/21/2024 04:44:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 04:44:21] Considering autobackup. World time: 12567.16, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 04:44:21] No autobackup needed yet...
+[08/21/2024 04:44:21] Sending message to save player profiles
+[08/21/2024 04:44:22] World save writing starting
+[08/21/2024 04:44:22] World save writing started
+[08/21/2024 04:44:23] Saved 327694 ZDOs
+[08/21/2024 04:44:23] World save writing finishing
+[08/21/2024 04:44:23] World save writing finished
+[08/21/2024 04:44:23] World saved ( 1382.8378ms )
+[08/21/2024 04:44:23] Considering autobackup. World time: 12570.26, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 04:44:23] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 04:56:22] Update PlayFab entity token
+[08/21/2024 04:59:08] Starting music evening
+[08/21/2024 04:59:09] Stopped music meadows at 5541658
+[08/21/2024 05:01:59] Spawned Greydwarf x 1
+[08/21/2024 05:03:57] Spawned Greydwarf x 1
+[08/21/2024 05:08:09] Starting music morning
+[08/21/2024 05:08:43] Starting music meadows
+[08/21/2024 05:10:47] Update PlayFab entity token
+Am I Host? True
+[08/21/2024 05:14:20] Available space to current user: 199714414592. Saving is blocked if below: 30494738 bytes. Warnings are given if below: 60989476
+[08/21/2024 05:14:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 05:14:21] Considering autobackup. World time: 14366.9, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 05:14:21] No autobackup needed yet...
+[08/21/2024 05:14:21] Sending message to save player profiles
+[08/21/2024 05:14:22] World save writing starting
+[08/21/2024 05:14:22] World save writing started
+[08/21/2024 05:14:23] Saved 327694 ZDOs
+[08/21/2024 05:14:23] World save writing finishing
+[08/21/2024 05:14:23] World save writing finished
+[08/21/2024 05:14:23] World saved ( 1250.3634ms )
+[08/21/2024 05:14:23] Considering autobackup. World time: 14369.92, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 05:14:23] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 05:14:53] Unloading unused assets
+[08/21/2024 05:29:08] Starting music evening
+[08/21/2024 05:29:09] Stopped music meadows at 5538835
+[08/21/2024 05:31:14] Update PlayFab entity token
+[08/21/2024 05:32:14] Spawned Greydwarf x 1
+[08/21/2024 05:34:06] Spawned Greydwarf x 1
+[08/21/2024 05:38:10] Starting music morning
+[08/21/2024 05:38:43] Starting music meadows
+Am I Host? True
+[08/21/2024 05:44:20] Available space to current user: 199486881792. Saving is blocked if below: 30494738 bytes. Warnings are given if below: 60989476
+[08/21/2024 05:44:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 05:44:21] Considering autobackup. World time: 16166.68, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 05:44:21] No autobackup needed yet...
+[08/21/2024 05:44:21] Sending message to save player profiles
+[08/21/2024 05:44:22] World save writing starting
+[08/21/2024 05:44:22] World save writing started
+[08/21/2024 05:44:23] Saved 327694 ZDOs
+[08/21/2024 05:44:23] World save writing finishing
+[08/21/2024 05:44:23] World save writing finished
+[08/21/2024 05:44:23] World saved ( 1160.7242ms )
+[08/21/2024 05:44:23] Considering autobackup. World time: 16169.64, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 05:44:23] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 05:51:40] Update PlayFab entity token
+[08/21/2024 05:59:09] Starting music evening
+[08/21/2024 05:59:10] Stopped music meadows at 5539776
+[08/21/2024 06:00:54] Spawned Greydwarf x 1
+[08/21/2024 06:04:15] Spawned Greydwarf x 1
+[08/21/2024 06:08:10] Starting music morning
+[08/21/2024 06:08:44] Starting music meadows
+[08/21/2024 06:10:33] Update PlayFab entity token
+Am I Host? True
+[08/21/2024 06:14:20] Available space to current user: 199461163008. Saving is blocked if below: 30494738 bytes. Warnings are given if below: 60989476
+[08/21/2024 06:14:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 06:14:21] Considering autobackup. World time: 17966.46, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 06:14:21] Overwrite our newest autobackup since the second one isn't so old
+[08/21/2024 06:14:21] Replacing backup file: sir beer qol_backup_auto-20240821041421
+[08/21/2024 06:14:21] Saving backup at: sir beer qol_backup_auto-20240821061421
+[08/21/2024 06:14:21] Sending message to save player profiles
+[08/21/2024 06:14:22] World save writing starting
+[08/21/2024 06:14:22] World save writing started
+[08/21/2024 06:14:23] Saved 327694 ZDOs
+[08/21/2024 06:14:23] World save writing finishing
+[08/21/2024 06:14:23] World save writing finished
+[08/21/2024 06:14:23] World saved ( 1168.2734ms )
+[08/21/2024 06:14:23] Considering autobackup. World time: 17969.4, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 06:14:23] Overwrite our newest autobackup since the second one isn't so old
+[08/21/2024 06:14:23] Replacing backup file: ValheimQOL_backup_auto-20240821041422
+[08/21/2024 06:14:23] Saving backup at: ValheimQOL_backup_auto-20240821061422
+[08/21/2024 06:14:23] World auto backup saved ( 00:00:00.0297848ms )
+Am I Host? True
+[08/21/2024 06:14:54] Unloading unused assets
+[08/21/2024 06:25:16] Update PlayFab entity token
+[08/21/2024 06:29:09] Starting music evening
+[08/21/2024 06:29:10] Stopped music meadows at 5539776
+[08/21/2024 06:31:04] Spawned Greydwarf x 1
+[08/21/2024 06:34:25] Spawned Greydwarf x 1
+[08/21/2024 06:38:10] Starting music morning
+[08/21/2024 06:38:44] Starting music meadows
+Am I Host? True
+[08/21/2024 06:44:20] Available space to current user: 199462043648. Saving is blocked if below: 30494738 bytes. Warnings are given if below: 60989476
+[08/21/2024 06:44:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 06:44:21] Considering autobackup. World time: 19766.2, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 06:44:21] No autobackup needed yet...
+[08/21/2024 06:44:21] Sending message to save player profiles
+[08/21/2024 06:44:22] World save writing starting
+[08/21/2024 06:44:22] World save writing started
+[08/21/2024 06:44:23] Saved 327694 ZDOs
+[08/21/2024 06:44:23] World save writing finishing
+[08/21/2024 06:44:23] World save writing finished
+[08/21/2024 06:44:23] World saved ( 1229.731ms )
+[08/21/2024 06:44:23] Considering autobackup. World time: 19769.16, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 06:44:23] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 06:45:07] Update PlayFab entity token
+[08/21/2024 06:59:09] Starting music evening
+[08/21/2024 06:59:10] Stopped music meadows at 5539776
+[08/21/2024 07:00:59] Spawned Greydwarf x 1
+[08/21/2024 07:01:13] Spawned Greydwarf x 1
+[08/21/2024 07:01:56] Update PlayFab entity token
+[08/21/2024 07:08:10] Starting music morning
+[08/21/2024 07:08:44] Starting music meadows
+Am I Host? True
+[08/21/2024 07:14:20] Available space to current user: 199483293696. Saving is blocked if below: 30494738 bytes. Warnings are given if below: 60989476
+[08/21/2024 07:14:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 07:14:21] Considering autobackup. World time: 21565.96, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 07:14:21] No autobackup needed yet...
+[08/21/2024 07:14:21] Sending message to save player profiles
+[08/21/2024 07:14:22] World save writing starting
+[08/21/2024 07:14:22] World save writing started
+[08/21/2024 07:14:23] Saved 327694 ZDOs
+[08/21/2024 07:14:23] World save writing finishing
+[08/21/2024 07:14:23] World save writing finished
+[08/21/2024 07:14:23] World saved ( 1419.9644ms )
+[08/21/2024 07:14:23] Considering autobackup. World time: 21569, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 07:14:23] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 07:14:54] Unloading unused assets
+[08/21/2024 07:17:45] Update PlayFab entity token
+[08/21/2024 07:29:09] Starting music evening
+[08/21/2024 07:29:10] Stopped music meadows at 5539776
+[08/21/2024 07:34:43] Spawned Greydwarf x 1
+[08/21/2024 07:34:44] Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[08/21/2024 07:34:44] New connection
+[08/21/2024 07:34:44] Accepting connection k_EResultOK
+[08/21/2024 07:34:44] Connecting to Steamworks.SteamNetworkingIdentity
+[08/21/2024 07:34:44] Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
+Sending PlantEverything version 1.18.1 and minimum version 1.18.1 to the client.
+Sending AzuAntiArthriticCrafting version 1.5.6 and minimum version 1.5.6 to the client.
+Sending AzuAntiCheat version 4.3.8 and minimum version 4.3.8 to the client.
+Sending AzuExtendedPlayerInventory version 1.4.3 and minimum version 1.4.3 to the client.
+Sending AzuMapDetails version 1.0.3 and minimum version 1.0.3 to the client.
+Sending Backpacks version 1.3.4 and minimum version 1.3.4 to the client.
+Sending org.bepinex.plugins.backpacks ItemManager version 1.3.4 and minimum version 0.0.0 to the client.
+Sending BowsBeforeHoes version 1.3.9 and minimum version 1.3.9 to the client.
+Sending Azumatt.BowsBeforeHoes ItemManager version 1.3.9 and minimum version 0.0.0 to the client.
+Sending CraftyCarts version 3.1.4 and minimum version 3.1.4 to the client.
+Sending Azumatt.CraftyCarts PieceManager version 3.1.4 and minimum version 0.0.0 to the client.
+Sending Recycle_N_Reclaim version 1.3.4 and minimum version 1.3.4 to the client.
+Sending SleepSkip version 1.2.0 and minimum version 1.2.0 to the client.
+Sending CombatOverhaulREwrite version 1.2.1 and minimum version 1.2.1 to the client.
+Sending VikingsDoSwim version 1.3.4 and minimum version 1.3.4 to the client.
+Sending WieldEquipmentWhileSwimming version 1.1.0 and minimum version 1.1.0 to the client.
+Sending SurtlingBoats version 2.0.7 and minimum version 2.0.7 to the client.
+Sending Expand World Data version 1.44 and minimum version 1.44 to the client.
+Sending Expand World Events version 1.8 and minimum version 1.8 to the client.
+Sending kg.ItemDrawers version 1.0.8 and minimum version 1.0.8 to the client.
+Sending kg.ItemDrawers PieceManager version 1.0.8 and minimum version 0.0.0 to the client.
+Sending OdinsKingdom version 1.2.26 and minimum version 1.2.26 to the client.
+Sending odinplus.plugins.odinskingdom ItemManager version 1.2.26 and minimum version 0.0.0 to the client.
+Sending odinplus.plugins.odinskingdom PieceManager version 1.2.26 and minimum version 0.0.0 to the client.
+Sending Blacksmithing version 1.3.0 and minimum version 1.3.0 to the client.
+Sending Building version 1.2.5 and minimum version 1.2.5 to the client.
+Sending Cooking version 1.1.16 and minimum version 1.1.16 to the client.
+Sending Darwin Awards version 1.0.6 and minimum version 1.0.6 to the client.
+Sending Exploration version 1.0.3 and minimum version 1.0.3 to the client.
+Sending Farming version 2.1.12 and minimum version 2.1.12 to the client.
+Sending Foraging version 1.0.9 and minimum version 1.0.9 to the client.
+Sending Lumberjacking version 1.0.5 and minimum version 0.0.0 to the client.
+Sending Mining version 1.1.5 and minimum version 1.1.5 to the client.
+Sending org.bepinex.plugins.packhorse SkillManager version 1.0.3 and minimum version 0.0.0 to the client.
+Sending Ranching version 1.1.3 and minimum version 1.1.3 to the client.
+Sending Sailing version 1.1.7 and minimum version 1.1.7 to the client.
+Sending Server Characters version 1.4.12 and minimum version 1.4.12 to the client.
+Sending Smart Skills version 1.0.2 and minimum version 1.0.2 to the client.
+Sending Messenger version 1.0.1 and minimum version 1.0.1 to the client.
+Sending PortalTweaks version 1.0.1 and minimum version 1.0.1 to the client.
+Sending UsefulPaths version 1.0.3 and minimum version 1.0.3 to the client.
+Sending VikingNPC version 0.1.0 and minimum version 0.1.0 to the client.
+Sending My Little UI version 1.1.0 and minimum version 1.1.0 to the client.
+Sending BetterCarts version 1.0.7 and minimum version 1.0.7 to the client.
+Sending NoSmokeStayLit version 2.3.3 and minimum version 2.3.3 to the client.
+Sending SingleUseSwampKey version 1.0.1 and minimum version 1.0.1 to the client.
+Sending Quick Stack - Store - Sort - Trash - Restock version 1.4.8 and minimum version 1.4.8 to the client.
+Sending Expand World Rivers version 1.9 and minimum version 1.9 to the client.
+Sending Expand World Size version 1.18 and minimum version 1.18 to the client.
+[08/21/2024 07:34:45] Got status changed msg k_ESteamNetworkingConnectionState_Connected
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001B165D3C010.dll
+Received SleepSkip version 1.2.0 and minimum version 1.2.0 from the client.
+Received CombatOverhaulREwrite version 1.2.1 and minimum version 1.2.1 from the client.
+Received Expand World Data version 1.44 and minimum version 1.44 from the client.
+Received Expand World Events version 1.8 and minimum version 1.8 from the client.
+Received kg.ItemDrawers version 1.0.8 and minimum version 1.0.8 from the client.
+Received Expand World Rivers version 1.9 and minimum version 1.9 from the client.
+Received Expand World Size version 1.18 and minimum version 1.18 from the client.
+[08/21/2024 07:34:45] Got handshake from client 76561198985418907
+RuneMagic version check: theirs 1.2.0  mine 1.2.0
+Version matched
+[08/21/2024 07:34:50] Network version check, their:27, mine:27
+[08/21/2024 07:34:50] Server: New peer connected,sending global keys
+Caching server config
+Sending server config to 1 clients
+[08/21/2024 07:35:09] Got character ZDOID from Aegon Ii : 1233680607:75
+[08/21/2024 07:38:04] Spawned Greydwarf x 1
+[08/21/2024 07:38:05] Update PlayFab entity token
+[08/21/2024 07:38:11] Starting music morning
+[08/21/2024 07:38:45] Starting music meadows
+Am I Host? True
+[08/21/2024 07:44:20] Available space to current user: 199478280192. Saving is blocked if below: 30494738 bytes. Warnings are given if below: 60989476
+[08/21/2024 07:44:21] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 07:44:21] Considering autobackup. World time: 23365.58, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 07:44:21] No autobackup needed yet...
+[08/21/2024 07:44:21] Sending message to save player profiles
+[08/21/2024 07:44:21] Sent to 76561198985418907
+[08/21/2024 07:44:21] Considering autobackup. World time: 23366.26, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 07:44:21] Time to overwrite our last autobackup
+[08/21/2024 07:44:21] Replacing backup file: Steam_76561198985418907_aegon ii_backup_auto-20240819214020
+[08/21/2024 07:44:21] Saving backup at: Steam_76561198985418907_aegon ii_backup_auto-20240821074421
+[08/21/2024 07:44:22] World save writing starting
+[08/21/2024 07:44:22] World save writing started
+[08/21/2024 07:44:23] Saved 327697 ZDOs
+[08/21/2024 07:44:24] World save writing finishing
+[08/21/2024 07:44:24] World save writing finished
+[08/21/2024 07:44:24] World saved ( 1427.9907ms )
+[08/21/2024 07:44:24] Considering autobackup. World time: 23368.66, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 07:44:24] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 07:54:19] Found location of type Eikthyrnir
+[08/21/2024 07:57:31] Update PlayFab entity token
+[08/21/2024 07:59:10] Starting music evening
+[08/21/2024 07:59:11] Stopped music meadows at 5540717
+[08/21/2024 08:01:30] Spawned Greydwarf x 1
+[08/21/2024 08:01:32] Spawned Greydwarf x 1
+[08/21/2024 08:01:51] Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[08/21/2024 08:01:51] New connection
+[08/21/2024 08:01:51] Accepting connection k_EResultOK
+[08/21/2024 08:01:51] Connecting to Steamworks.SteamNetworkingIdentity
+[08/21/2024 08:01:51] Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
+Sending PlantEverything version 1.18.1 and minimum version 1.18.1 to the client.
+Sending AzuAntiArthriticCrafting version 1.5.6 and minimum version 1.5.6 to the client.
+Sending AzuAntiCheat version 4.3.8 and minimum version 4.3.8 to the client.
+Sending AzuExtendedPlayerInventory version 1.4.3 and minimum version 1.4.3 to the client.
+Sending AzuMapDetails version 1.0.3 and minimum version 1.0.3 to the client.
+Sending Backpacks version 1.3.4 and minimum version 1.3.4 to the client.
+Sending org.bepinex.plugins.backpacks ItemManager version 1.3.4 and minimum version 0.0.0 to the client.
+Sending BowsBeforeHoes version 1.3.9 and minimum version 1.3.9 to the client.
+Sending Azumatt.BowsBeforeHoes ItemManager version 1.3.9 and minimum version 0.0.0 to the client.
+Sending CraftyCarts version 3.1.4 and minimum version 3.1.4 to the client.
+Sending Azumatt.CraftyCarts PieceManager version 3.1.4 and minimum version 0.0.0 to the client.
+Sending Recycle_N_Reclaim version 1.3.4 and minimum version 1.3.4 to the client.
+Sending SleepSkip version 1.2.0 and minimum version 1.2.0 to the client.
+Sending CombatOverhaulREwrite version 1.2.1 and minimum version 1.2.1 to the client.
+Sending VikingsDoSwim version 1.3.4 and minimum version 1.3.4 to the client.
+Sending WieldEquipmentWhileSwimming version 1.1.0 and minimum version 1.1.0 to the client.
+Sending SurtlingBoats version 2.0.7 and minimum version 2.0.7 to the client.
+Sending Expand World Data version 1.44 and minimum version 1.44 to the client.
+Sending Expand World Events version 1.8 and minimum version 1.8 to the client.
+Sending kg.ItemDrawers version 1.0.8 and minimum version 1.0.8 to the client.
+Sending kg.ItemDrawers PieceManager version 1.0.8 and minimum version 0.0.0 to the client.
+Sending OdinsKingdom version 1.2.26 and minimum version 1.2.26 to the client.
+Sending odinplus.plugins.odinskingdom ItemManager version 1.2.26 and minimum version 0.0.0 to the client.
+Sending odinplus.plugins.odinskingdom PieceManager version 1.2.26 and minimum version 0.0.0 to the client.
+Sending Blacksmithing version 1.3.0 and minimum version 1.3.0 to the client.
+Sending Building version 1.2.5 and minimum version 1.2.5 to the client.
+Sending Cooking version 1.1.16 and minimum version 1.1.16 to the client.
+Sending Darwin Awards version 1.0.6 and minimum version 1.0.6 to the client.
+Sending Exploration version 1.0.3 and minimum version 1.0.3 to the client.
+Sending Farming version 2.1.12 and minimum version 2.1.12 to the client.
+Sending Foraging version 1.0.9 and minimum version 1.0.9 to the client.
+Sending Lumberjacking version 1.0.5 and minimum version 0.0.0 to the client.
+Sending Mining version 1.1.5 and minimum version 1.1.5 to the client.
+Sending org.bepinex.plugins.packhorse SkillManager version 1.0.3 and minimum version 0.0.0 to the client.
+Sending Ranching version 1.1.3 and minimum version 1.1.3 to the client.
+Sending Sailing version 1.1.7 and minimum version 1.1.7 to the client.
+Sending Server Characters version 1.4.12 and minimum version 1.4.12 to the client.
+Sending Smart Skills version 1.0.2 and minimum version 1.0.2 to the client.
+Sending Messenger version 1.0.1 and minimum version 1.0.1 to the client.
+Sending PortalTweaks version 1.0.1 and minimum version 1.0.1 to the client.
+Sending UsefulPaths version 1.0.3 and minimum version 1.0.3 to the client.
+Sending VikingNPC version 0.1.0 and minimum version 0.1.0 to the client.
+Sending My Little UI version 1.1.0 and minimum version 1.1.0 to the client.
+Sending BetterCarts version 1.0.7 and minimum version 1.0.7 to the client.
+Sending NoSmokeStayLit version 2.3.3 and minimum version 2.3.3 to the client.
+Sending SingleUseSwampKey version 1.0.1 and minimum version 1.0.1 to the client.
+Sending Quick Stack - Store - Sort - Trash - Restock version 1.4.8 and minimum version 1.4.8 to the client.
+Sending Expand World Rivers version 1.9 and minimum version 1.9 to the client.
+Sending Expand World Size version 1.18 and minimum version 1.18 to the client.
+[08/21/2024 08:01:51] Got status changed msg k_ESteamNetworkingConnectionState_Connected
+Received SleepSkip version 1.2.0 and minimum version 1.2.0 from the client.
+Received CombatOverhaulREwrite version 1.2.1 and minimum version 1.2.1 from the client.
+Received Expand World Data version 1.44 and minimum version 1.44 from the client.
+Received Expand World Events version 1.8 and minimum version 1.8 from the client.
+Received kg.ItemDrawers version 1.0.8 and minimum version 1.0.8 from the client.
+Received Expand World Rivers version 1.9 and minimum version 1.9 from the client.
+Received Expand World Size version 1.18 and minimum version 1.18 from the client.
+[08/21/2024 08:01:51] Got handshake from client 76561198047090892
+RuneMagic version check: theirs 1.2.0  mine 1.2.0
+Version matched
+[08/21/2024 08:03:35] Network version check, their:27, mine:27
+[08/21/2024 08:03:35] Server: New peer connected,sending global keys
+Caching server config
+Sending server config to 2 clients
+[08/21/2024 08:04:01] Got character ZDOID from Son Of Onin : -785992242:58
+[08/21/2024 08:04:45] Considering autobackup. World time: 24590.24, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 08:04:45] Time to overwrite our last autobackup
+[08/21/2024 08:04:45] Replacing backup file: Steam_76561198047090892_son of onin_backup_auto-20240819211020
+[08/21/2024 08:04:45] Saving backup at: Steam_76561198047090892_son of onin_backup_auto-20240821080445
+[08/21/2024 08:04:45] RPC_Disconnect
+[08/21/2024 08:04:45] Considering autobackup. World time: 24590.42, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 08:04:45] No autobackup needed yet...
+[08/21/2024 08:04:45] Destroying abandoned non persistent zdo -785992242:173 owner -785992242
+[08/21/2024 08:04:45] Destroying abandoned non persistent zdo -785992242:176 owner -785992242
+[08/21/2024 08:04:45] Destroying abandoned non persistent zdo -785992242:59 owner -785992242
+[08/21/2024 08:04:45] Destroying abandoned non persistent zdo -785992242:175 owner -785992242
+[08/21/2024 08:04:45] Destroying abandoned non persistent zdo -785992242:58 owner -785992242
+[08/21/2024 08:04:45] Destroying abandoned non persistent zdo -785992242:172 owner -785992242
+[08/21/2024 08:04:45] Destroying abandoned non persistent zdo -785992242:174 owner -785992242
+[08/21/2024 08:04:45] Destroying abandoned non persistent zdo -785992242:171 owner -785992242
+[08/21/2024 08:04:45] Destroying abandoned non persistent zdo -785992242:177 owner -785992242
+[08/21/2024 08:04:45] Destroying abandoned non persistent zdo -785992242:60 owner -785992242
+[08/21/2024 08:04:45] Disposing socket
+[08/21/2024 08:04:45] Closing socket 76561198047090892
+[08/21/2024 08:04:45]   send queue size:0
+[08/21/2024 08:04:45] Disposing socket
+[Warning:Better Networking] Compression: Tried to remove non-existent peer: [null]
+[08/21/2024 08:04:45] Got status changed msg k_ESteamNetworkingConnectionState_None
+[08/21/2024 08:06:29] Time 223370.45944969, day:123    nextm:223470.000010729  skipspeed:8.29504675325006
+[08/21/2024 08:06:34] Unloading unused assets
+Am I Host? True
+[08/21/2024 08:06:41] Available space to current user: 199501180928. Saving is blocked if below: 30496760 bytes. Warnings are given if below: 60993520
+[08/21/2024 08:06:41] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 08:06:41] Considering autobackup. World time: 24706, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 08:06:41] No autobackup needed yet...
+[08/21/2024 08:06:42] Considering autobackup. World time: 24706.72, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 08:06:42] No autobackup needed yet...
+[08/21/2024 08:06:43] World save writing starting
+[08/21/2024 08:06:43] World save writing started
+[08/21/2024 08:06:45] Saved 327712 ZDOs
+[08/21/2024 08:06:45] World save writing finishing
+[08/21/2024 08:06:45] World save writing finished
+[08/21/2024 08:06:45] World saved ( 1387.3504ms )
+[08/21/2024 08:06:45] Considering autobackup. World time: 24709.5, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 08:06:45] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 08:06:45] Starting music morning
+[08/21/2024 08:06:54] Considering autobackup. World time: 24719.02, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 08:06:54] No autobackup needed yet...
+[08/21/2024 08:06:54] RPC_Disconnect
+[08/21/2024 08:06:54] Considering autobackup. World time: 24719.26, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 08:06:54] No autobackup needed yet...
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5072 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5073 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5076 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5070 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5057 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5063 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5069 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5071 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:75 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5077 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5078 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5066 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:4629 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5059 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5074 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:76 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5067 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5075 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5068 owner 1233680607
+[08/21/2024 08:06:54] Destroying abandoned non persistent zdo 1233680607:5065 owner 1233680607
+[08/21/2024 08:06:54] Disposing socket
+[08/21/2024 08:06:54] Closing socket 76561198985418907
+[08/21/2024 08:06:54]   send queue size:0
+[08/21/2024 08:06:54] Disposing socket
+[Warning:Better Networking] Compression: Tried to remove non-existent peer: [null]
+[08/21/2024 08:06:54] Got status changed msg k_ESteamNetworkingConnectionState_None
+[08/21/2024 08:07:19] Starting music meadows
+[08/21/2024 08:14:55] Skipping unloading unused assets
+[08/21/2024 08:16:05] Update PlayFab entity token
+[08/21/2024 08:27:44] Starting music evening
+[08/21/2024 08:27:45] Stopped music meadows at 5410887
+[08/21/2024 08:28:25] Spawned Greydwarf x 1
+[08/21/2024 08:32:01] Update PlayFab entity token
+Am I Host? True
+[08/21/2024 08:36:44] Available space to current user: 199472824320. Saving is blocked if below: 30526246 bytes. Warnings are given if below: 61052492
+[08/21/2024 08:36:44] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 08:36:44] Considering autobackup. World time: 26505.76, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 08:36:44] Overwrite our newest autobackup since the second one isn't so old
+[08/21/2024 08:36:44] Replacing backup file: sir beer qol_backup_auto-20240821061421
+[08/21/2024 08:36:44] Saving backup at: sir beer qol_backup_auto-20240821083644
+[08/21/2024 08:36:44] Sending message to save player profiles
+[08/21/2024 08:36:46] Starting music morning
+[08/21/2024 08:36:46] World save writing starting
+[08/21/2024 08:36:46] World save writing started
+[08/21/2024 08:36:48] Saved 327709 ZDOs
+[08/21/2024 08:36:48] World save writing finishing
+[08/21/2024 08:36:48] World save writing finished
+[08/21/2024 08:36:48] World saved ( 1402.1085ms )
+[08/21/2024 08:36:48] Considering autobackup. World time: 26509.28, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 08:36:48] Overwrite our newest autobackup since the second one isn't so old
+[08/21/2024 08:36:48] Replacing backup file: ValheimQOL_backup_auto-20240821061422
+[08/21/2024 08:36:48] Saving backup at: ValheimQOL_backup_auto-20240821083646
+[08/21/2024 08:36:48] World auto backup saved ( 00:00:00.0165145ms )
+Am I Host? True
+[08/21/2024 08:37:20] Starting music meadows
+[08/21/2024 08:42:01] Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[08/21/2024 08:42:01] New connection
+[08/21/2024 08:42:01] Accepting connection k_EResultOK
+[08/21/2024 08:42:02] Connecting to Steamworks.SteamNetworkingIdentity
+[08/21/2024 08:42:02] Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
+Sending PlantEverything version 1.18.1 and minimum version 1.18.1 to the client.
+Sending AzuAntiArthriticCrafting version 1.5.6 and minimum version 1.5.6 to the client.
+Sending AzuAntiCheat version 4.3.8 and minimum version 4.3.8 to the client.
+Sending AzuExtendedPlayerInventory version 1.4.3 and minimum version 1.4.3 to the client.
+Sending AzuMapDetails version 1.0.3 and minimum version 1.0.3 to the client.
+Sending Backpacks version 1.3.4 and minimum version 1.3.4 to the client.
+Sending org.bepinex.plugins.backpacks ItemManager version 1.3.4 and minimum version 0.0.0 to the client.
+Sending BowsBeforeHoes version 1.3.9 and minimum version 1.3.9 to the client.
+Sending Azumatt.BowsBeforeHoes ItemManager version 1.3.9 and minimum version 0.0.0 to the client.
+Sending CraftyCarts version 3.1.4 and minimum version 3.1.4 to the client.
+Sending Azumatt.CraftyCarts PieceManager version 3.1.4 and minimum version 0.0.0 to the client.
+Sending Recycle_N_Reclaim version 1.3.4 and minimum version 1.3.4 to the client.
+Sending SleepSkip version 1.2.0 and minimum version 1.2.0 to the client.
+Sending CombatOverhaulREwrite version 1.2.1 and minimum version 1.2.1 to the client.
+Sending VikingsDoSwim version 1.3.4 and minimum version 1.3.4 to the client.
+Sending WieldEquipmentWhileSwimming version 1.1.0 and minimum version 1.1.0 to the client.
+Sending SurtlingBoats version 2.0.7 and minimum version 2.0.7 to the client.
+Sending Expand World Data version 1.44 and minimum version 1.44 to the client.
+Sending Expand World Events version 1.8 and minimum version 1.8 to the client.
+Sending kg.ItemDrawers version 1.0.8 and minimum version 1.0.8 to the client.
+Sending kg.ItemDrawers PieceManager version 1.0.8 and minimum version 0.0.0 to the client.
+Sending OdinsKingdom version 1.2.26 and minimum version 1.2.26 to the client.
+Sending odinplus.plugins.odinskingdom ItemManager version 1.2.26 and minimum version 0.0.0 to the client.
+Sending odinplus.plugins.odinskingdom PieceManager version 1.2.26 and minimum version 0.0.0 to the client.
+Sending Blacksmithing version 1.3.0 and minimum version 1.3.0 to the client.
+Sending Building version 1.2.5 and minimum version 1.2.5 to the client.
+Sending Cooking version 1.1.16 and minimum version 1.1.16 to the client.
+Sending Darwin Awards version 1.0.6 and minimum version 1.0.6 to the client.
+Sending Exploration version 1.0.3 and minimum version 1.0.3 to the client.
+Sending Farming version 2.1.12 and minimum version 2.1.12 to the client.
+Sending Foraging version 1.0.9 and minimum version 1.0.9 to the client.
+Sending Lumberjacking version 1.0.5 and minimum version 0.0.0 to the client.
+Sending Mining version 1.1.5 and minimum version 1.1.5 to the client.
+Sending org.bepinex.plugins.packhorse SkillManager version 1.0.3 and minimum version 0.0.0 to the client.
+Sending Ranching version 1.1.3 and minimum version 1.1.3 to the client.
+Sending Sailing version 1.1.7 and minimum version 1.1.7 to the client.
+Sending Server Characters version 1.4.12 and minimum version 1.4.12 to the client.
+Sending Smart Skills version 1.0.2 and minimum version 1.0.2 to the client.
+Sending Messenger version 1.0.1 and minimum version 1.0.1 to the client.
+Sending PortalTweaks version 1.0.1 and minimum version 1.0.1 to the client.
+Sending UsefulPaths version 1.0.3 and minimum version 1.0.3 to the client.
+Sending VikingNPC version 0.1.0 and minimum version 0.1.0 to the client.
+Sending My Little UI version 1.1.0 and minimum version 1.1.0 to the client.
+Sending BetterCarts version 1.0.7 and minimum version 1.0.7 to the client.
+Sending NoSmokeStayLit version 2.3.3 and minimum version 2.3.3 to the client.
+Sending SingleUseSwampKey version 1.0.1 and minimum version 1.0.1 to the client.
+Sending Quick Stack - Store - Sort - Trash - Restock version 1.4.8 and minimum version 1.4.8 to the client.
+Sending Expand World Rivers version 1.9 and minimum version 1.9 to the client.
+Sending Expand World Size version 1.18 and minimum version 1.18 to the client.
+[08/21/2024 08:42:03] Got status changed msg k_ESteamNetworkingConnectionState_Connected
+Received SleepSkip version 1.2.0 and minimum version 1.2.0 from the client.
+Received CombatOverhaulREwrite version 1.2.1 and minimum version 1.2.1 from the client.
+Received Expand World Data version 1.44 and minimum version 1.44 from the client.
+Received Expand World Events version 1.8 and minimum version 1.8 from the client.
+Received kg.ItemDrawers version 1.0.8 and minimum version 1.0.8 from the client.
+Received Expand World Rivers version 1.9 and minimum version 1.9 from the client.
+Received Expand World Size version 1.18 and minimum version 1.18 from the client.
+[08/21/2024 08:42:03] Got handshake from client 76561198225131996
+RuneMagic version check: theirs 1.2.0  mine 1.2.0
+Version matched
+[08/21/2024 08:42:06] Network version check, their:27, mine:27
+[08/21/2024 08:42:06] Server: New peer connected,sending global keys
+Caching server config
+Sending server config to 1 clients
+[08/21/2024 08:42:26] Got character ZDOID from Assland : 216841468:154
+[08/21/2024 08:47:04] Update PlayFab entity token
+[08/21/2024 08:57:45] Starting music evening
+[08/21/2024 08:57:46] Stopped music meadows at 5522842
+[08/21/2024 09:03:47] Spawned Greydwarf x 1
+Am I Host? True
+[08/21/2024 09:06:44] Available space to current user: 199451942912. Saving is blocked if below: 30524842 bytes. Warnings are given if below: 61049684
+[08/21/2024 09:06:44] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 09:06:44] Considering autobackup. World time: 28303.22, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 09:06:44] No autobackup needed yet...
+[08/21/2024 09:06:44] Sending message to save player profiles
+[08/21/2024 09:06:44] Sent to 76561198225131996
+[08/21/2024 09:06:45] Considering autobackup. World time: 28303.96, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 09:06:45] Time to overwrite our last autobackup
+[08/21/2024 09:06:45] Replacing backup file: Steam_76561198225131996_assland_backup_auto-20240819222036
+[08/21/2024 09:06:45] Saving backup at: Steam_76561198225131996_assland_backup_auto-20240821090645
+[08/21/2024 09:06:46] World save writing starting
+[08/21/2024 09:06:46] World save writing started
+[08/21/2024 09:06:48] Saved 327969 ZDOs
+[08/21/2024 09:06:48] World save writing finishing
+[08/21/2024 09:06:48] World save writing finished
+[08/21/2024 09:06:48] World saved ( 1451.7889ms )
+[08/21/2024 09:06:48] Considering autobackup. World time: 28306.84, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 09:06:48] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 09:06:49] Starting music morning
+[08/21/2024 09:07:00] Update PlayFab entity token
+[08/21/2024 09:07:22] Starting music meadows
+[08/21/2024 09:15:01] Unloading unused assets
+[08/21/2024 09:27:03] Update PlayFab entity token
+[08/21/2024 09:27:48] Starting music evening
+[08/21/2024 09:27:49] Stopped music meadows at 5521901
+[08/21/2024 09:30:59] Spawned Greydwarf x 1
+[08/21/2024 09:33:28] Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+[08/21/2024 09:33:28] New connection
+[08/21/2024 09:33:28] Accepting connection k_EResultOK
+[08/21/2024 09:33:28] Connecting to Steamworks.SteamNetworkingIdentity
+[08/21/2024 09:33:28] Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
+Sending PlantEverything version 1.18.1 and minimum version 1.18.1 to the client.
+Sending AzuAntiArthriticCrafting version 1.5.6 and minimum version 1.5.6 to the client.
+Sending AzuAntiCheat version 4.3.8 and minimum version 4.3.8 to the client.
+Sending AzuExtendedPlayerInventory version 1.4.3 and minimum version 1.4.3 to the client.
+Sending AzuMapDetails version 1.0.3 and minimum version 1.0.3 to the client.
+Sending Backpacks version 1.3.4 and minimum version 1.3.4 to the client.
+Sending org.bepinex.plugins.backpacks ItemManager version 1.3.4 and minimum version 0.0.0 to the client.
+Sending BowsBeforeHoes version 1.3.9 and minimum version 1.3.9 to the client.
+Sending Azumatt.BowsBeforeHoes ItemManager version 1.3.9 and minimum version 0.0.0 to the client.
+Sending CraftyCarts version 3.1.4 and minimum version 3.1.4 to the client.
+Sending Azumatt.CraftyCarts PieceManager version 3.1.4 and minimum version 0.0.0 to the client.
+Sending Recycle_N_Reclaim version 1.3.4 and minimum version 1.3.4 to the client.
+Sending SleepSkip version 1.2.0 and minimum version 1.2.0 to the client.
+Sending CombatOverhaulREwrite version 1.2.1 and minimum version 1.2.1 to the client.
+Sending VikingsDoSwim version 1.3.4 and minimum version 1.3.4 to the client.
+Sending WieldEquipmentWhileSwimming version 1.1.0 and minimum version 1.1.0 to the client.
+Sending SurtlingBoats version 2.0.7 and minimum version 2.0.7 to the client.
+Sending Expand World Data version 1.44 and minimum version 1.44 to the client.
+Sending Expand World Events version 1.8 and minimum version 1.8 to the client.
+Sending kg.ItemDrawers version 1.0.8 and minimum version 1.0.8 to the client.
+Sending kg.ItemDrawers PieceManager version 1.0.8 and minimum version 0.0.0 to the client.
+Sending OdinsKingdom version 1.2.26 and minimum version 1.2.26 to the client.
+Sending odinplus.plugins.odinskingdom ItemManager version 1.2.26 and minimum version 0.0.0 to the client.
+Sending odinplus.plugins.odinskingdom PieceManager version 1.2.26 and minimum version 0.0.0 to the client.
+Sending Blacksmithing version 1.3.0 and minimum version 1.3.0 to the client.
+Sending Building version 1.2.5 and minimum version 1.2.5 to the client.
+Sending Cooking version 1.1.16 and minimum version 1.1.16 to the client.
+Sending Darwin Awards version 1.0.6 and minimum version 1.0.6 to the client.
+Sending Exploration version 1.0.3 and minimum version 1.0.3 to the client.
+Sending Farming version 2.1.12 and minimum version 2.1.12 to the client.
+Sending Foraging version 1.0.9 and minimum version 1.0.9 to the client.
+Sending Lumberjacking version 1.0.5 and minimum version 0.0.0 to the client.
+Sending Mining version 1.1.5 and minimum version 1.1.5 to the client.
+Sending org.bepinex.plugins.packhorse SkillManager version 1.0.3 and minimum version 0.0.0 to the client.
+Sending Ranching version 1.1.3 and minimum version 1.1.3 to the client.
+Sending Sailing version 1.1.7 and minimum version 1.1.7 to the client.
+Sending Server Characters version 1.4.12 and minimum version 1.4.12 to the client.
+Sending Smart Skills version 1.0.2 and minimum version 1.0.2 to the client.
+Sending Messenger version 1.0.1 and minimum version 1.0.1 to the client.
+Sending PortalTweaks version 1.0.1 and minimum version 1.0.1 to the client.
+Sending UsefulPaths version 1.0.3 and minimum version 1.0.3 to the client.
+Sending VikingNPC version 0.1.0 and minimum version 0.1.0 to the client.
+Sending My Little UI version 1.1.0 and minimum version 1.1.0 to the client.
+Sending BetterCarts version 1.0.7 and minimum version 1.0.7 to the client.
+Sending NoSmokeStayLit version 2.3.3 and minimum version 2.3.3 to the client.
+Sending SingleUseSwampKey version 1.0.1 and minimum version 1.0.1 to the client.
+Sending Quick Stack - Store - Sort - Trash - Restock version 1.4.8 and minimum version 1.4.8 to the client.
+Sending Expand World Rivers version 1.9 and minimum version 1.9 to the client.
+Sending Expand World Size version 1.18 and minimum version 1.18 to the client.
+[08/21/2024 09:33:28] Got status changed msg k_ESteamNetworkingConnectionState_Connected
+Received SleepSkip version 1.2.0 and minimum version 1.2.0 from the client.
+Received CombatOverhaulREwrite version 1.2.1 and minimum version 1.2.1 from the client.
+Received Expand World Data version 1.44 and minimum version 1.44 from the client.
+Received Expand World Events version 1.8 and minimum version 1.8 from the client.
+Received kg.ItemDrawers version 1.0.8 and minimum version 1.0.8 from the client.
+Received Expand World Rivers version 1.9 and minimum version 1.9 from the client.
+Received Expand World Size version 1.18 and minimum version 1.18 from the client.
+[08/21/2024 09:33:28] Got handshake from client 76561198047090892
+RuneMagic version check: theirs 1.2.0  mine 1.2.0
+Version matched
+[08/21/2024 09:33:34] Network version check, their:27, mine:27
+[08/21/2024 09:33:34] Server: New peer connected,sending global keys
+Caching server config
+Sending server config to 2 clients
+[08/21/2024 09:33:59] Got character ZDOID from Son Of Onin : 769083016:42
+[08/21/2024 09:36:43] Considering autobackup. World time: 30101.94, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 09:36:43] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 09:36:44] Available space to current user: 199440977920. Saving is blocked if below: 30573500 bytes. Warnings are given if below: 61147000
+[08/21/2024 09:36:44] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 09:36:44] Considering autobackup. World time: 30102.44, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 09:36:44] No autobackup needed yet...
+[08/21/2024 09:36:44] Sending message to save player profiles
+[08/21/2024 09:36:44] Sent to 76561198225131996
+[08/21/2024 09:36:44] Sent to 76561198047090892
+[08/21/2024 09:36:45] Considering autobackup. World time: 30103.04, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 09:36:45] No autobackup needed yet...
+[08/21/2024 09:36:45] Considering autobackup. World time: 30103.28, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 09:36:45] No autobackup needed yet...
+[08/21/2024 09:36:46] World save writing starting
+[08/21/2024 09:36:46] World save writing started
+[08/21/2024 09:36:48] Saved 327979 ZDOs
+[08/21/2024 09:36:48] World save writing finishing
+[08/21/2024 09:36:48] World save writing finished
+[08/21/2024 09:36:48] World saved ( 1465.8734ms )
+[08/21/2024 09:36:48] Considering autobackup. World time: 30106.18, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 09:36:48] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 09:36:49] Starting music morning
+[08/21/2024 09:37:23] Starting music meadows
+[08/21/2024 09:44:25] Update PlayFab entity token
+[08/21/2024 09:57:55] Starting music evening
+[08/21/2024 09:57:56] Stopped music meadows at 5840832
+[08/21/2024 09:58:54] Update PlayFab entity token
+[08/21/2024 10:01:18] Spawned Greydwarf x 1
+[08/21/2024 10:06:42] Considering autobackup. World time: 31893.64, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:06:42] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 10:06:44] Available space to current user: 199435362304. Saving is blocked if below: 30575298 bytes. Warnings are given if below: 61150596
+[08/21/2024 10:06:44] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 10:06:44] Considering autobackup. World time: 31895.26, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:06:44] No autobackup needed yet...
+[08/21/2024 10:06:44] Sending message to save player profiles
+[08/21/2024 10:06:44] Sent to 76561198225131996
+[08/21/2024 10:06:44] Sent to 76561198047090892
+[08/21/2024 10:06:45] Considering autobackup. World time: 31895.92, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:06:45] No autobackup needed yet...
+[08/21/2024 10:06:45] Considering autobackup. World time: 31896.08, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:06:45] Time to overwrite our last autobackup
+[08/21/2024 10:06:45] Replacing backup file: Steam_76561198047090892_son of onin_backup_auto-20240820005237
+[08/21/2024 10:06:45] Saving backup at: Steam_76561198047090892_son of onin_backup_auto-20240821100645
+[08/21/2024 10:06:46] Considering autobackup. World time: 31897.16, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:06:46] No autobackup needed yet...
+[08/21/2024 10:06:47] World save writing starting
+[08/21/2024 10:06:47] World save writing started
+[08/21/2024 10:06:49] Saved 327912 ZDOs
+[08/21/2024 10:06:49] World save writing finishing
+[08/21/2024 10:06:49] World save writing finished
+[08/21/2024 10:06:49] World saved ( 1534.839ms )
+[08/21/2024 10:06:49] Considering autobackup. World time: 31899.82, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:06:49] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 10:06:57] Starting music morning
+[08/21/2024 10:07:31] Starting music meadows
+[08/21/2024 10:15:09] Unloading unused assets
+[08/21/2024 10:15:09] Update PlayFab entity token
+[08/21/2024 10:27:55] Starting music evening
+[08/21/2024 10:27:56] Stopped music meadows at 5519079
+[08/21/2024 10:33:34] Spawned Greydwarf x 1
+[08/21/2024 10:35:00] Update PlayFab entity token
+[08/21/2024 10:36:43] Considering autobackup. World time: 33694, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:36:43] No autobackup needed yet...
+Am I Host? True
+[08/21/2024 10:36:44] Available space to current user: 199439179776. Saving is blocked if below: 30583400 bytes. Warnings are given if below: 61166800
+[08/21/2024 10:36:44] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 10:36:44] Considering autobackup. World time: 33695, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:36:44] Overwrite our newest autobackup since the second one isn't so old
+[08/21/2024 10:36:44] Replacing backup file: sir beer qol_backup_auto-20240821083644
+[08/21/2024 10:36:44] Saving backup at: sir beer qol_backup_auto-20240821103644
+[08/21/2024 10:36:44] Sending message to save player profiles
+[08/21/2024 10:36:44] Sent to 76561198225131996
+[08/21/2024 10:36:44] Sent to 76561198047090892
+[08/21/2024 10:36:45] Considering autobackup. World time: 33695.62, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:36:45] No autobackup needed yet...
+[08/21/2024 10:36:45] Considering autobackup. World time: 33695.86, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:36:45] No autobackup needed yet...
+[08/21/2024 10:36:46] Considering autobackup. World time: 33696.8, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:36:46] No autobackup needed yet...
+[08/21/2024 10:36:47] World save writing starting
+[08/21/2024 10:36:47] World save writing started
+[08/21/2024 10:36:49] Saved 327983 ZDOs
+[08/21/2024 10:36:49] World save writing finishing
+[08/21/2024 10:36:49] World save writing finished
+[08/21/2024 10:36:49] World saved ( 1747.4816ms )
+[08/21/2024 10:36:49] Considering autobackup. World time: 33699.68, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 10:36:49] Overwrite our newest autobackup since the second one isn't so old
+[08/21/2024 10:36:49] Replacing backup file: ValheimQOL_backup_auto-20240821083646
+[08/21/2024 10:36:49] Saving backup at: ValheimQOL_backup_auto-20240821103647
+[08/21/2024 10:36:49] World auto backup saved ( 00:00:00.0167807ms )
+Am I Host? True
+[08/21/2024 10:36:57] Starting music morning
+[08/21/2024 10:37:31] Starting music meadows
+[08/21/2024 10:54:29] Update PlayFab entity token
+[08/21/2024 10:57:56] Starting music evening
+[08/21/2024 10:57:57] Stopped music meadows at 5516256
+[08/21/2024 11:02:15] Considering autobackup. World time: 35225.66, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 11:02:15] No autobackup needed yet...
+[08/21/2024 11:02:15] RPC_Disconnect
+[08/21/2024 11:02:15] Considering autobackup. World time: 35226.02, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 11:02:15] No autobackup needed yet...
+[08/21/2024 11:02:15] Destroying abandoned non persistent zdo 769083016:9647 owner 769083016
+[08/21/2024 11:02:15] Destroying abandoned non persistent zdo 769083016:9425 owner 769083016
+[08/21/2024 11:02:15] Destroying abandoned non persistent zdo 769083016:9649 owner 769083016
+[08/21/2024 11:02:15] Destroying abandoned non persistent zdo 769083016:42 owner 769083016
+[08/21/2024 11:02:15] Destroying abandoned non persistent zdo 769083016:9648 owner 769083016
+[08/21/2024 11:02:15] Disposing socket
+[08/21/2024 11:02:15] Closing socket 76561198047090892
+[08/21/2024 11:02:15]   send queue size:0
+[08/21/2024 11:02:15] Disposing socket
+[Warning:Better Networking] Compression: Tried to remove non-existent peer: [null]
+[08/21/2024 11:02:15] Got status changed msg k_ESteamNetworkingConnectionState_ClosedByPeer
+[08/21/2024 11:02:15] Socket closed by peer Steamworks.SteamNetConnectionStatusChangedCallback_t
+[08/21/2024 11:02:15] Got status changed msg k_ESteamNetworkingConnectionState_None
+[08/21/2024 11:03:46] Spawned Greydwarf x 1
+[08/21/2024 11:04:28] Spawned Greydwarf x 1
+[08/21/2024 11:04:50] Game - OnApplicationQuit
+Am I Host? True
+[08/21/2024 11:04:50] Available space to current user: 199449427968. Saving is blocked if below: 30598050 bytes. Warnings are given if below: 61196100
+[08/21/2024 11:04:51] Shutting down
+[08/21/2024 11:04:51] Minimap: compressed mapData 18874419 => 18474 bytes
+[08/21/2024 11:04:51] Considering autobackup. World time: 35381.36, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 11:04:51] No autobackup needed yet...
+[08/21/2024 11:04:51] ZNet Shutdown
+[08/21/2024 11:04:51] PrepareSave: clone done in 62ms
+[08/21/2024 11:04:51] PrepareSave: ZDOExtraData.PrepareSave done in 48 ms
+[08/21/2024 11:04:51] World save writing starting
+[08/21/2024 11:04:51] World save writing started
+[08/21/2024 11:04:52] Saved 327878 ZDOs
+[08/21/2024 11:04:52] World save writing finishing
+[08/21/2024 11:04:52] World save writing finished
+[08/21/2024 11:04:52] World saved ( 1213.5474ms )
+[08/21/2024 11:04:52] Considering autobackup. World time: 35381.36, short time: 7200, long time: 43200, backup count: 4
+[08/21/2024 11:04:52] No autobackup needed yet...
+[08/21/2024 11:04:53] Unloading unused assets
+[08/21/2024 11:04:53] Sending disconnect msg
+[08/21/2024 11:04:53] Sent to 76561198225131996
+ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+[08/21/2024 11:04:53] Disposing socket
+[08/21/2024 11:04:53] Stopping listening socket
+[08/21/2024 11:04:53] Disposing socket
+[08/21/2024 11:04:53] Closing socket 76561198225131996
+[08/21/2024 11:04:53]   send queue size:0
+[08/21/2024 11:04:53] Last socket, unregistering callback
+[08/21/2024 11:04:53] ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+[08/21/2024 11:04:53] Disposing socket
+[08/21/2024 11:04:53] Last socket, unregistering callback
+[08/21/2024 11:04:53] ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+[08/21/2024 11:04:53] Stopping build thread
 Setting up 8 worker threads for Enlighten.
-02/08/2024 08:49:11: Steam manager on destroy
+[08/21/2024 11:04:55] ZNet OnDestroy
+[08/21/2024 11:04:55] Net scene destroyed
+[08/21/2024 11:04:55] Local player destroyed
+[08/21/2024 11:04:55] Steam manager on destroy
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 296 frames, [16.0 KB-32.0 KB]: 1 frames, [32.0 KB-64.0 KB]: 142 frames, [0.5 MB-1.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 2 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 1481 frames, [4.0 KB-8.0 KB]: 1 frames, [8.0 KB-16.0 KB]: 2 frames, [16.0 KB-32.0 KB]: 30 frames, [32.0 KB-64.0 KB]: 1969330 frames, [64.0 KB-128.0 KB]: 613891 frames, [128.0 KB-256.0 KB]: 9 frames, [256.0 KB-0.5 MB]: 38 frames, [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 12 frames, [2.0 MB-4.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 7 frames
       Initial Block Size 4.0 MB
-      Current Block Size 7.6 MB
-      Peak Allocated Bytes 7.6 MB
-      Overflow Count 31
+      Current Block Size 8.0 MB
+      Peak Allocated Bytes 7.8 MB
+      Overflow Count 98
     [ALLOC_TEMP_Background Job.worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 0.5 MB
-      Peak Allocated Bytes 312.2 KB
-      Overflow Count 56
+      Peak Allocated Bytes 506.7 KB
+      Overflow Count 261402
     [ALLOC_TEMP_Background Job.worker 3]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 11]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 7]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 6]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 11]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 10.1 KB
+      Peak Allocated Bytes 231.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_ReadCacheIndex]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 461 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 12]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 2]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 9]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 0]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 6.0 KB
+      Peak Allocated Bytes 196.7 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 14]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 3.6 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 5]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 10.0 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 8]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+    [ALLOC_TEMP_Job.worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 187.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 10]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 13]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 4.8 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 1]
       Initial Block Size 32.0 KB
@@ -170,85 +1449,95 @@ Memory Statistics:
       Current Block Size 64.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
+    [ALLOC_TEMP_]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
     [ALLOC_TEMP_Job.worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 28.1 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 3]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 28.1 KB
+      Peak Allocated Bytes 231.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_NavMesh Builder.worker 0]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 5]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 12]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 4.8 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 50.9 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.worker 4]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 10.0 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 13]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
-      Overflow Count 0
+      Peak Allocated Bytes 96.1 KB
+      Overflow Count 2
     [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
       Peak Allocated Bytes 138 B
       Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 15]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 12.6 KB
+      Peak Allocated Bytes 196.7 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 10]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 4.8 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 7]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 6.2 KB
+      Peak Allocated Bytes 196.7 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 9]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 10.0 KB
+      Peak Allocated Bytes 196.7 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 0]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 6]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 28.1 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 8]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 6.0 KB
+      Peak Allocated Bytes 231.1 KB
       Overflow Count 0
     [ALLOC_TEMP_HIDInput]
       Initial Block Size 64.0 KB
@@ -258,12 +1547,12 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.worker 14]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Loading.AsyncRead]
       Initial Block Size 64.0 KB
-      Current Block Size 64.0 KB
-      Peak Allocated Bytes 294 B
+      Current Block Size 128.0 KB
+      Peak Allocated Bytes 127.9 KB
       Overflow Count 0
     [ALLOC_TEMP_BatchDeleteObjects]
       Initial Block Size 64.0 KB
@@ -271,32 +1560,32 @@ Memory Statistics:
       Peak Allocated Bytes 54 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 3833
+  Peak main deferred allocation count 69484
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 148853
-        32B: 15 Subsections = 7680 buckets. Failed count: 120283
-        48B: 148 Subsections = 50517 buckets. Failed count: 83919
-        64B: 53 Subsections = 13568 buckets. Failed count: 82436
-        80B: 25 Subsections = 5120 buckets. Failed count: 17506
-        96B: 5 Subsections = 853 buckets. Failed count: 23148
-        112B: 3 Subsections = 438 buckets. Failed count: 20932
-        128B: 4 Subsections = 512 buckets. Failed count: 63940
+        16B: 15 Subsections = 15360 buckets. Failed count: 46678321
+        32B: 37 Subsections = 18944 buckets. Failed count: 8750143
+        48B: 37 Subsections = 12629 buckets. Failed count: 152004002
+        64B: 51 Subsections = 13056 buckets. Failed count: 3221278
+        80B: 35 Subsections = 7168 buckets. Failed count: 8669585
+        96B: 24 Subsections = 4096 buckets. Failed count: 493267
+        112B: 16 Subsections = 2340 buckets. Failed count: 184174
+        128B: 41 Subsections = 5248 buckets. Failed count: 5176717
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [32.0 MB-64.0 MB]: 441 frames, [64.0 MB-128.0 MB]: 1 frames
+      Peak usage frame count: [64.0 MB-128.0 MB]: 1487 frames, [128.0 MB-256.0 MB]: 1557 frames, [256.0 MB-0.50 GB]: 2581760 frames
       Requested Block Size 16.0 MB
-      Peak Block count 6
-      Peak Allocated memory 115.1 MB
-      Peak Large allocation bytes 44.0 MB
+      Peak Block count 20
+      Peak Allocated memory 388.0 MB
+      Peak Large allocation bytes 131.2 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [256.0 MB-0.50 GB]: 442 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 45 frames, [16.0 MB-32.0 MB]: 1202 frames, [32.0 MB-64.0 MB]: 28 frames, [64.0 MB-128.0 MB]: 49 frames, [128.0 MB-256.0 MB]: 83 frames, [256.0 MB-0.50 GB]: 2583397 frames
       Requested Block Size 16.0 MB
-      Peak Block count 14
-      Peak Allocated memory 297.1 MB
-      Peak Large allocation bytes 91.3 MB
+      Peak Block count 24
+      Peak Allocated memory 369.0 MB
+      Peak Large allocation bytes 65.4 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
   Used Block Count 0
@@ -310,91 +1599,91 @@ Memory Statistics:
 [ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
   Initial Block Size 2.0 MB
   Used Block Count 1
-  Overflow Count (too large) 0
+  Overflow Count (too large) 3
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_ASYNC (Background)]
   Initial Block Size 1.0 MB
   Used Block Count 1
-  Overflow Count (too large) 0
+  Overflow Count (too large) 4
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 7
+  Peak main deferred allocation count 88
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 148853
-        32B: 15 Subsections = 7680 buckets. Failed count: 120283
-        48B: 148 Subsections = 50517 buckets. Failed count: 83919
-        64B: 53 Subsections = 13568 buckets. Failed count: 82436
-        80B: 25 Subsections = 5120 buckets. Failed count: 17506
-        96B: 5 Subsections = 853 buckets. Failed count: 23148
-        112B: 3 Subsections = 438 buckets. Failed count: 20932
-        128B: 4 Subsections = 512 buckets. Failed count: 63940
+        16B: 15 Subsections = 15360 buckets. Failed count: 46678321
+        32B: 37 Subsections = 18944 buckets. Failed count: 8750143
+        48B: 37 Subsections = 12629 buckets. Failed count: 152004002
+        64B: 51 Subsections = 13056 buckets. Failed count: 3221278
+        80B: 35 Subsections = 7168 buckets. Failed count: 8669585
+        96B: 24 Subsections = 4096 buckets. Failed count: 493267
+        112B: 16 Subsections = 2340 buckets. Failed count: 184174
+        128B: 41 Subsections = 5248 buckets. Failed count: 5176717
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 298 frames, [8.0 MB-16.0 MB]: 144 frames
+      Peak usage frame count: [64.0 MB-128.0 MB]: 3032 frames, [256.0 MB-0.50 GB]: 2581772 frames
       Requested Block Size 16.0 MB
-      Peak Block count 1
-      Peak Allocated memory 11.0 MB
-      Peak Large allocation bytes 0 B
+      Peak Block count 8
+      Peak Allocated memory 503.5 MB
+      Peak Large allocation bytes 385.7 MB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [64.0 MB-128.0 MB]: 442 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [0.5 MB-1.0 MB]: 1243 frames, [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 2 frames, [16.0 MB-32.0 MB]: 37 frames, [32.0 MB-64.0 MB]: 51 frames, [64.0 MB-128.0 MB]: 2581852 frames, [128.0 MB-256.0 MB]: 1617 frames
       Requested Block Size 16.0 MB
-      Peak Block count 6
-      Peak Allocated memory 79.1 MB
+      Peak Block count 9
+      Peak Allocated memory 138.2 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 34
+  Peak main deferred allocation count 194009
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 148853
-        32B: 15 Subsections = 7680 buckets. Failed count: 120283
-        48B: 148 Subsections = 50517 buckets. Failed count: 83919
-        64B: 53 Subsections = 13568 buckets. Failed count: 82436
-        80B: 25 Subsections = 5120 buckets. Failed count: 17506
-        96B: 5 Subsections = 853 buckets. Failed count: 23148
-        112B: 3 Subsections = 438 buckets. Failed count: 20932
-        128B: 4 Subsections = 512 buckets. Failed count: 63940
+        16B: 15 Subsections = 15360 buckets. Failed count: 46678321
+        32B: 37 Subsections = 18944 buckets. Failed count: 8750143
+        48B: 37 Subsections = 12629 buckets. Failed count: 152004002
+        64B: 51 Subsections = 13056 buckets. Failed count: 3221278
+        80B: 35 Subsections = 7168 buckets. Failed count: 8669585
+        96B: 24 Subsections = 4096 buckets. Failed count: 493267
+        112B: 16 Subsections = 2340 buckets. Failed count: 184174
+        128B: 41 Subsections = 5248 buckets. Failed count: 5176717
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [4.0 MB-8.0 MB]: 298 frames, [16.0 MB-32.0 MB]: 144 frames
+      Peak usage frame count: [0.50 GB-1.00 GB]: 2584804 frames
       Requested Block Size 4.0 MB
-      Peak Block count 6
-      Peak Allocated memory 25.7 MB
-      Peak Large allocation bytes 7.0 MB
+      Peak Block count 162
+      Peak Allocated memory 0.67 GB
+      Peak Large allocation bytes 89.8 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [256.0 MB-0.50 GB]: 442 frames
+      Peak usage frame count: [0.5 MB-1.0 MB]: 1 frames, [64.0 MB-128.0 MB]: 40 frames, [128.0 MB-256.0 MB]: 1238 frames, [256.0 MB-0.50 GB]: 2583525 frames
       Requested Block Size 4.0 MB
-      Peak Block count 65
-      Peak Allocated memory 327.2 MB
-      Peak Large allocation bytes 87.9 MB
+      Peak Block count 99
+      Peak Allocated memory 495.6 MB
+      Peak Large allocation bytes 129.9 MB
 [ALLOC_TYPETREE] Dual Thread Allocator
-  Peak main deferred allocation count 2
+  Peak main deferred allocation count 1464
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 3 Subsections = 3072 buckets. Failed count: 148853
-        32B: 15 Subsections = 7680 buckets. Failed count: 120283
-        48B: 148 Subsections = 50517 buckets. Failed count: 83919
-        64B: 53 Subsections = 13568 buckets. Failed count: 82436
-        80B: 25 Subsections = 5120 buckets. Failed count: 17506
-        96B: 5 Subsections = 853 buckets. Failed count: 23148
-        112B: 3 Subsections = 438 buckets. Failed count: 20932
-        128B: 4 Subsections = 512 buckets. Failed count: 63940
+        16B: 15 Subsections = 15360 buckets. Failed count: 46678321
+        32B: 37 Subsections = 18944 buckets. Failed count: 8750143
+        48B: 37 Subsections = 12629 buckets. Failed count: 152004002
+        64B: 51 Subsections = 13056 buckets. Failed count: 3221278
+        80B: 35 Subsections = 7168 buckets. Failed count: 8669585
+        96B: 24 Subsections = 4096 buckets. Failed count: 493267
+        112B: 16 Subsections = 2340 buckets. Failed count: 184174
+        128B: 41 Subsections = 5248 buckets. Failed count: 5176717
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [0-1.0 KB]: 297 frames, [4.0 KB-8.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 144 frames
+      Peak usage frame count: [4.0 MB-8.0 MB]: 2584803 frames, [8.0 MB-16.0 MB]: 1 frames
       Requested Block Size 2.0 MB
-      Peak Block count 1
-      Peak Allocated memory 26.3 KB
+      Peak Block count 5
+      Peak Allocated memory 8.8 MB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 442 frames
+      Peak usage frame count: [1.0 KB-2.0 KB]: 1 frames, [8.0 MB-16.0 MB]: 3 frames, [16.0 MB-32.0 MB]: 24 frames, [32.0 MB-64.0 MB]: 16 frames, [64.0 MB-128.0 MB]: 2584760 frames
       Requested Block Size 2.0 MB
-      Peak Block count 1
-      Peak Allocated memory 120.4 KB
+      Peak Block count 47
+      Peak Allocated memory 90.8 MB
       Peak Large allocation bytes 0 B
