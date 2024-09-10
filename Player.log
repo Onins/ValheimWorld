@@ -1,7 +1,7 @@
 Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
 Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000208156DB8D0.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000002081A3A5040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001FD89E9D220.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001FD8EC9A040.dll
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
 Initialize engine version: 2022.3.17f1 (4fc78088f837)
 [Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
@@ -13,14 +13,14 @@ Direct3D:
     VRAM:     4040 MB
     Driver:   31.0.15.5212
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.089 seconds
+- Loaded All Assemblies, in  0.098 seconds
 - Finished resetting the current domain, in  0.001 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.706700 ms
+UnloadTime: 1.746000 ms
 [Message:   BepInEx] BepInEx 5.4.22.0 - valheim (04/07/2024 6:48:10 PM)
 [Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
 [Info   :   BepInEx] Running under Unity v2022.3.17.5228416
@@ -35,47 +35,46 @@ UnloadTime: 0.706700 ms
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 104 plugins to load
+[Info   :   BepInEx] 101 plugins to load
 [Info   :   BepInEx] Loading [Valheim Configuration Manager 1.0.17]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000020886CFE020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001FDFB161020.dll
 [Info   :   BepInEx] Loading [PlantEasily 1.8.1]
 [Info   :   BepInEx] Loading [PlantEverything 1.18.1]
 [Info   :   BepInEx] Loading [Groups 1.2.8]
-08/27/2024 12:23:56: Loaded localization file #0 - 'localization' language: 'English'
-08/27/2024 12:23:56: Loaded localization file #1 - 'localization_extra' language: 'English'
-08/27/2024 12:23:56: Loaded localization file #2 - 'heightmap_message' language: 'English'
-08/27/2024 12:23:56: Loaded localization file #3 - 'localization_hildir' language: 'English'
-08/27/2024 12:23:56: Loaded localization file #4 - 'localization_emotes' language: 'English'
-08/27/2024 12:23:56: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-08/27/2024 12:23:56: Loaded localization file #0 - 'localization' language: 'English'
-08/27/2024 12:23:56: Loaded localization file #1 - 'localization_extra' language: 'English'
-08/27/2024 12:23:56: Loaded localization file #2 - 'heightmap_message' language: 'English'
-08/27/2024 12:23:56: Loaded localization file #3 - 'localization_hildir' language: 'English'
-08/27/2024 12:23:56: Loaded localization file #4 - 'localization_emotes' language: 'English'
-08/27/2024 12:23:56: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #0 - 'localization' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #1 - 'localization_extra' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #2 - 'heightmap_message' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #3 - 'localization_hildir' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #4 - 'localization_emotes' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #0 - 'localization' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #1 - 'localization_extra' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #2 - 'heightmap_message' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #3 - 'localization_hildir' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #4 - 'localization_emotes' language: 'English'
+09/10/2024 18:41:17: Loaded localization file #5 - 'localization_ashlands' language: 'English'
 [Info   :   BepInEx] Loading [AzuExtendedPlayerInventory 1.4.3]
 [Info   :   BepInEx] Loading [Jewelcrafting 1.5.29]
-08/27/2024 12:23:59: Loaded localization file #0 - 'localization' language: 'English'
-08/27/2024 12:23:59: Loaded localization file #1 - 'localization_extra' language: 'English'
-08/27/2024 12:23:59: Loaded localization file #2 - 'heightmap_message' language: 'English'
-08/27/2024 12:23:59: Loaded localization file #3 - 'localization_hildir' language: 'English'
-08/27/2024 12:23:59: Loaded localization file #4 - 'localization_emotes' language: 'English'
-08/27/2024 12:23:59: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-08/27/2024 12:23:59: Loaded localization file #0 - 'localization' language: 'English'
-08/27/2024 12:24:00: Loaded localization file #1 - 'localization_extra' language: 'English'
-08/27/2024 12:24:00: Loaded localization file #2 - 'heightmap_message' language: 'English'
-08/27/2024 12:24:00: Loaded localization file #3 - 'localization_hildir' language: 'English'
-08/27/2024 12:24:00: Loaded localization file #4 - 'localization_emotes' language: 'English'
-08/27/2024 12:24:00: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-08/27/2024 12:24:00: Loaded localization file #0 - 'localization' language: 'English'
-08/27/2024 12:24:00: Loaded localization file #1 - 'localization_extra' language: 'English'
-08/27/2024 12:24:00: Loaded localization file #2 - 'heightmap_message' language: 'English'
-08/27/2024 12:24:00: Loaded localization file #3 - 'localization_hildir' language: 'English'
-08/27/2024 12:24:00: Loaded localization file #4 - 'localization_emotes' language: 'English'
-08/27/2024 12:24:00: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #0 - 'localization' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #1 - 'localization_extra' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #2 - 'heightmap_message' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #3 - 'localization_hildir' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #4 - 'localization_emotes' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #0 - 'localization' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #1 - 'localization_extra' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #2 - 'heightmap_message' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #3 - 'localization_hildir' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #4 - 'localization_emotes' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #0 - 'localization' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #1 - 'localization_extra' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #2 - 'heightmap_message' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #3 - 'localization_hildir' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #4 - 'localization_emotes' language: 'English'
+09/10/2024 18:41:19: Loaded localization file #5 - 'localization_ashlands' language: 'English'
 [Info   :   BepInEx] Loading [AzuAntiArthriticCrafting 1.5.6]
 [Info   :   BepInEx] Loading [AzuAntiCheat 4.3.8]
-[Info   :   BepInEx] Loading [AzuMapDetails 1.0.3]
 [Info   :   BepInEx] Loading [Backpacks 1.3.4]
 [Info   :   BepInEx] Loading [BowsBeforeHoes 1.3.9]
 [Info   :   BepInEx] Loading [CraftyCarts 3.1.4]
@@ -103,24 +102,24 @@ ERROR: Shader  shader is not supported on this GPU (none of subshaders/fallbacks
 ERROR: Shader  shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
 [Info   :   BepInEx] Loading [CombatOverhaulREwrite 1.2.1]
 [Info   :   BepInEx] Loading [VikingsDoSwim 1.3.4]
-08/27/2024 12:24:22: Loaded localization file #0 - 'localization' language: 'English'
-08/27/2024 12:24:22: Loaded localization file #1 - 'localization_extra' language: 'English'
-08/27/2024 12:24:22: Loaded localization file #2 - 'heightmap_message' language: 'English'
-08/27/2024 12:24:22: Loaded localization file #3 - 'localization_hildir' language: 'English'
-08/27/2024 12:24:22: Loaded localization file #4 - 'localization_emotes' language: 'English'
-08/27/2024 12:24:22: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-08/27/2024 12:24:22: Loaded localization file #0 - 'localization' language: 'English'
-08/27/2024 12:24:22: Loaded localization file #1 - 'localization_extra' language: 'English'
-08/27/2024 12:24:22: Loaded localization file #2 - 'heightmap_message' language: 'English'
-08/27/2024 12:24:22: Loaded localization file #3 - 'localization_hildir' language: 'English'
-08/27/2024 12:24:22: Loaded localization file #4 - 'localization_emotes' language: 'English'
-08/27/2024 12:24:22: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-08/27/2024 12:24:23: Loaded localization file #0 - 'localization' language: 'English'
-08/27/2024 12:24:23: Loaded localization file #1 - 'localization_extra' language: 'English'
-08/27/2024 12:24:23: Loaded localization file #2 - 'heightmap_message' language: 'English'
-08/27/2024 12:24:23: Loaded localization file #3 - 'localization_hildir' language: 'English'
-08/27/2024 12:24:23: Loaded localization file #4 - 'localization_emotes' language: 'English'
-08/27/2024 12:24:23: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+09/10/2024 18:41:42: Loaded localization file #0 - 'localization' language: 'English'
+09/10/2024 18:41:42: Loaded localization file #1 - 'localization_extra' language: 'English'
+09/10/2024 18:41:42: Loaded localization file #2 - 'heightmap_message' language: 'English'
+09/10/2024 18:41:42: Loaded localization file #3 - 'localization_hildir' language: 'English'
+09/10/2024 18:41:42: Loaded localization file #4 - 'localization_emotes' language: 'English'
+09/10/2024 18:41:42: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #0 - 'localization' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #1 - 'localization_extra' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #2 - 'heightmap_message' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #3 - 'localization_hildir' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #4 - 'localization_emotes' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #0 - 'localization' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #1 - 'localization_extra' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #2 - 'heightmap_message' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #3 - 'localization_hildir' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #4 - 'localization_emotes' language: 'English'
+09/10/2024 18:41:43: Loaded localization file #5 - 'localization_ashlands' language: 'English'
 [Info   :   BepInEx] Loading [WieldEquipmentWhileSwimming 1.1.0]
 [Info   :   BepInEx] Loading [ComfyGizmo 1.10.0]
 [Info   :   BepInEx] Loading [Hotbar Switch 0.3.2]
@@ -136,15 +135,13 @@ ERROR: Shader  shader is not supported on this GPU (none of subshaders/fallbacks
 [Info   :   BepInEx] Loading [WarmTorches 0.1.2]
 [Info   :   BepInEx] Loading [CarryMeMaster 1.0.1]
 [Info   :   BepInEx] Loading [Better Networking 2.3.2]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000002099D5300C0.dll
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000002099D5B02E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001FEFA893020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001FEF515DFC0.dll
 [Info   :   BepInEx] Loading [Digitalroot's Slope Combat Assistance 2.0.25]
 [Info   :   BepInEx] Loading [ICanSeeClearlyNow 1.1.2]
 [Info   :   BepInEx] Loading [ServerSideMap 1.3.11.0]
-[Info   :   BepInEx] Loading [Expand World Data 1.44]
-[Info   :   BepInEx] Loading [Expand World Events 1.8]
 [Info   :   BepInEx] Loading [Expand World Rivers 1.9]
-[Info   :   BepInEx] Loading [Expand World Size 1.18]
+[Info   :   BepInEx] Loading [Expand World Size 1.20]
 [Info   :   BepInEx] Loading [NoAFKEvents 1.0.2]
 [Info   :   BepInEx] Loading [Instantly Destroy Boats and Carts 1.0.4]
 [Info   :   BepInEx] Loading [Quick Stack - Store - Sort - Trash - Restock 1.4.8]
@@ -156,10 +153,10 @@ Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [Valheim Lumberjack 1.1.0]
 [Info   :   BepInEx] Loading [VagonsJVL 1.0.2]
 [Info   :   BepInEx] Loading [kg.ItemDrawers 1.0.8]
-[Info   :   BepInEx] Loading [EpicJewels 0.9.0]
+[Info   :   BepInEx] Loading [EpicJewels 0.9.1]
 [Info   :   BepInEx] Loading [Simple Chat 1.2.0]
-[Info   :   BepInEx] Loading [OdinsKingdom 1.2.26]
-[Info   :   BepInEx] Loading [HoneyPlus 5.3.2]
+[Info   :   BepInEx] Loading [OdinsKingdom 1.2.27]
+[Info   :   BepInEx] Loading [HoneyPlus 6.0.0]
 [Warning:Jotunn.Managers.ItemManager] [HoneyPlus] Custom item HoneySausages already added
 [Info   :   BepInEx] Loading [AutoFollowPath 1.6.6]
 [Info   :   BepInEx] Loading [Blacksmithing 1.3.0]
@@ -173,9 +170,8 @@ Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [Lumberjacking 1.0.5]
 [Info   :   BepInEx] Loading [Mining 1.1.5]
 [Info   :   BepInEx] Loading [PackHorse 1.0.3]
-[Info   :   BepInEx] Loading [Ranching 1.1.3]
 [Info   :   BepInEx] Loading [Sailing 1.1.7]
-[Info   :   BepInEx] Loading [Server Characters 1.4.12]
+[Info   :   BepInEx] Loading [Server Characters 1.4.13]
 [Info   :   BepInEx] Loading [Smart Skills 1.0.2]
 [Info   :   BepInEx] Loading [Smooth Save 1.0.5]
 [Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.2]
@@ -190,145 +186,146 @@ Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [Messenger 1.0.1]
 [Info   :   BepInEx] Loading [PortalTweaks 1.0.1]
 [Info   :   BepInEx] Loading [UsefulPaths 1.0.3]
-[Info   :   BepInEx] Loading [VikingNPC 0.1.0]
+[Info   :   BepInEx] Loading [VikingNPC 0.1.2]
 [Info   :   BepInEx] Loading [ExtraSnapPointsMadeEasy 1.3.1]
 [Info   :   BepInEx] Loading [SafetyStatus 1.1.0]
 [Info   :   BepInEx] Loading [AdvancedTerrainModifiers 1.3.3]
 [Info   :   BepInEx] Loading [More Gates Extended 1.0.1]
-[Info   :   BepInEx] Loading [My Little UI 1.1.0]
+[Info   :   BepInEx] Loading [My Little UI 1.1.2]
 [Info   :   BepInEx] Loading [Soulcatcher 4.5.6]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000209D13BC160.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001FF31EC2010.dll
 [Info   :   BepInEx] Loading [AutomaticFuel 1.4.1]
 [Info   :   BepInEx] Loading [BetterCarts 1.0.7]
 [Info   :   BepInEx] Loading [NoSmokeSimplified 1.0.8]
+[Info   :   BepInEx] Loading [TimedTorchesStayLit 1.3.7]
 [Info   :   BepInEx] Loading [SingleUseSwampKey 1.0.1]
 [Info   :   BepInEx] Loading [Comfort Tweaks 3.3.7]
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-00000209D0B1D730.dll
-[08/27/2024 12:24:54] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:24:54] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:24:54] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:24:54] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:24:54] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:24:54] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:24:55] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:24:55] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:24:55] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:24:55] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:24:55] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:24:55] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:24:55] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:24:55] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:24:55] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:24:55] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:24:55] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:24:56] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-000001FF31A8EB00.dll
+[09/10/2024 18:42:20] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:42:20] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:42:20] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:42:20] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:42:20] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:42:20] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:42:21] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:42:21] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:42:21] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:42:21] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:42:21] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:42:21] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:42:21] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:42:21] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:42:21] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:42:21] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:42:21] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:42:22] Loaded localization file #5 - 'localization_ashlands' language: 'English'
 [Info   :   BepInEx] Loading [BetterRiding 1.0.5]
 [Message:   BepInEx] Chainloader startup complete
 Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
 Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
 Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
-[08/27/2024 12:24:58] Set background loading budget to Low
-[08/27/2024 12:25:03] Using environment steamid 892970
-[08/27/2024 12:25:03] Using steam APPID:892970
-[08/27/2024 12:25:03] Authentication:k_ESteamNetworkingAvailability_Attempting
-Unloading 5 Unused Serialized files (Serialized files now loaded: 51)
-UnloadTime: 5.094000 ms
-[08/27/2024 12:25:04] Fetching PlatformPrefs 'GuiScale' before loading defaults
-[08/27/2024 12:25:04] Fetching PlatformPrefs 'GuiScale' before loading defaults
-Unloading 2311 unused Assets to reduce memory usage. Loaded Objects now: 222777.
-Total: 212.496500 ms (FindLiveObjects: 14.195500 ms CreateObjectMapping: 20.285900 ms MarkObjects: 174.967800 ms  DeleteObjects: 3.047100 ms)
+[09/10/2024 18:42:24] Set background loading budget to Low
+[09/10/2024 18:42:29] Using environment steamid 892970
+[09/10/2024 18:42:29] Using steam APPID:892970
+[09/10/2024 18:42:30] Authentication:k_ESteamNetworkingAvailability_Attempting
+Unloading 5 Unused Serialized files (Serialized files now loaded: 52)
+UnloadTime: 5.197000 ms
+[09/10/2024 18:42:31] Fetching PlatformPrefs 'GuiScale' before loading defaults
+[09/10/2024 18:42:31] Fetching PlatformPrefs 'GuiScale' before loading defaults
+Unloading 2310 unused Assets to reduce memory usage. Loaded Objects now: 223107.
+Total: 203.108500 ms (FindLiveObjects: 13.296900 ms CreateObjectMapping: 20.039500 ms MarkObjects: 166.672800 ms  DeleteObjects: 3.099000 ms)
 
-[08/27/2024 12:25:05] Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
-[08/27/2024 12:25:05] Set background loading budget to Normal
-[08/27/2024 12:25:09] Set background loading budget to High
+[09/10/2024 18:42:31] Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+[09/10/2024 18:42:31] Set background loading budget to Normal
+[09/10/2024 18:42:35] Set background loading budget to High
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 The referenced script on this Behaviour (Game Object '<null>') is missing!
-Unloading 2 Unused Serialized files (Serialized files now loaded: 1165)
-[08/27/2024 12:25:27] Set background loading budget to Low
-UnloadTime: 8.377500 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1227)
+[09/10/2024 18:42:53] Set background loading budget to Low
+UnloadTime: 8.139600 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[08/27/2024 12:25:28] Missing audio clip in music respawn
-[08/27/2024 12:25:30] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:25:30] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:25:30] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:25:30] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:25:30] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:25:30] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:25:30] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:25:31] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:25:31] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:25:31] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:25:31] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:25:31] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:25:31] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:25:31] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:25:31] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:25:31] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:25:31] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:25:31] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:25:32] Steam initialized, persona:Ana na may L
-[08/27/2024 12:25:32] PlayFab custom ID set to "Steam_76561198287391004"
-[08/27/2024 12:25:32] Using default prefs
-[08/27/2024 12:25:32] Valheim version: 0.218.19-ServerCharacters (network version 27)
+[09/10/2024 18:42:54] Missing audio clip in music respawn
+[09/10/2024 18:42:55] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:42:55] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:42:55] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:42:56] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:42:56] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:42:56] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:42:56] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:42:56] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:42:56] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:42:56] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:42:56] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:42:56] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:42:56] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:42:56] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:42:57] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:42:57] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:42:57] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:42:57] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:42:57] Steam initialized, persona:Ana na may L
+[09/10/2024 18:42:57] PlayFab custom ID set to "Steam_76561198287391004"
+[09/10/2024 18:42:57] Using default prefs
+[09/10/2024 18:42:57] Valheim version: 0.218.21-ServerCharacters (network version 31)
 Trying to set graphic mode to 'Performance'
 Graphic mode 'Performance' applied!
-[08/27/2024 12:25:32] Worldgenerator version setup:2
-[08/27/2024 12:25:33] Render threading mode:MultiThreaded
-[08/27/2024 12:25:33] Set button "CamZoomIn" to None!
-[08/27/2024 12:25:33] Set button "CamZoomOut" to None!
-[08/27/2024 12:25:33] Set button "CamZoomIn" to None!
-[08/27/2024 12:25:33] Set button "CamZoomOut" to None!
-[08/27/2024 12:25:33] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:25:33] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:25:33] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:25:33] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:25:33] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:25:34] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:25:34] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:25:34] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:25:34] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:25:34] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:25:34] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:25:34] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:25:35] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:25:35] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:25:35] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:25:35] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:25:35] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:25:35] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:25:35] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:25:35] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:25:35] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:25:35] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:25:35] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:25:36] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:25:36] Checking for installed DLCs
-[08/27/2024 12:25:36] DLC:beta installed:False
-[08/27/2024 12:25:36] Builder started
+[09/10/2024 18:42:57] Worldgenerator version setup:2
+[09/10/2024 18:42:58] Render threading mode:MultiThreaded
+[09/10/2024 18:42:58] Set button "CamZoomIn" to None!
+[09/10/2024 18:42:58] Set button "CamZoomOut" to None!
+[09/10/2024 18:42:58] Set button "CamZoomIn" to None!
+[09/10/2024 18:42:58] Set button "CamZoomOut" to None!
+[09/10/2024 18:42:58] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:42:58] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:42:58] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:42:59] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:42:59] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:42:59] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:42:59] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:42:59] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:42:59] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:42:59] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:43:00] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:43:00] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:43:00] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:43:00] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:43:00] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:43:00] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:43:00] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:43:00] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:43:00] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:43:00] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:43:00] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:43:01] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:43:01] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:43:01] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:43:01] Checking for installed DLCs
+[09/10/2024 18:43:01] DLC:beta installed:False
+[09/10/2024 18:43:01] Builder started
 ObjectDB_Awake_Patch ran
 ObjectDB_CopyOtherDB_Patch ran
 [RecipeHandler] Added recipe: Recipe_RuneFocus
-[08/27/2024 12:25:37] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:25:37] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:25:37] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:25:37] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:25:37] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:25:37] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:25:37] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:25:37] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:25:37] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:25:38] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:25:38] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:25:38] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:25:38] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:25:38] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:25:38] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:25:38] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:25:38] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:25:38] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:43:02] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:43:02] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:43:02] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:43:02] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:43:02] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:43:02] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:43:03] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:43:03] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:43:03] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:43:03] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:43:03] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:43:03] Loaded localization file #5 - 'localization_ashlands' language: 'English'
+[09/10/2024 18:43:03] Loaded localization file #0 - 'localization' language: 'English'
+[09/10/2024 18:43:03] Loaded localization file #1 - 'localization_extra' language: 'English'
+[09/10/2024 18:43:03] Loaded localization file #2 - 'heightmap_message' language: 'English'
+[09/10/2024 18:43:03] Loaded localization file #3 - 'localization_hildir' language: 'English'
+[09/10/2024 18:43:03] Loaded localization file #4 - 'localization_emotes' language: 'English'
+[09/10/2024 18:43:04] Loaded localization file #5 - 'localization_ashlands' language: 'English'
 [Warning:Comfort Tweaks] GameObject: fire_pit,PieceName: $piece_firepit, Count: 1
 [Warning:Comfort Tweaks] GameObject: fire_pit_iron,PieceName: $piece_firepit_iron, Count: 1
 [Warning:Comfort Tweaks] GameObject: bonfire,PieceName: $piece_bonfire, Count: 2
@@ -357,565 +354,12 @@ ObjectDB_CopyOtherDB_Patch ran
 [Warning:Comfort Tweaks] GameObject: runefire_bal,PieceName: Runefire, Count: 1
 [Warning:Comfort Tweaks] GameObject: flametal_ore_pile_bal,PieceName: Flametal Ore Pile, Count: 1
 [Warning:Comfort Tweaks] GameObject: sulfur_cauldron_bal,PieceName: Sulfur boiler, Count: 2
-[08/27/2024 12:25:39] Sending PlayFab login request (attempt 1)
-[08/27/2024 12:25:39] Starting music menu
-Unloading 2030 unused Assets to reduce memory usage. Loaded Objects now: 503882.
-Total: 266.219500 ms (FindLiveObjects: 29.723600 ms CreateObjectMapping: 45.688000 ms MarkObjects: 187.561700 ms  DeleteObjects: 3.246200 ms)
+[09/10/2024 18:43:04] Sending PlayFab login request (attempt 1)
+[09/10/2024 18:43:05] Starting music menu
+Unloading 1695 unused Assets to reduce memory usage. Loaded Objects now: 504700.
+Total: 262.202600 ms (FindLiveObjects: 34.518900 ms CreateObjectMapping: 45.081500 ms MarkObjects: 179.636600 ms  DeleteObjects: 2.965400 ms)
 
-[08/27/2024 12:25:40] PlayFab logged in as "Steam_76561198287391004"
-[08/27/2024 12:25:40] PlayFab local entity ID is 70233478553F7572
-[08/27/2024 12:26:07] show character selection
-[08/27/2024 12:26:08] OnCharacterStart
-[08/27/2024 12:26:15] Loading main scene
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-Unloading 3 Unused Serialized files (Serialized files now loaded: 1167)
-UnloadTime: 20.456800 ms
-[08/27/2024 12:26:15] Audioman already exist, destroying self
-[08/27/2024 12:26:15] Steam initialized, persona:Ana na may L
-[08/27/2024 12:26:15] PlayFab custom ID set to "Steam_76561198287391004"
-[08/27/2024 12:26:15] Using default prefs
-[08/27/2024 12:26:15] Loading player profile sir beer qol
-[08/27/2024 12:26:15] isModded: True
-[08/27/2024 12:26:15] Zonesystem Awake 2895
-[08/27/2024 12:26:15] DungeonDB Awake 2895
-[08/27/2024 12:26:15] Steam initialized, persona:Ana na may L
-[08/27/2024 12:26:15] Registering lobby
-[08/27/2024 12:26:15] Worldgenerator version setup:2
-Registered '_shudnal.ConfigurationManager ConfigSync' RPC - waiting for incoming connections
-Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
-Registered 'Groups ConfigSync' RPC - waiting for incoming connections
-Registered 'Azumatt.AzuExtendedPlayerInventory ConfigSync' RPC - waiting for incoming connections
-Registered 'Jewelcrafting ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.jewelcrafting ItemManager ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.jewelcrafting PieceManager ConfigSync' RPC - waiting for incoming connections
-Registered 'Azumatt.AzuAntiArthriticCrafting ConfigSync' RPC - waiting for incoming connections
-Registered 'Azumatt.AzuAntiCheat ConfigSync' RPC - waiting for incoming connections
-Registered 'Azumatt.AzuMapDetails ConfigSync' RPC - waiting for incoming connections
-Registered 'Backpacks ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.backpacks ItemManager ConfigSync' RPC - waiting for incoming connections
-Registered 'Azumatt.BowsBeforeHoes ConfigSync' RPC - waiting for incoming connections
-Registered 'Azumatt.BowsBeforeHoes ItemManager ConfigSync' RPC - waiting for incoming connections
-Registered 'Azumatt.CraftyCarts ConfigSync' RPC - waiting for incoming connections
-Registered 'Azumatt.CraftyCarts PieceManager ConfigSync' RPC - waiting for incoming connections
-Registered 'Azumatt.PetPantry ConfigSync' RPC - waiting for incoming connections
-Registered 'Azumatt.Recycle_N_Reclaim ConfigSync' RPC - waiting for incoming connections
-Registered 'Azumatt.SleepSkip ConfigSync' RPC - waiting for incoming connections
-Registered 'blacks7ar.CombatOverhaulREwrite ConfigSync' RPC - waiting for incoming connections
-Registered 'blacks7ar.VikingsDoSwim ConfigSync' RPC - waiting for incoming connections
-Registered 'blacks7ar.WieldEquipmentWhileSwimming ConfigSync' RPC - waiting for incoming connections
-Registered 'coemt.SurtlingBoats ConfigSync' RPC - waiting for incoming connections
-Registered 'expand_world_data ConfigSync' RPC - waiting for incoming connections
-Registered 'expand_world_events ConfigSync' RPC - waiting for incoming connections
-Registered 'kg.ItemDrawers ConfigSync' RPC - waiting for incoming connections
-Registered 'kg.ItemDrawers PieceManager ConfigSync' RPC - waiting for incoming connections
-Registered 'OdinsKingdom ConfigSync' RPC - waiting for incoming connections
-Registered 'odinplus.plugins.odinskingdom ItemManager ConfigSync' RPC - waiting for incoming connections
-Registered 'odinplus.plugins.odinskingdom PieceManager ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.blacksmithing ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.building ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.cooking ConfigSync' RPC - waiting for incoming connections
-Registered 'Darwin Awards ConfigSync' RPC - waiting for incoming connections
-Registered 'Exploration ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.farming ConfigSync' RPC - waiting for incoming connections
-Registered 'Foraging ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.lumberjacking ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.mining ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.packhorse SkillManager ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.ranching ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.sailing ConfigSync' RPC - waiting for incoming connections
-Registered 'org.bepinex.plugins.servercharacters ConfigSync' RPC - waiting for incoming connections
-Registered 'Smart Skills ConfigSync' RPC - waiting for incoming connections
-Registered 'OdinHorse ConfigSync' RPC - waiting for incoming connections
-Registered 'Raelaziel.OdinHorse ItemManager ConfigSync' RPC - waiting for incoming connections
-Registered 'Raelaziel.OdinHorse PieceManager ConfigSync' RPC - waiting for incoming connections
-Registered 'Raelaziel.OdinHorse CreatureManager ConfigSync' RPC - waiting for incoming connections
-Registered 'RustyMods.Messenger ConfigSync' RPC - waiting for incoming connections
-Registered 'RustyMods.PortalTweaks ConfigSync' RPC - waiting for incoming connections
-Registered 'RustyMods.UsefulPaths ConfigSync' RPC - waiting for incoming connections
-Registered 'RustyMods.VikingNPC ConfigSync' RPC - waiting for incoming connections
-Registered 'shudnal.MyLittleUI ConfigSync' RPC - waiting for incoming connections
-Registered 'Soulcatcher ConfigSync' RPC - waiting for incoming connections
-Registered 'Soulcatcher ItemManager ConfigSync' RPC - waiting for incoming connections
-Registered 'TastyChickenLegs.AutomaticFuel ConfigSync' RPC - waiting for incoming connections
-Registered 'TastyChickenLegs.BetterCarts ConfigSync' RPC - waiting for incoming connections
-Registered 'warpalicious.SingleUseSwampKey ConfigSync' RPC - waiting for incoming connections
-Registered 'xyz.alcan.comfortcalc ConfigSync' RPC - waiting for incoming connections
-Registered 'xyz.alcan.comfortcalc ItemManager ConfigSync' RPC - waiting for incoming connections
-Registered 'Yggdrah.BetterRiding ConfigSync' RPC - waiting for incoming connections
-Registered 'Yggdrah.BetterRiding ItemManager ConfigSync' RPC - waiting for incoming connections
-Registered 'goldenrevolver.quick_stack_store ConfigSync' RPC - waiting for incoming connections
-Registered 'expand_world_rivers ConfigSync' RPC - waiting for incoming connections
-Registered 'expand_world_size ConfigSync' RPC - waiting for incoming connections
-To many renderers to create Visual Effects:Fader
-To many renderers to create Visual Effects:FallenValkyrie
-To many renderers to create Visual Effects:GoblinBruteBros
-To many renderers to create Visual Effects:GoblinBruteBros_nochest
-To many renderers to create Visual Effects:Morgen
-To many renderers to create Visual Effects:Morgen_NonSleeping
-To many renderers to create Visual Effects:staff_greenroots_tentaroot
-To many renderers to create Visual Effects:Volture
-[SHIP] Item already exists in Znet skipping: SailInk
-[SHIP] Item already exists in Znet skipping: CoalPaste
-[SHIP] Item already exists in Znet skipping: HelmetPirateBandana
-[SHIP] Item already exists in Znet skipping: HelmetPirateHat
-[SHIP] Item already exists in Znet skipping: SledgeAnchor
-[SHIP] Item already exists in Znet skipping: CapeSailor
-[SHIP] Item already exists in Znet skipping: ShieldSteering
-[SHIP] Item already exists in Znet skipping: SwordSaber
-ZNetScene_Awake_Patch ran
-[08/27/2024 12:26:34] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:26:34] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:26:34] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:26:35] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:26:35] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:26:35] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:26:35] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:26:35] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:26:35] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:26:35] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:26:35] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:26:35] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[08/27/2024 12:26:35] Loaded localization file #0 - 'localization' language: 'English'
-[08/27/2024 12:26:36] Loaded localization file #1 - 'localization_extra' language: 'English'
-[08/27/2024 12:26:36] Loaded localization file #2 - 'heightmap_message' language: 'English'
-[08/27/2024 12:26:36] Loaded localization file #3 - 'localization_hildir' language: 'English'
-[08/27/2024 12:26:36] Loaded localization file #4 - 'localization_emotes' language: 'English'
-[08/27/2024 12:26:36] Loaded localization file #5 - 'localization_ashlands' language: 'English'
-[Warning:Comfort Tweaks] GameObject: BatteringRam,PieceName: $tool_batteringram, Count: 1
-[Warning:Comfort Tweaks] GameObject: blackforge,PieceName: $piece_blackforge, Count: 1
-[Warning:Comfort Tweaks] GameObject: blastfurnace,PieceName: $piece_blastfurnace, Count: 1
-[Warning:Comfort Tweaks] GameObject: bonfire,PieceName: $piece_bonfire, Count: 2
-[Warning:Comfort Tweaks] GameObject: charcoal_kiln,PieceName: $piece_charcoalkiln, Count: 1
-[Warning:Comfort Tweaks] GameObject: charred_shieldgenerator,PieceName: $piece_shieldgenerator, Count: 1
-[Warning:Comfort Tweaks] GameObject: fire_pit,PieceName: $piece_firepit, Count: 1
-[Warning:Comfort Tweaks] GameObject: fire_pit_haldor,PieceName: $piece_firepit, Count: 1
-[Warning:Comfort Tweaks] GameObject: fire_pit_hildir,PieceName: $piece_firepit, Count: 1
-[Warning:Comfort Tweaks] GameObject: fire_pit_iron,PieceName: $piece_firepit_iron, Count: 1
-[Warning:Comfort Tweaks] GameObject: forge,PieceName: $piece_forge, Count: 1
-[Warning:Comfort Tweaks] GameObject: hearth,PieceName: $piece_hearth, Count: 1
-[Warning:Comfort Tweaks] GameObject: Karve,PieceName: $ship_karve, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_bathtub,PieceName: $piece_bathtub, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_brazierceiling01,PieceName: $piece_brazierceiling01, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_brazierfloor01,PieceName: $piece_brazierfloor01, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_brazierfloor02,PieceName: $piece_brazierfloor02, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_groundtorch_blue,PieceName: $piece_groundtorchblue, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_groundtorch_green,PieceName: $piece_groundtorchgreen, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_groundtorch_wood,PieceName: $piece_groundtorchwood, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_oven,PieceName: $piece_oven, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_walltorch,PieceName: $piece_sconce, Count: 1
-[Warning:Comfort Tweaks] GameObject: smelter,PieceName: $piece_smelter, Count: 1
-[Warning:Comfort Tweaks] GameObject: VikingShip,PieceName: $ship_longship, Count: 3
-[Warning:Comfort Tweaks] GameObject: VikingShip_Ashlands,PieceName: $ship_longship_ashlands, Count: 3
-[Warning:Comfort Tweaks] GameObject: forge_cart,PieceName: $piece_forge $tool_cart, Count: 1
-[Warning:Comfort Tweaks] GameObject: GB_Stone_Fireplace,PieceName: $GB_Stone_Fireplace, Count: 1
-[Warning:Comfort Tweaks] GameObject: GB_Hanging_Candles,PieceName: $GB_Hanging_Candles, Count: 1
-[Warning:Comfort Tweaks] GameObject: GB_Standing_Brazier,PieceName: $GB_Standing_Brazier, Count: 1
-[Warning:Comfort Tweaks] GameObject: GB_Standing_Torch,PieceName: $GB_Standing_Torch, Count: 1
-[Warning:Comfort Tweaks] GameObject: GB_Castle_Hearth,PieceName: $GB_Castle_Hearth, Count: 1
-[Warning:Comfort Tweaks] GameObject: GB_Fire_Pit,PieceName: $GB_Fire_Pit, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_chest_weaponrack,PieceName: Visual weapon shelf, Count: 6
-[Warning:Comfort Tweaks] GameObject: piece_iron_wall_torch,PieceName: Iron wall Torch, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_wisplampceiling,PieceName: Wisp lamp, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_scribetable,PieceName: Scribe Table, Count: 2
-[Warning:Comfort Tweaks] GameObject: Holk,PieceName: Holk, Count: 3
-[Warning:Comfort Tweaks] GameObject: Knarr,PieceName: Knarr, Count: 1
-[Warning:Comfort Tweaks] GameObject: Hearth_1x3_bal,PieceName: $piece_hearth 1x3, Count: 1
-[Warning:Comfort Tweaks] GameObject: Hearth_2x3_bal,PieceName: $piece_hearth 2x3, Count: 1
-[Warning:Comfort Tweaks] GameObject: Hearth_2x2_bal,PieceName: $piece_hearth 2x2, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_candlechandelier_bal,PieceName: Candle Cchandelier, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_crystal_walltorch_bal,PieceName: Crystal Sconce, Count: 1
-[Warning:Comfort Tweaks] GameObject: piece_crystalchandelier_bal,PieceName: Crystal chandelier, Count: 1
-[Warning:Comfort Tweaks] GameObject: runefire_bal,PieceName: Runefire, Count: 1
-[Warning:Comfort Tweaks] GameObject: flametal_ore_pile_bal,PieceName: Flametal Ore Pile, Count: 1
-[Warning:Comfort Tweaks] GameObject: sulfur_cauldron_bal,PieceName: Sulfur boiler, Count: 2
-[Warning:Comfort Tweaks] GameObject: food_smelter,PieceName: $food_smelter, Count: 1
-[Warning:Comfort Tweaks] GameObject: IG_Candle_Tray,PieceName: $IG_Candle_Tray, Count: 1
-[Warning:Comfort Tweaks] GameObject: IG_BrazierCeiling_1,PieceName: $IG_BrazierCeiling_1, Count: 2
-[Warning:Comfort Tweaks] GameObject: IG_BigBrazierCeiling,PieceName: $IG_BigBrazierCeiling, Count: 2
-[Warning:Comfort Tweaks] GameObject: IG_BigBrazierCeilingVanilla,PieceName: $IG_BigBrazierCeilingVanilla, Count: 1
-[Warning:Comfort Tweaks] GameObject: stone_throne_1,PieceName: $stone_throne_1, Count: 1
-[08/27/2024 12:26:41] Checking for installed DLCs
-[08/27/2024 12:26:41] DLC:beta installed:False
-ObjectDB_Awake_Patch ran
-[RecipeHandler] Added recipe: Recipe_RuneFocus
-Unloading 3259 unused Assets to reduce memory usage. Loaded Objects now: 555925.
-Total: 285.710900 ms (FindLiveObjects: 39.514400 ms CreateObjectMapping: 49.965900 ms MarkObjects: 178.238800 ms  DeleteObjects: 17.991700 ms)
-
-[08/27/2024 12:26:43] Zonesystem Start 2895
-[08/27/2024 12:26:43] Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
-[08/27/2024 12:26:43] Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
-[08/27/2024 12:26:43] Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
-[08/27/2024 12:26:43] Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
-[08/27/2024 12:26:43] Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
-[Warning:Expand World Data] Object / blueprint BlueprintLocation not found!
-[Warning:Expand World Data] Location prefab BlueprintLocation not found!
-ZoneSystem_Start_Patch ran
-Skipping BossStone_Yagluth
-Skipping BossStone_Bonemass
-Skipping BossStone_TheQueen
-Skipping BossStone_TheElder
-Skipping BossStone_Eikthyr
-Skipping BossStone_Fader
-Skipping BossStone_DragonQueen
-Cached water surface vertex order
-[08/27/2024 12:26:44] DungeonDB Start 2895
-[08/27/2024 12:26:54] ZRpc timeout set to 300s 
-[08/27/2024 12:26:54] ZNET START
-[08/27/2024 12:26:54] Load world: ValheimQOL (ValheimQOL)
-[08/27/2024 12:26:54] Loading 1122187 zdos, my sessionID: 1324367014, data version: 34
-[08/27/2024 12:26:54] Loading in ZDOs
-[08/27/2024 12:26:56] Adding to Dictionary
-[08/27/2024 12:26:56] Adding to Sectors
-[08/27/2024 12:26:56] Connecting Portals, Spawners & ZSyncTransforms
-ConnectPortals => Connected 9 portals.
-ConnectSpawners => Connected 0 spawners and 1163 'done' spawners.
-[08/27/2024 12:26:56] Loaded 23260 locations
-[08/27/2024 12:26:56] Unloading unused assets
-Unloading 3 Unused Serialized files (Serialized files now loaded: 1168)
-Am I Host? True
-[08/27/2024 12:26:57] Starting respawn
-[08/27/2024 12:26:57] Lobby was created k_EResultOK  109775241709019352  error:False
-[08/27/2024 12:26:57] Got requested lobby data
-[08/27/2024 12:26:57] Minimap: unpacking compressed mapData 18705 => 18874461 bytes
-[08/27/2024 12:26:58] tip:$loadscreen_tip11
-[08/27/2024 12:26:58] Got requested lobby data
-Unloading 85841 unused Assets to reduce memory usage. Loaded Objects now: 489550.
-Total: 496.596500 ms (FindLiveObjects: 41.470000 ms CreateObjectMapping: 49.536000 ms MarkObjects: 339.127300 ms  DeleteObjects: 66.463100 ms)
-
-[08/27/2024 12:27:01] Force generating hmap (1664.00, 0.00, -64.00)
-NullReferenceException: Object reference not set to an instance of an object
-  at PortalTweaks.Behaviors.PortalCharge.CanTeleport () [0x00014] in <f4f59625e6c542fd928ad7cbbdbc5f18>:0 
-  at PortalTweaks.Tweaks.Portal+TeleportWorld_HaveTarget_Patch.Postfix (TeleportWorld __instance, System.Boolean& __result) [0x00012] in <f4f59625e6c542fd928ad7cbbdbc5f18>:0 
-  at (wrapper dynamic-method) TeleportWorld.DMD<TeleportWorld::HaveTarget>(TeleportWorld)
-  at TeleportWorld.Awake () [0x00021] in <79989041713a40fba2973f1624473248>:0 
-UnityEngine.Object:Internal_InstantiateSingle_Injected(Object, Vector3&, Quaternion&)
-UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
-UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
-UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion)
-ZNetScene:CreateObject(ZDO)
-ZNetScene:CreateObjectsSorted(List`1, Int32, Int32&)
-ZNetScene:CreateObjects(List`1, List`1)
-ZNetScene:DMD<ZNetScene::CreateDestroyObjects>(ZNetScene)
-ZNetScene:Update()
-
-[08/27/2024 12:27:02] Missing location:-1377385494
-[08/27/2024 12:27:02] Missing location:-1377385494
-[08/27/2024 12:27:03] Vis equip model set to 1
-[08/27/2024 12:27:06] Spawned after 8.019994
-Caching server config
-Sending server config to 0 clients
-Caching server config
-Sending server config to 0 clients
-[08/27/2024 12:27:07] Skipping unloading unused assets
-[08/27/2024 12:27:07] Minimap: Adding unique location (-3.24, 55.17, -2.88)
-[08/27/2024 12:27:07] Minimap: Adding unique location (4178.90, 47.49, -2490.95)
-[08/27/2024 12:27:09] Starting music home
-[08/27/2024 12:27:09] Resumed music home at 0
-[08/27/2024 12:27:50] Got status changed msg k_ESteamNetworkingConnectionState_Connecting
-[08/27/2024 12:27:50] New connection
-[08/27/2024 12:27:50] Accepting connection k_EResultOK
-[08/27/2024 12:27:50] Connecting to Steamworks.SteamNetworkingIdentity
-[08/27/2024 12:27:50] Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
-Sending Valheim Configuration Manager version 1.0.17 and minimum version 1.0.17 to the client.
-Sending PlantEverything version 1.18.1 and minimum version 1.18.1 to the client.
-Sending Groups version 1.2.8 and minimum version 1.2.8 to the client.
-Sending AzuExtendedPlayerInventory version 1.4.3 and minimum version 1.4.3 to the client.
-Sending Jewelcrafting version 1.5.29 and minimum version 1.5.29 to the client.
-Sending org.bepinex.plugins.jewelcrafting ItemManager version 1.5.29 and minimum version 0.0.0 to the client.
-Sending org.bepinex.plugins.jewelcrafting PieceManager version 1.5.29 and minimum version 0.0.0 to the client.
-Sending AzuAntiArthriticCrafting version 1.5.6 and minimum version 1.5.6 to the client.
-Sending AzuAntiCheat version 4.3.8 and minimum version 4.3.8 to the client.
-Sending AzuMapDetails version 1.0.3 and minimum version 1.0.3 to the client.
-Sending Backpacks version 1.3.4 and minimum version 1.3.4 to the client.
-Sending org.bepinex.plugins.backpacks ItemManager version 1.3.4 and minimum version 0.0.0 to the client.
-Sending BowsBeforeHoes version 1.3.9 and minimum version 1.3.9 to the client.
-Sending Azumatt.BowsBeforeHoes ItemManager version 1.3.9 and minimum version 0.0.0 to the client.
-Sending CraftyCarts version 3.1.4 and minimum version 3.1.4 to the client.
-Sending Azumatt.CraftyCarts PieceManager version 3.1.4 and minimum version 0.0.0 to the client.
-Sending PetPantry version 1.0.2 and minimum version 1.0.2 to the client.
-Sending Recycle_N_Reclaim version 1.3.4 and minimum version 1.3.4 to the client.
-Sending SleepSkip version 1.2.0 and minimum version 1.2.0 to the client.
-Sending CombatOverhaulREwrite version 1.2.1 and minimum version 1.2.1 to the client.
-Sending VikingsDoSwim version 1.3.4 and minimum version 1.3.4 to the client.
-Sending WieldEquipmentWhileSwimming version 1.1.0 and minimum version 1.1.0 to the client.
-Sending SurtlingBoats version 2.0.7 and minimum version 2.0.7 to the client.
-Sending Expand World Data version 1.44 and minimum version 1.44 to the client.
-Sending Expand World Events version 1.8 and minimum version 1.8 to the client.
-Sending kg.ItemDrawers version 1.0.8 and minimum version 1.0.8 to the client.
-Sending kg.ItemDrawers PieceManager version 1.0.8 and minimum version 0.0.0 to the client.
-Sending OdinsKingdom version 1.2.26 and minimum version 1.2.26 to the client.
-Sending odinplus.plugins.odinskingdom ItemManager version 1.2.26 and minimum version 0.0.0 to the client.
-Sending odinplus.plugins.odinskingdom PieceManager version 1.2.26 and minimum version 0.0.0 to the client.
-Sending Blacksmithing version 1.3.0 and minimum version 1.3.0 to the client.
-Sending Building version 1.2.5 and minimum version 1.2.5 to the client.
-Sending Cooking version 1.1.16 and minimum version 1.1.16 to the client.
-Sending Darwin Awards version 1.0.6 and minimum version 1.0.6 to the client.
-Sending Exploration version 1.0.3 and minimum version 1.0.3 to the client.
-Sending Farming version 2.1.12 and minimum version 2.1.12 to the client.
-Sending Foraging version 1.0.9 and minimum version 1.0.9 to the client.
-Sending Lumberjacking version 1.0.5 and minimum version 0.0.0 to the client.
-Sending Mining version 1.1.5 and minimum version 1.1.5 to the client.
-Sending org.bepinex.plugins.packhorse SkillManager version 1.0.3 and minimum version 0.0.0 to the client.
-Sending Ranching version 1.1.3 and minimum version 1.1.3 to the client.
-Sending Sailing version 1.1.7 and minimum version 1.1.7 to the client.
-Sending Server Characters version 1.4.12 and minimum version 1.4.12 to the client.
-Sending Smart Skills version 1.0.2 and minimum version 1.0.2 to the client.
-Sending OdinHorse version 1.2.6 and minimum version 1.2.6 to the client.
-Sending Raelaziel.OdinHorse ItemManager version 1.2.6 and minimum version 0.0.0 to the client.
-Sending Raelaziel.OdinHorse PieceManager version 1.2.6 and minimum version 0.0.0 to the client.
-Sending Raelaziel.OdinHorse CreatureManager version 1.2.6 and minimum version 0.0.0 to the client.
-Sending Messenger version 1.0.1 and minimum version 1.0.1 to the client.
-Sending PortalTweaks version 1.0.1 and minimum version 1.0.1 to the client.
-Sending UsefulPaths version 1.0.3 and minimum version 1.0.3 to the client.
-Sending VikingNPC version 0.1.0 and minimum version 0.1.0 to the client.
-Sending My Little UI version 1.1.0 and minimum version 1.1.0 to the client.
-Sending Soulcatcher version 4.5.6 and minimum version 0.0.0 to the client.
-Sending Soulcatcher ItemManager version 4.5.6 and minimum version 0.0.0 to the client.
-Sending AutomaticFuel version 1.4.1 and minimum version 1.4.1 to the client.
-Sending BetterCarts version 1.0.7 and minimum version 1.0.7 to the client.
-Sending SingleUseSwampKey version 1.0.1 and minimum version 1.0.1 to the client.
-Sending Comfort Tweaks version 3.3.7 and minimum version 3.3.7 to the client.
-Sending xyz.alcan.comfortcalc ItemManager version 3.3.7 and minimum version 0.0.0 to the client.
-Sending BetterRiding version 1.0.5 and minimum version 1.0.5 to the client.
-Sending Yggdrah.BetterRiding ItemManager version 1.0.5 and minimum version 0.0.0 to the client.
-Sending Quick Stack - Store - Sort - Trash - Restock version 1.4.8 and minimum version 1.4.8 to the client.
-Sending Expand World Rivers version 1.9 and minimum version 1.9 to the client.
-Sending Expand World Size version 1.18 and minimum version 1.18 to the client.
-Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/MonoBleedingEdge/data-0000020AE20065F0.dll
-Received SleepSkip version 1.2.0 and minimum version 1.2.0 from the client.
-Received CombatOverhaulREwrite version 1.2.1 and minimum version 1.2.1 from the client.
-Received Expand World Data version 1.44 and minimum version 1.44 from the client.
-Received Expand World Events version 1.8 and minimum version 1.8 from the client.
-Received kg.ItemDrawers version 1.0.8 and minimum version 1.0.8 from the client.
-Received Expand World Rivers version 1.9 and minimum version 1.9 from the client.
-Received Expand World Size version 1.18 and minimum version 1.18 from the client.
-[08/27/2024 12:27:50] Got handshake from client 76561198047090892
-RuneMagic version check: theirs 1.2.0  mine 1.2.0
-Version matched
-[08/27/2024 12:27:50] Got status changed msg k_ESteamNetworkingConnectionState_Connected
-[08/27/2024 12:27:50] Network version check, their:27, mine:27
-[08/27/2024 12:27:50] Server: New peer connected,sending global keys
-Caching server config
-Sending server config to 1 clients
-[08/27/2024 12:28:16] Got character ZDOID from Son Of Onin : 623946710:44
-[08/27/2024 12:32:40] Update PlayFab entity token
-[08/27/2024 12:35:57] Considering autobackup. World time: 523.24, short time: 7200, long time: 43200, backup count: 4
-[08/27/2024 12:35:57] Skipping backup. World session not long enough.
-[08/27/2024 12:35:58] RPC_Disconnect
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('attach' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-Renderer 'attach' is registered with more than one LODGroup ('Boletus_edulis01' and 'attach').
-[08/27/2024 12:35:58] Considering autobackup. World time: 523.4, short time: 7200, long time: 43200, backup count: 4
-[08/27/2024 12:35:58] Skipping backup. World session not long enough.
-[08/27/2024 12:35:58] Destroying abandoned non persistent zdo 623946710:38 owner 623946710
-[08/27/2024 12:35:58] Destroying abandoned non persistent zdo 623946710:36 owner 623946710
-[08/27/2024 12:35:58] Destroying abandoned non persistent zdo 623946710:91 owner 623946710
-[08/27/2024 12:35:58] Destroying abandoned non persistent zdo 623946710:45 owner 623946710
-[08/27/2024 12:35:58] Destroying abandoned non persistent zdo 623946710:44 owner 623946710
-[08/27/2024 12:35:58] Destroying abandoned non persistent zdo 623946710:37 owner 623946710
-[08/27/2024 12:35:58] Disposing socket
-[08/27/2024 12:35:58] Closing socket 76561198047090892
-[08/27/2024 12:35:58]   send queue size:0
-[08/27/2024 12:35:58] Disposing socket
-[Warning:Better Networking] Compression: Tried to remove non-existent peer: [null]
-[08/27/2024 12:35:58] Got status changed msg k_ESteamNetworkingConnectionState_None
-[08/27/2024 12:36:50] Starting music evening
-[08/27/2024 12:36:51] Stopped music home at 1251732
-[08/27/2024 12:37:01] Spawned FireFlies x 1
-[08/27/2024 12:37:22] Spawned FireFlies x 1
-[08/27/2024 12:37:37] Starting music home
-[08/27/2024 12:37:37] Resumed music home at 1251732
-[08/27/2024 12:37:43] Spawned FireFlies x 1
-[08/27/2024 12:38:15] Spawned Greydwarf_Elite x 1
-[08/27/2024 12:38:26] Spawned Greydwarf_Shaman x 1
-[08/27/2024 12:39:09] Spawned FireFlies x 1
-[08/27/2024 12:39:31] Spawned FireFlies x 1
-[08/27/2024 12:39:52] Spawned FireFlies x 1
-[08/27/2024 12:41:19] Spawned FireFlies x 1
-[08/27/2024 12:41:26] Minimap: Adding unique location (1252.75, 680400.00, 5162.55)
-[08/27/2024 12:41:40] Spawned FireFlies x 1
-[08/27/2024 12:42:02] Spawned FireFlies x 1
-[08/27/2024 12:43:28] Spawned FireFlies x 1
-[08/27/2024 12:43:50] Spawned FireFlies x 1
-[08/27/2024 12:44:11] Spawned FireFlies x 1
-[08/27/2024 12:45:37] Spawned FireFlies x 1
-[08/27/2024 12:46:06] Starting music morning
-[08/27/2024 12:46:07] Stopped music home at 7438744
-[08/27/2024 12:46:41] Starting music home
-[08/27/2024 12:46:41] Resumed music home at 7438744
-[08/27/2024 12:46:57] Update PlayFab entity token
-Am I Host? True
-[08/27/2024 12:56:15] Available space to current user: 198671740928. Saving is blocked if below: 101584522 bytes. Warnings are given if below: 203169044
-[08/27/2024 12:56:15] Minimap: compressed mapData 18874461 => 18705 bytes
-[08/27/2024 12:56:15] Considering autobackup. World time: 1709.14, short time: 7200, long time: 43200, backup count: 4
-[08/27/2024 12:56:15] No autobackup needed yet...
-[08/27/2024 12:56:15] Sending message to save player profiles
-[08/27/2024 12:56:22] World save writing starting
-[08/27/2024 12:56:22] World save writing started
-[08/27/2024 12:56:26] Saved 1122184 ZDOs
-[08/27/2024 12:56:26] World save writing finishing
-[08/27/2024 12:56:26] World save writing finished
-[08/27/2024 12:56:26] World saved ( 3992.4228ms )
-[08/27/2024 12:56:26] Considering autobackup. World time: 1720.08, short time: 7200, long time: 43200, backup count: 4
-[08/27/2024 12:56:26] Overwrite our newest autobackup since the second one isn't so old
-[08/27/2024 12:56:26] Replacing backup file: ValheimQOL_backup_auto-20240827094413
-[08/27/2024 12:56:26] Saving backup at: ValheimQOL_backup_auto-20240827125622
-[08/27/2024 12:56:26] World auto backup saved ( 00:00:00.0346113ms )
-Am I Host? True
-[08/27/2024 13:07:30] Update PlayFab entity token
-[08/27/2024 13:07:38] Starting music evening
-[08/27/2024 13:07:39] Stopped music home at 5959017
-[08/27/2024 13:07:54] Spawned FireFlies x 1
-[08/27/2024 13:08:16] Spawned FireFlies x 1
-[08/27/2024 13:08:25] Starting music home
-[08/27/2024 13:08:25] Resumed music home at 5959017
-[08/27/2024 13:08:37] Spawned FireFlies x 1
-[08/27/2024 13:08:43] Spawned Greydwarf_Shaman x 1
-[08/27/2024 13:10:04] Spawned FireFlies x 1
-[08/27/2024 13:10:25] Spawned FireFlies x 1
-[08/27/2024 13:10:47] Spawned FireFlies x 1
-[08/27/2024 13:12:13] Spawned FireFlies x 1
-[08/27/2024 13:12:35] Spawned FireFlies x 1
-[08/27/2024 13:12:56] Spawned FireFlies x 1
-[08/27/2024 13:14:22] Spawned FireFlies x 1
-[08/27/2024 13:14:44] Spawned FireFlies x 1
-[08/27/2024 13:15:05] Spawned FireFlies x 1
-[08/27/2024 13:15:31] Spawned Greydwarf_Elite x 1
-[08/27/2024 13:16:32] Spawned FireFlies x 1
-[08/27/2024 13:16:53] Spawned FireFlies x 1
-[08/27/2024 13:16:54] Starting music morning
-[08/27/2024 13:16:55] Stopped music home at 4000739
-[08/27/2024 13:17:29] Starting music home
-[08/27/2024 13:17:29] Resumed music home at 4000739
-[08/27/2024 13:23:04] Update PlayFab entity token
-Am I Host? True
-[08/27/2024 13:26:15] Available space to current user: 198363619328. Saving is blocked if below: 101526212 bytes. Warnings are given if below: 203052424
-[08/27/2024 13:26:15] Minimap: compressed mapData 18874461 => 18705 bytes
-[08/27/2024 13:26:15] Considering autobackup. World time: 3462.4, short time: 7200, long time: 43200, backup count: 4
-[08/27/2024 13:26:15] No autobackup needed yet...
-[08/27/2024 13:26:15] Sending message to save player profiles
-[08/27/2024 13:26:23] World save writing starting
-[08/27/2024 13:26:23] World save writing started
-[08/27/2024 13:26:26] Saved 1122184 ZDOs
-[08/27/2024 13:26:26] World save writing finishing
-[08/27/2024 13:26:26] World save writing finished
-[08/27/2024 13:26:26] World saved ( 3781.8965ms )
-[08/27/2024 13:26:26] Considering autobackup. World time: 3473.34, short time: 7200, long time: 43200, backup count: 4
-[08/27/2024 13:26:26] No autobackup needed yet...
-Am I Host? True
-[08/27/2024 13:28:36] Unloading unused assets
-[08/27/2024 13:38:26] Starting music evening
-[08/27/2024 13:38:27] Spawned FireFlies x 1
-[08/27/2024 13:38:27] Stopped music home at 2516308
-[08/27/2024 13:38:48] Spawned FireFlies x 1
-[08/27/2024 13:38:59] Spawned Greydwarf_Shaman x 1
-[08/27/2024 13:39:10] Spawned FireFlies x 1
-[08/27/2024 13:39:13] Starting music home
-[08/27/2024 13:39:13] Resumed music home at 2516308
-[08/27/2024 13:40:36] Spawned FireFlies x 1
-[08/27/2024 13:40:58] Spawned FireFlies x 1
-[08/27/2024 13:41:19] Spawned FireFlies x 1
-[08/27/2024 13:42:26] Spawned Greydwarf_Elite x 1
-[08/27/2024 13:43:07] Spawned FireFlies x 1
-[08/27/2024 13:43:11] Update PlayFab entity token
-[08/27/2024 13:43:29] Spawned FireFlies x 1
-[08/27/2024 13:43:50] Spawned FireFlies x 1
-[08/27/2024 13:45:16] Spawned FireFlies x 1
-[08/27/2024 13:45:38] Spawned FireFlies x 1
-[08/27/2024 13:45:59] Spawned FireFlies x 1
-[08/27/2024 13:47:26] Spawned FireFlies x 1
-[08/27/2024 13:47:42] Starting music morning
-[08/27/2024 13:47:43] Stopped music home at 558030
-[08/27/2024 13:48:17] Starting music home
-[08/27/2024 13:48:17] Resumed music home at 558030
-Am I Host? True
-[08/27/2024 13:56:15] Available space to current user: 198359822336. Saving is blocked if below: 101526212 bytes. Warnings are given if below: 203052424
-[08/27/2024 13:56:15] Minimap: compressed mapData 18874461 => 18705 bytes
-[08/27/2024 13:56:15] Considering autobackup. World time: 5215.7, short time: 7200, long time: 43200, backup count: 4
-[08/27/2024 13:56:15] Time to overwrite our last autobackup
-[08/27/2024 13:56:15] Replacing backup file: sir beer qol_backup_auto-20240826041735
-[08/27/2024 13:56:15] Saving backup at: sir beer qol_backup_auto-20240827135615
-[08/27/2024 13:56:15] Sending message to save player profiles
-[08/27/2024 13:56:22] World save writing starting
-[08/27/2024 13:56:22] World save writing started
-[08/27/2024 13:56:26] Saved 1122183 ZDOs
-[08/27/2024 13:56:26] World save writing finishing
-[08/27/2024 13:56:26] World save writing finished
-[08/27/2024 13:56:26] World saved ( 3793.5191ms )
-[08/27/2024 13:56:26] Considering autobackup. World time: 5226.52, short time: 7200, long time: 43200, backup count: 4
-[08/27/2024 13:56:26] No autobackup needed yet...
-Am I Host? True
-[08/27/2024 13:58:21] Update PlayFab entity token
-[08/27/2024 14:09:14] Starting music evening
-[08/27/2024 14:09:15] Spawned Greydwarf_Shaman x 1
-[08/27/2024 14:09:15] Stopped music home at 7206659
-[08/27/2024 14:09:20] Spawned FireFlies x 1
-[08/27/2024 14:09:21] Spawned Greydwarf_Elite x 1
-[08/27/2024 14:09:41] Spawned FireFlies x 1
-[08/27/2024 14:10:01] Starting music home
-[08/27/2024 14:10:01] Resumed music home at 7206659
-[08/27/2024 14:10:03] Spawned FireFlies x 1
-[08/27/2024 14:11:29] Spawned FireFlies x 1
-[08/27/2024 14:11:51] Spawned FireFlies x 1
-[08/27/2024 14:12:12] Spawned FireFlies x 1
-[08/27/2024 14:13:38] Spawned FireFlies x 1
-[08/27/2024 14:14:00] Spawned FireFlies x 1
-[08/27/2024 14:14:22] Spawned FireFlies x 1
-[08/27/2024 14:15:48] Spawned FireFlies x 1
-[08/27/2024 14:16:09] Spawned FireFlies x 1
-[08/27/2024 14:16:31] Spawned FireFlies x 1
-[08/27/2024 14:17:13] Update PlayFab entity token
-[08/27/2024 14:17:57] Spawned FireFlies x 1
-[08/27/2024 14:18:19] Spawned FireFlies x 1
-[08/27/2024 14:18:30] Starting music morning
-[08/27/2024 14:18:31] Stopped music home at 5252144
-[08/27/2024 14:19:05] Starting music home
-[08/27/2024 14:19:05] Resumed music home at 5252144
-Am I Host? True
-[08/27/2024 14:26:15] Available space to current user: 198363201536. Saving is blocked if below: 101526016 bytes. Warnings are given if below: 203052032
-[08/27/2024 14:26:15] Minimap: compressed mapData 18874461 => 18705 bytes
-[08/27/2024 14:26:15] Considering autobackup. World time: 6968.92, short time: 7200, long time: 43200, backup count: 4
-[08/27/2024 14:26:15] No autobackup needed yet...
-[08/27/2024 14:26:15] Sending message to save player profiles
-[08/27/2024 14:26:22] World save writing starting
-[08/27/2024 14:26:22] World save writing started
-[08/27/2024 14:26:26] Saved 1122183 ZDOs
-[08/27/2024 14:26:26] World save writing finishing
-[08/27/2024 14:26:26] World save writing finished
-[08/27/2024 14:26:26] World saved ( 4036.1639ms )
-[08/27/2024 14:26:26] Considering autobackup. World time: 6979.9, short time: 7200, long time: 43200, backup count: 4
-[08/27/2024 14:26:26] No autobackup needed yet...
-Am I Host? True
-[08/27/2024 14:30:12] Unloading unused assets
-[08/27/2024 14:34:16] Update PlayFab entity token
-[08/27/2024 14:40:02] Starting music evening
-[08/27/2024 14:40:03] Stopped music home at 3768654
-[08/27/2024 14:40:14] Spawned FireFlies x 1
-[08/27/2024 14:40:34] Spawned Greydwarf_Shaman x 1
-[08/27/2024 14:40:36] Spawned FireFlies x 1
-[08/27/2024 14:40:49] Starting music home
-[08/27/2024 14:40:49] Resumed music home at 3768654
-[08/27/2024 14:40:57] Spawned FireFlies x 1
-[08/27/2024 14:42:23] Spawned FireFlies x 1
-[08/27/2024 14:42:29] Spawned Greydwarf_Elite x 1
-[08/27/2024 14:42:45] Spawned FireFlies x 1
-[08/27/2024 14:43:07] Spawned FireFlies x 1
-[08/27/2024 14:44:33] Spawned FireFlies x 1
-[08/27/2024 14:44:38] Minimap: Adding unique location (-7828.51, 687600.00, 5466.58)
-[08/27/2024 14:44:54] Spawned FireFlies x 1
-[08/27/2024 14:45:16] Spawned FireFlies x 1
-[08/27/2024 14:46:42] Spawned FireFlies x 1
-[08/27/2024 14:47:04] Spawned FireFlies x 1
-[08/27/2024 14:47:25] Spawned FireFlies x 1
-[08/27/2024 14:48:51] Spawned FireFlies x 1
-[08/27/2024 14:49:13] Spawned FireFlies x 1
-[08/27/2024 14:49:18] Starting music morning
-[08/27/2024 14:49:19] Stopped music home at 1814139
-[08/27/2024 14:49:53] Starting music home
-[08/27/2024 14:49:53] Resumed music home at 1814139
-[08/27/2024 14:52:17] Update PlayFab entity token
+[09/10/2024 18:43:06] PlayFab logged in as "Steam_76561198287391004"
+[09/10/2024 18:43:06] PlayFab local entity ID is 70233478553F7572
+[09/10/2024 18:43:17] show character selection
+[09/10/2024 18:43:18] OnCharacterStart
